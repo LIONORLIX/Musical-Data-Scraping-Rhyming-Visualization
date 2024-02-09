@@ -1,0 +1,100 @@
+S ER1 M AH0 N 
+S EY1 
+W ER1 M 
+K L IY0 SH EY1 
+SH ER1 K 
+P ER1 K 
+D EY1 
+W ER1 K 
+D IH1 N ER0 
+F R IY1 
+D IH1 N ER0 
+T R IY1 
+R IH0 P IY1 T 
+S T R IY1 T 
+G R OW1 S ER0 IY0 Z 
+---siree's---
+D AA1 L ER0 
+TH IH1 NG K 
+---sirloin---
+K L IH1 NG K 
+B ER1 D 
+T W IH1 G 
+B AO1 R D 
+---cig---
+M AE1 N 
+JH IH1 G 
+B IY1 
+JH IY1 
+D IH1 G 
+D IH1 N ER0 
+D IH1 G 
+D IH1 N ER0 
+F R IY1 
+D IH1 N ER0 
+T R IY1 
+R IH0 P IY1 T 
+S T R IY1 T 
+G R OW1 S ER0 IY0 Z 
+---siree's---
+D AA1 L ER0 
+TH IH1 NG K 
+---sirloin---
+K L IH1 NG K 
+B ER1 D 
+T W IH1 G 
+B AO1 R D 
+---cig---
+M AE1 N 
+JH IH1 G 
+B IY1 
+JH IY1 
+D IH1 G 
+D IH1 N ER0 
+D IH1 G 
+R AY1 T 
+S ER1 M AH0 N 
+P R IY1 CH 
+S EY1 
+S EY1 
+AH1 
+W ER1 M 
+K L IY0 SH EY1 
+R AY1 T 
+SH ER1 K 
+P ER1 K 
+---troo---
+M AE1 N 
+M IY1 
+W IH1 K AH0 D 
+M AE1 D 
+W EY1 
+R UW1 M 
+L AY1 T 
+B IY1 T 
+R AY1 CH AH0 S 
+M AE1 N 
+D EY1 
+W ER1 K 
+D IH1 N ER0 
+F R IY1 
+D IH1 N ER0 
+T R IY1 
+R IH0 P IY1 T 
+S T R IY1 T 
+G R OW1 S ER0 IY0 Z 
+---siree's---
+D AA1 L ER0 
+TH IH1 NG K 
+---sirloin---
+K L IH1 NG K 
+B ER1 D 
+T W IH1 G 
+B AO1 R D 
+---cig---
+M AE1 N 
+JH IH1 G 
+B IY1 
+JH IY1 
+D IH1 G 
+D IH1 N ER0 

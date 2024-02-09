@@ -1,0 +1,41 @@
+S EH1 Z 
+HH AA1 R D 
+S EY1 
+T AY1 T 
+B AA1 D IY0 G AA2 R D 
+HH AA1 R T 
+HH AA1 R T 
+HH AA1 R T 
+S M AY1 L 
+S EH1 Z 
+M IY1 N 
+S EY1 
+G R IY1 N 
+OW1 
+HH AA1 R T 
+HH AA1 R T 
+HH AA1 R T 
+S M AY1 L 
+EY1 N JH AH0 L 
+M AY1 K AH0 L 
+TH R IY1 
+AH0 
+M AY1 K AH0 L 
+K IH1 NG Z 
+S IY1 
+AH0 G R IY1 
+S EH1 Z 
+R EY1 N 
+S EY1 
+P EY1 N 
+HH AA1 R T 
+HH AA1 R T 
+HH AA1 R T 
+OW1 
+---ohoh---
+---ohoh---
+OW1 
+S M AY1 L 
+S M AY1 L 
+S M AY1 L 
+HH ER0 

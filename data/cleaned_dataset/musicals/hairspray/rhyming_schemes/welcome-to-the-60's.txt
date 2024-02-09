@@ -1,0 +1,113 @@
+M AA1 M AH0 
+ER0 AW1 N D 
+S AW1 N D 
+M AA1 M AH0 
+M IY1 
+Y UW1 
+F R IY1 
+N AW1 
+HH AA1 R T 
+N AW1 
+S T AA1 R T 
+---60's---
+OW1 
+---60's---
+OW1 
+G OW1 
+---60's---
+OW1 
+M AA1 M AH0 
+Y AE1 
+Y AE1 
+M AA1 M AH0 
+HH AE1 N D 
+S T AA1 P 
+S T AE1 N D 
+M AA1 M AH0 
+CH AE1 N S 
+Y IH1 R Z 
+D AE1 N S 
+N AW1 
+AY1 Z 
+W ER1 L D Z 
+N AW1 
+R EY1 S 
+P R AY1 Z 
+---60's---
+OW1 
+---60's---
+OW1 
+G OW1 
+---60's---
+OW1 
+M AA1 M AH0 
+Y AE1 
+Y AE1 
+HH AY1 D AH0 W EY2 
+AO1 T AH0 G R AE2 F S 
+D EY1 
+F IH1 R Z 
+AH0 W EY1 
+S T AE1 F 
+D UW1 
+S T AA1 R 
+Y UW1 
+N OW1 B AA2 D IY2 
+F AH1 N 
+L IH1 P S T IH2 K 
+W AH1 N 
+R OW1 D Z 
+CH UW1 Z 
+T AO1 L ER0 
+SH UW1 Z 
+S T AY1 L 
+Y UW1 
+F R EH1 SH 
+N UW1 
+AW1 T 
+SH AW1 T 
+K Y UW1 
+Y AE1 
+N UW1 
+B EY1 B IY0 
+M IY1 
+---chickie---
+S IY1 
+B EY1 B IY0 
+AH1 S 
+T IY1 M 
+F AE1 B Y AH0 L AH0 S 
+P IH1 NG K IY0 
+AA0 N S AA1 M B AH0 L 
+N AW1 
+R AY1 D 
+N AW1 
+AH0 S AY1 D 
+---60's---
+OW1 
+---60's---
+OW1 
+G OW1 
+---60's---
+D AO1 R 
+M AO1 R 
+S T AA1 R 
+G OW1 
+AW1 T F IH2 T 
+---60's---
+OW1 
+---60's---
+OW1 
+G OW1 
+---60's---
+---0---
+EH1 S 
+---60's---
+R IH1 F S 
+---60's---
+R IH1 F S 
+---60's---
+G OW1 
+OW1 
+OW1 
+OW1 

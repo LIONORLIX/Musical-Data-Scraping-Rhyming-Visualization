@@ -1,0 +1,59 @@
+S AE1 M ER0 AH0 
+S AE1 M ER0 AH0 
+N AA1 
+N AA1 
+M IY1 
+F EH1 L IH0 Z 
+M EH1 N T 
+M EH1 N T 
+---conocido---
+---conocido---
+S AE1 M ER0 AH0 
+S AE1 M ER0 AH0 
+N AA1 
+N AA1 
+OW1 L D ER0 
+OW1 L D ER0 
+M IY1 
+F EH1 L IH0 Z 
+---pueda---
+B EY1 L ER0 
+---pueda---
+B EY1 L ER0 
+EH1 K S T R AH0 
+---queriendo---
+S EY1 D OW0 
+L AA1 N OW0 
+L IY1 B R AH0 
+OW1 L D ER0 
+M IY1 
+F EH1 L IH0 Z 
+L IY1 B R AH0 
+---pueda---
+B EY1 L ER0 
+L IY1 B R AH0 
+---pueda---
+B EY1 L ER0 
+L IY1 B R AH0 
+JH IY1 N 
+---pueda---
+JH IY1 N 
+B EY1 L ER0 
+JH IY1 N 
+---pueda---
+JH IY1 N 
+B EY1 L ER0 
+L IY1 B R AH0 
+B EY1 L ER0 
+L IY1 B R AH0 
+---pueda---
+B EY1 L ER0 
+L IY1 B R AH0 
+---pueda---
+B EY1 L ER0 
+------
+L IY1 B R AH0 
+---pueda---
+B EY1 L ER0 
+L IY1 B R AH0 
+---pueda---

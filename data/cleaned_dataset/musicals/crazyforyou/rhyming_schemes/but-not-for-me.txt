@@ -1,0 +1,20 @@
+L AH1 V 
+M IY1 
+AH0 B AH1 V 
+M IY1 
+W EY1 
+G R EY1 
+P L EY1 
+G EH2 R AH0 N T IY1 
+F EY1 L 
+W EY1 
+AH0 L AE1 S 
+---lackaday---
+D IH0 S M IH1 S 
+K IH1 S 
+S W EH1 L 
+P R IY0 T EH1 N D 
+W EH1 L 
+EH1 N D 
+P L AA1 T 
+N AA1 T 

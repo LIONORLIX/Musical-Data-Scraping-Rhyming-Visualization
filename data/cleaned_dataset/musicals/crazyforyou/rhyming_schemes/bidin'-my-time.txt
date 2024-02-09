@@ -1,0 +1,13 @@
+T AY1 M 
+AY1 M 
+D IH1 Z IY0 
+B IH1 Z IY0 
+T AY1 M 
+Y IH1 R 
+N AE1 P K IH0 N 
+Y IH1 R 
+N AE1 P K IH0 N 
+T AY1 M 
+AY1 M 
+---regrettin---
+S EH1 T IH0 NG 

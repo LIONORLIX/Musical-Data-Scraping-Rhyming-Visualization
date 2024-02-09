@@ -1,0 +1,33 @@
+N IH1 R 
+R IH1 R 
+---cornpone---
+---pone---
+F IH1 R 
+D AW1 T 
+R AW1 T 
+---cornpone---
+---pone---
+AW1 T 
+D IH0 F IY1 T 
+IY1 T 
+---cornpone---
+---pone---
+S IY1 T 
+HH AH0 R EY1 
+M AH1 N TH S 
+W AH1 N S 
+---pone---
+---dunce---
+R IH1 R 
+Y IH1 R 
+---cornpone---
+---pone---
+M AW1 N T IH0 N IH2 R 
+G R EY1 T 
+S T EY1 T 
+---cornpone---
+---pone---
+W EY1 T 
+F R EY1 
+M AE1 CH 
+---cornpone---

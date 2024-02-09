@@ -1,0 +1,16 @@
+M AA1 M AH0 
+Y UW1 
+D UW1 
+R AY1 T 
+D UW1 
+M IY1 
+T UW1 
+W IH1 DH 
+Y UW1 
+R AY1 T 
+D UW1 
+B EY1 B IY0 
+SH UH1 R 
+W IH1 DH 
+D AO1 R 
+R AY1 T 

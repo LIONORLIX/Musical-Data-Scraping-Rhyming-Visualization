@@ -1,0 +1,24 @@
+D EY1 
+M EY1 
+S EY1 
+W EY1 
+G ER1 L 
+G ER1 L 
+M IY1 
+T R IY1 Z 
+S EY1 
+W EY1 
+G ER1 L 
+G ER1 L 
+HH EY1 
+HH EY1 
+UW1 
+F EY1 M 
+K L EY1 M 
+S EY1 
+W EY1 
+G ER1 L 
+G ER1 L 
+D EY1 
+G ER1 L 
+M EY1 

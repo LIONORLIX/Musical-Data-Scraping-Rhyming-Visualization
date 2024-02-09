@@ -1,0 +1,5 @@
+CH EH1 R 
+DH EH1 R 
+HH AW1 S 
+HH OW1 M 
+T AY1 T 

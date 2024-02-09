@@ -1,0 +1,47 @@
+B AE1 K 
+HH AE1 K 
+S AE1 K 
+B OY1 
+HH AA1 R M 
+F AA1 R M 
+CH AA1 R M 
+B OY1 
+F IH1 D AH0 L 
+---griddle---
+R IH1 D AH0 L 
+B OY1 
+L OW1 
+B AW1 
+L OW1 
+B OY1 
+K UH1 D 
+G UH1 D 
+SH UH1 D 
+B OY1 
+F IH1 D AH0 L 
+---griddle---
+R IH1 D AH0 L 
+B OY1 
+JH UW1 AH0 L Z 
+F UW1 L Z 
+T UW1 L Z 
+B OY1 
+L IH1 M AH0 Z IY2 N 
+K IY1 N 
+M IY1 N 
+B OY1 
+F IH1 D AH0 L 
+---griddle---
+R IH1 D AH0 L 
+B OY1 
+D AY1 D 
+S AY1 D 
+P R AY1 D 
+B OY1 
+W IH1 T AH0 L 
+F IH1 D AH0 L 
+L IH1 T AH0 L 
+B OY1 
+F IH1 D AH0 L 
+---griddle---
+R IH1 D AH0 L 

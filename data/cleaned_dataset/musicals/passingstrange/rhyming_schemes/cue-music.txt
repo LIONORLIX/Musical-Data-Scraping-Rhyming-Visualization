@@ -1,0 +1,10 @@
+P AE1 TH 
+F AA1 R 
+D IH1 D 
+AA1 R 
+R AY1 T 
+R AY1 T 
+R AY1 T 
+R AY1 T 
+R AY1 T 
+R AY1 T 

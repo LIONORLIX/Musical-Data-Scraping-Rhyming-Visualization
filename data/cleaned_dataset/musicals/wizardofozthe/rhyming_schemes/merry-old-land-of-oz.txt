@@ -1,0 +1,21 @@
+L AA1 S 
+AA1 Z 
+D AE1 S 
+AA1 Z 
+W AH1 N 
+D AH1 N 
+F AH1 N 
+L AA1 S 
+AA1 Z 
+S T R AO1 Z 
+AA1 Z 
+B R AE1 S 
+AA1 Z 
+F R AW1 N 
+AH1 HH AH1 
+T AW1 N 
+K L AO1 Z 
+AA1 Z 
+HH OW1 
+AA1 Z 
+HH AA1 

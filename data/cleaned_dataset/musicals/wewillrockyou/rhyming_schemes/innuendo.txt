@@ -1,0 +1,9 @@
+S AE1 N D 
+L AE1 N D 
+R EY1 N B OW2 
+P L EY1 N 
+T R AY1 IH0 N 
+L AY1 N 
+Y AE1 
+T AY1 M 
+T AY1 M 

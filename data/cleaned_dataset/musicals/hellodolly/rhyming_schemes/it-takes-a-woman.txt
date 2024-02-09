@@ -1,0 +1,51 @@
+---vandergelder---
+P IH1 NG K 
+S IH1 NG K 
+L AE1 SH IH0 Z 
+F IH1 NG G ER0 Z 
+AE1 SH AH0 Z 
+K AH1 S T AH0 M ER0 Z 
+W UH1 M AH0 N 
+W UH1 M AH0 N 
+W AY1 F 
+W UH1 M AH0 N 
+W UH1 M AH0 N 
+L AY1 F 
+---vandergelder---
+DH EH1 R 
+M EH1 R 
+T EY1 B AH0 L 
+G ER1 N Z IY0 
+S T EY1 B AH0 L 
+AO1 L 
+W UH1 M AH0 N 
+W UH1 M AH0 N 
+W AY1 F 
+W UH1 M AH0 N 
+W UH1 M AH0 N 
+L AY1 F 
+IH0 N F IH1 N AH0 T IY0 
+F EH2 M AH0 N IH1 N AH0 T IY0 
+R AA1 
+W AY1 
+---vandergelder---
+W AY1 
+HH IY1 R 
+AY1 S 
+M AY1 S 
+S P IY1 K IH0 NG 
+L IY1 K IH0 NG 
+B AA1 R N AH0 B IY0 
+W UH1 M AH0 N 
+W UH1 M AH0 N 
+W AY1 F 
+W UH1 M AH0 N 
+---vandergelder---
+W UH1 M AH0 N 
+B AA1 R N AH0 B IY0 
+L AY1 F 
+AO1 L 
+W UH1 M AH0 N 
+W UH1 M AH0 N 
+W AY1 F 
+W UH1 M AH0 N 

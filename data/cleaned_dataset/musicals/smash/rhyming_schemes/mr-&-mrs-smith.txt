@@ -1,0 +1,57 @@
+P IY1 S 
+N EY1 M Z 
+R IY0 L IY1 S 
+G EY1 M Z 
+S W IY1 T 
+F AY1 N 
+M IY1 T 
+IH1 Z 
+S M IH1 TH 
+D AO1 R 
+W AH1 T 
+F AO1 R 
+Y EH1 S 
+B OW1 TH 
+V Y UW1 
+DH EH1 R Z 
+M IH1 S IH0 Z 
+AY1 V IY0 
+M IH1 S T ER0 
+B OW1 TH 
+M IY1 
+P R AH0 V AY1 D Z 
+T UW1 
+K L AE1 S AH0 F AY2 D 
+D UW1 
+---&nbsp---
+T R AH1 S T 
+HH AY1 D AH0 W EY2 
+JH AH1 S T 
+S M IH1 TH 
+D AO1 R 
+N AY1 T 
+CH AO1 R Z 
+Y AE1 
+B OW1 TH 
+V Y UW1 
+DH EH1 R Z 
+---&nbsp---
+---&nbsp---
+M IH1 S T ER0 
+---&nbsp---
+---&nbsp---
+---&nbsp---
+K AO1 L Z 
+P R EH0 M IH1 R Z 
+TH IY1 M 
+N AY1 T S 
+OW1 N 
+T IY1 M 
+S IY1 N 
+HH IY1 R 
+S K R IY1 N 
+Y EH1 S 
+D IH2 S AH0 P IH1 R 
+AH1 V 
+M IH1 S T ER0 
+M IH1 S IH0 Z 

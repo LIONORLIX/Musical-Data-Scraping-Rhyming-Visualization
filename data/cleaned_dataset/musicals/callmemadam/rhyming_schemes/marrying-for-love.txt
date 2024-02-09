@@ -1,0 +1,23 @@
+---constantins---
+L IH1 V Z 
+S T AY1 L 
+W AY1 V Z 
+W EH1 L TH IY0 
+G L AH1 V 
+M AH1 N IY0 
+L AH1 V 
+L AH1 V 
+AH1 V 
+S EH1 D 
+W AH1 N 
+AY0 D IY1 AH0 
+D AH1 N 
+AH0 B AW1 T 
+W IH0 TH AW1 T 
+L AH1 V 
+AH0 B AH1 V 
+L AH1 V 
+L AH1 V 
+AH1 V 
+HH EH1 R 
+L IH1 P S 

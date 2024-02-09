@@ -1,0 +1,28 @@
+P AW1 
+P AW1 
+P AW1 
+W IH0 TH AW1 T 
+Y AE1 
+D UW1 
+D UW1 
+D UW1 
+W ER1 D Z 
+Y AE1 
+M AY1 N 
+M AY1 N 
+M AY1 N 
+OW1 L D 
+AH1 
+Y AE1 
+S IY1 
+M IY1 
+M EH1 L T 
+F EH1 L T 
+AY1 
+N AW1 
+F EH1 L T 
+Y AE1 
+AY1 
+Y AE1 
+HH ER0 
+Y AE1 

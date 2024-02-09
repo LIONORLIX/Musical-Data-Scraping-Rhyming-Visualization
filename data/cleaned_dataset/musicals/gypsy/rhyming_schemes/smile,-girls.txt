@@ -1,0 +1,30 @@
+P AA1 R T 
+AA1 R T 
+G ER1 L Z 
+S P AA1 T 
+G ER1 L Z 
+G AA1 T 
+L AA1 T 
+G ER1 L Z 
+D EY1 
+S T EY1 
+D EH1 K ER0 AH0 S 
+IH1 Z 
+G ER1 L Z 
+K L EH1 V ER0 
+W AH1 T 
+S M AY1 L 
+S M AY1 L 
+S M AY1 L 
+S M AY1 L 
+S M AY1 L 
+S M AY1 L 
+S M AY1 L 
+G ER1 L Z 
+AH0 W EY1 
+IH1 T 
+---dolorous---
+IH1 Z 
+G ER1 L Z 
+F L AE1 G 
+S M AY1 L 

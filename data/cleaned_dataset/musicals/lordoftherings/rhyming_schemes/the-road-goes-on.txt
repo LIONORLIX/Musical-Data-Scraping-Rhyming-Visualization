@@ -1,0 +1,86 @@
+R OW1 D 
+S T R EY1 
+S T EH1 P 
+AH0 W EY1 
+S T AA1 R 
+R OW1 D 
+F AA1 R 
+L IY1 D Z 
+N OW1 Z 
+B AE1 K 
+G OW1 Z 
+S AH1 N 
+R OW1 D 
+R AH1 N Z 
+AA1 N 
+AA1 N 
+HH IH1 L 
+M AY1 L 
+F IY1 L D 
+S T AY1 L 
+AA1 N 
+AA1 N 
+AA1 N 
+AA1 N 
+HH IH1 L 
+M AY1 L 
+F IY1 L D 
+S T AY1 L 
+AA1 N 
+AA1 N 
+V AE1 L IY0 
+M EH1 D OW2 
+AH0 N EH1 N D IH0 NG 
+M AY1 L 
+M UH1 R L AE2 N D 
+K AE1 N Y AH0 N 
+HH ER1 D AH0 L 
+S T AY1 L 
+M AY1 L 
+IY1 T 
+P EH1 R Z 
+S W IY1 T 
+SH AO1 R 
+R OW1 D 
+M AO1 R 
+T R AW1 T 
+S T R IY1 M 
+G OW1 T 
+K R IY1 M 
+S AH1 N 
+R OW1 D 
+R AH1 N Z 
+AA1 N 
+AA1 N 
+M UH1 R 
+G L EH1 N 
+V EY1 L 
+F EH1 N 
+AA1 N 
+AA1 N 
+D AO1 R S T EH2 P 
+S T R EY1 
+R IH1 V ER0 
+AH0 W EY1 
+HH ER0 AY1 Z AH0 N 
+AH0 N N OW1 N 
+B EH1 K AH0 N Z 
+OW1 N 
+---nmenna---
+AA1 R 
+---hilya---
+---nmenna---
+AA1 R 
+---hilya---
+---hilya---
+---nmenna---
+AA1 R 
+---hilya---
+V AE1 L IY0 
+M EH1 D OW2 
+AH0 N EH1 N D IH0 NG 
+M AY1 L 
+M UH1 R L AE2 N D 
+K AE1 N Y AH0 N 
+HH ER1 D AH0 L 
+S T AY1 L 

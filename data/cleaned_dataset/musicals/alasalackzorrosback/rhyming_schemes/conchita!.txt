@@ -1,0 +1,9 @@
+N EY1 M 
+G EY1 M 
+F EY1 M 
+S EY1 M 
+T AH0 D EY1 
+OW1 L 
+S EY1 
+W EY1 
+OW1 L 

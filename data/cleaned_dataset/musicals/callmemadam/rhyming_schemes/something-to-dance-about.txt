@@ -1,0 +1,29 @@
+L AA1 T 
+P AA1 R T IY0 
+HH AA1 T 
+G AA1 T 
+AH0 B AW1 T 
+W IH1 DH 
+T UW1 
+W AO1 L T S 
+SH UW1 Z 
+N UW1 Z 
+T UW1 Z 
+W AO1 L T S 
+P AA1 R T AH0 D 
+Y ER1 N Z 
+HH AA1 R T AH0 D 
+R IH0 T ER1 N Z 
+AH0 B AW1 T 
+W IH1 DH 
+T UW1 
+W AO1 L T S 
+W AO1 L T S 
+W AO1 L T S 
+B L UW1 Z 
+AH0 B AW1 T 
+W IH1 DH 
+B L UW1 Z 
+---rhumba---
+AA1 
+W AO1 L T S 

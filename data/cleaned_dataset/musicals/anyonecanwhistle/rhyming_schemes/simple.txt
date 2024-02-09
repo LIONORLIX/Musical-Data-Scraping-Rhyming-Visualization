@@ -1,0 +1,387 @@
+G R IY1 N 
+B L UW1 
+AH0 N D 
+T R UW1 
+HH UW1 
+Y UW1 
+M IY1 
+S IH1 M P AH0 L 
+---abc---
+T UW1 
+W AH1 T 
+W AH1 N 
+T UW1 
+AH0 N D 
+HH UW1 
+B IY1 
+T R UW1 
+HH AE1 P G UH2 D 
+HH AE1 P G UH2 D 
+S AY2 K OW0 AH0 N AE1 L AH0 S AH0 S 
+HH UW1 P ER0 
+HH AE1 P G UH2 D 
+JH AO1 R JH 
+JH AO1 R JH IY0 
+JH AO1 R JH 
+B OY1 
+S ER1 
+---watchcry---
+S ER1 
+F EY1 T 
+S OW1 L 
+M EH1 R IY0 D 
+S ER1 
+CH IH1 L D R AH0 N 
+S ER1 
+S EH1 T S 
+S ER1 
+M AA0 R T IY1 N IY0 Z 
+S ER1 
+F R AY1 D IY0 
+S ER1 
+S AE1 T ER0 D IY0 
+S ER1 
+S AH1 N D EY2 
+S ER1 
+V OW1 T 
+S ER1 
+W IH1 N Z 
+W IH1 N Z 
+HH UW1 
+HH EH1 D EY2 K S 
+S ER1 
+B AE1 K EY2 K S 
+S ER1 
+HH AA1 R T EY2 K 
+S ER1 
+P L IY1 Z 
+AH0 
+HH AE1 T ER0 
+ER0 EH1 S T 
+R IY1 L 
+N AA1 T 
+P L IY1 Z 
+G R IY1 N 
+B L UW1 
+AH0 N D 
+T R UW1 
+D IH0 G R IY1 
+S IH1 M P AH0 L 
+---abc---
+D AA1 K T ER0 
+S EY1 N 
+AO1 L W EY2 Z 
+AW1 T 
+IH0 N 
+IH0 N 
+B IH1 N 
+AW1 T 
+IH0 N 
+IH0 N 
+B IH0 G IH1 N 
+W IH1 N 
+S IH1 M P AH0 L 
+---abc---
+S IH1 M P AH0 L 
+M IY1 
+IH1 Z 
+DH EH1 R 
+F EY1 T 
+S OW1 L 
+D AA1 K T ER0 
+IH1 T 
+HH AE1 P G UH2 D 
+P L IY1 Z 
+IH1 T 
+B R IH1 L Y AH0 N T 
+W AH1 T 
+S IH1 M P AH0 L 
+G R IY1 N 
+B L UW1 
+G R UW1 P 
+T UW1 
+S IY1 
+G R IY1 N 
+B L UW1 
+AH0 N D 
+T UW1 
+------
+SH UW1 
+AH0 N D 
+T UW1 
+------
+K AO1 R AH0 
+W AH1 N 
+T UW1 
+M IY1 
+------
+AH0 G R IY1 
+AH0 N D 
+M IY1 
+------
+G R IY1 N 
+B L UW1 
+B IY1 
+S IY1 
+K R EY1 Z IY0 
+M EY1 B IY0 
+------
+------
+G R IY1 N 
+B L UW1 
+AH0 N D 
+IH0 N 
+AH0 G R IY1 
+------
+------
+------
+W AH1 N 
+G R UW1 P 
+T UW1 
+S IY1 
+B EH1 K AH0 N IH0 NG 
+---aaaaaaaaaaaaaaaaaa---
+HH OW1 M 
+HH AW1 S 
+HH AE1 T 
+S P AW1 S 
+HH OW1 M 
+HH AE1 P G UH2 D 
+JH UW1 N 
+EH0 N G EY1 JH D 
+S EH1 K R AH0 T EH2 R IY0 
+B AH1 S T 
+OW1 V ER0 
+M EH1 R IY0 D 
+JH UW1 N 
+D IH1 N ER0 Z 
+R EY1 Z 
+IH1 T 
+B IH0 K AO1 Z 
+B IH0 K AO1 Z 
+HH OW1 M 
+SH EH1 L F 
+HH AE1 T 
+HH IH0 M S EH1 L F 
+G R UW1 P 
+AH0 
+M AH0 G R UW1 D ER0 
+W AH1 N 
+HH OW1 M 
+HH AW1 S 
+F EY1 T 
+S OW1 L 
+AH0 G EH1 N 
+D IY1 P 
+IY1 R 
+L EY1 T ER0 
+M AW1 TH 
+L AY1 Z 
+D AH1 Z 
+L AH1 V 
+B IH0 L IY1 V IH0 NG 
+OW1 V ER0 
+W UH1 M AH0 N 
+OW1 
+HH AA1 
+K AO1 R S 
+HH AE1 P G UH2 D 
+---watchcry---
+K AH1 V ER0 
+K AH1 V ER0 
+B UH1 K 
+L UH1 K 
+---cubber---
+AA2 K Y AH0 P EY1 SH AH0 N 
+R EH1 S T ER0 AA2 N T S 
+IY1 Z IY0 
+S EY1 
+F AH1 N 
+K R EY1 Z IY0 
+AH0 
+W AH1 N 
+M AE1 D AH0 N IH0 NG 
+DH EH1 M 
+AA1 B V IY0 AH0 S 
+B R AY1 T 
+D AH1 M 
+D AH1 M 
+HH AH1 M 
+B R AY1 T 
+D AH1 M 
+D AH1 M 
+TH AH1 M 
+F R AH1 M 
+S IH1 M P AH0 L 
+B IY1 
+S IH1 M P AH0 L 
+---naacp---
+HH AE1 P G UH2 D 
+AH0 
+DH AE1 T 
+IH0 N 
+L AY1 N 
+W AH1 T 
+HH UW1 
+AH0 N D 
+Y UW1 
+N UW1 
+M IH1 R AH0 K AH0 L 
+HH AE1 P G UH2 D 
+L AY1 N 
+D UW1 
+HH IY1 R 
+D AA1 R L IH0 NG 
+G R IY1 N 
+B L UW1 
+Y UW1 
+M IY1 
+S IH1 M P AH0 L 
+T UW1 
+T UW1 
+B IH0 L AO1 NG 
+AY1 
+K UH1 K IY0 Z 
+W AH1 T 
+---watchcry---
+AH0 N D 
+DH AH0 
+S AH0 K S IY1 D 
+---gooood---
+---watchcry---
+AH0 N D 
+DH AH0 
+S K IH1 N 
+HH AH0 L OW1 
+---gooood---
+K AH0 N T R OW1 L ER0 
+D AE1 M IH0 T 
+G EY1 M Z 
+---watchcry---
+HH AH0 L OW1 
+W IH0 DH IH1 N 
+---watchcry---
+K AA1 M Y AH0 N AH0 S T 
+DH AE1 T 
+R AY1 T 
+R AO1 NG 
+R AY1 T 
+---gooood---
+HH AH0 L OW1 
+HH AH0 L OW1 
+S IH1 M P AH0 L 
+---abc---
+T UW1 
+B L UW1 
+---watchcry---
+AH1 V 
+---watchcry---
+W AY1 
+D AY1 
+S ER1 
+AA2 K Y AH0 P EY1 SH AH0 N 
+EH1 N AH0 M IY0 
+EH1 N AH0 M IY0 
+Y IH1 R 
+Y EH1 S T ER0 D EY2 
+HH AY1 L 
+B IH0 F AO1 R 
+HH AY1 L 
+T AH0 D EY1 
+HH EY1 L 
+T AH0 M AA1 R OW2 
+HH EY1 L 
+AH0 
+HH AY1 L 
+W AH1 N 
+T W IH1 S T AH0 D 
+T W IH1 S T AH0 D 
+B L UW1 
+G R IY1 N 
+S IY1 N 
+M IY1 N 
+---watchcry---
+HH AE2 L AH0 L UW1 Y AH0 
+B R AH1 DH ER0 
+AA2 K Y AH0 P EY1 SH AH0 N 
+T R EH1 ZH ER0 ER0 
+HH AE1 P G UH2 D 
+K UW1 L IY0 
+P UH1 L P IH0 T 
+B R AH1 DH ER0 
+K R EY1 Z IY0 
+B IH0 L IY1 V D 
+T R EH1 ZH ER0 ER0 
+R IH0 L IH1 JH AH0 N 
+HH AE1 P G UH2 D 
+K UW1 L IY0 
+HH AE1 P G UH2 D 
+HH AE1 P G UH2 D 
+SH UH1 R 
+SH UW1 
+K R EY1 Z IY0 
+---watchcry---
+---watchcry---
+AH0 N D 
+DH AH0 
+D IY1 P 
+DH AH0 
+N OW1 
+AH1 V 
+B IH0 L IY1 V IH0 NG 
+P IY1 P AH0 L 
+D AA1 K T ER0 
+D AY1 
+K UW1 L IY0 
+AA2 HH AA1 
+IH1 Z 
+K W EH1 S CH AH0 N Z 
+AE1 N S ER0 
+W AH1 T 
+G OW1 
+TH IH1 NG K 
+HH AE1 P G UH2 D 
+T AE1 K S AH0 Z 
+IH1 T 
+K R EY1 Z IY0 
+HH AH0 L OW1 
+HH AH0 L OW1 
+T AE1 K S AH0 Z 
+M AH1 N IY0 
+R IH0 V ER1 S 
+HH AH0 L OW1 
+HH AH0 L OW1 
+K R EY1 Z IY0 
+K UW1 L IY0 
+SH UW1 
+P R AA1 D AH0 K T 
+SH UW1 
+K IH1 L D 
+AO1 L 
+---watchcry---
+HH EH1 L P 
+---watchcry---
+B R IH1 L Y AH0 N T 
+---watchcry---
+G R IY1 N 
+B L UW1 
+R AY1 T 
+R AO1 NG 
+R AO1 NG 
+S IH1 M P AH0 L 
+B IY1 
+T UW1 
+G R IY1 N 
+B L UW1 
+R AY1 T 
+W AH1 N 
+G UH1 D 
+AH0 
+IH1 Z 
+IH1 Z 
+---watchcry---
+T UW1 
+HH UW1 
+HH UW1 
+HH UW1 
+HH UW1 

@@ -1,0 +1,22 @@
+ER0 AW1 N D 
+HH AE1 N D Z 
+K R AW1 N 
+ER0 AW1 N D 
+ER0 AW1 N D 
+B AY1 N D Z 
+HH AE1 N D Z 
+M AY1 N D 
+AW1 T 
+W AO1 T ER0 Z 
+S T R EH1 NG K TH 
+Z AY1 AH0 N 
+F AE1 S T 
+T AY1 T 
+---*dialogue---
+L AY1 T 
+T AY1 M 
+T AY1 M 
+L AY1 T 
+SH AE1 L 
+L AY1 T 
+L AY1 T 

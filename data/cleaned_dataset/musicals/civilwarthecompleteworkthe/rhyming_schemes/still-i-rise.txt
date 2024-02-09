@@ -1,0 +1,13 @@
+SH EY1 M 
+R AY1 Z 
+P EY1 N 
+R AY1 Z 
+W AY1 D 
+T AY1 D 
+F IH1 R 
+R AY1 Z 
+K L IH1 R 
+R AY1 Z 
+G EY1 V 
+S L EY1 V 
+S OW1 

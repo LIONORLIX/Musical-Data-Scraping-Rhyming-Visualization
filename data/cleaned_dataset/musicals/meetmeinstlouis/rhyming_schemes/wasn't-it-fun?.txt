@@ -1,0 +1,15 @@
+F AY1 N 
+T UW1 N 
+DH AE1 T 
+---syne---
+F AH1 N 
+N AH1 N 
+R EY1 N 
+P EY1 N 
+S AH1 N 
+W AH1 N 
+F AY1 N 
+---syne---
+M EH1 R IY0 
+R EH2 M AH0 N IH1 S 
+V EH1 R IY0 

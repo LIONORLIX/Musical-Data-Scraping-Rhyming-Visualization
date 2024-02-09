@@ -1,0 +1,10 @@
+---munchkins---
+R OW1 D 
+R OW1 D 
+B R IH1 K 
+R OW1 D 
+AA1 Z 
+W AA1 Z 
+B IH0 K AO1 Z 
+B IH0 K AO1 Z 
+D AH1 Z 

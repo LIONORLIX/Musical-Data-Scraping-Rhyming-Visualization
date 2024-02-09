@@ -1,0 +1,70 @@
+HH AA1 R T 
+HH AA1 R T 
+W IH1 N 
+S T AA1 R T 
+HH OW1 P 
+M OW1 P 
+AH0 P IH1 R 
+HH OW1 P 
+Z IH1 R OW0 
+F L AO1 R 
+HH IH1 R OW0 
+IH1 T 
+HH AA1 R T 
+HH AA1 R T 
+K AO1 R S 
+HH AO1 R S 
+K AA1 R T 
+HH AA1 R T 
+G AA1 T 
+G AA1 T 
+G AA1 T 
+G AA1 T 
+HH AA1 R T 
+HH AA1 R T 
+W IH1 N 
+S T AA1 R T 
+HH OW1 P 
+M OW1 P 
+HH IY1 V 
+HH OW1 P 
+---hummin---
+---hmmhmmhmm---
+D UW1 
+HH UW1 
+IH0 N 
+---hmmhmmhmm---
+OW1 V ER0 D UW1 
+HH UW1 
+HH AA1 R T 
+HH AA1 R T 
+K AO1 R S 
+K AA1 R T 
+K R AY1 
+K ER1 S 
+W ER1 S 
+HH AA1 R T 
+HH AA1 R T 
+HH AA1 R T 
+HH AA1 R T 
+HH AA1 R T 
+W IH1 N 
+S T AA1 R T 
+L AE1 F IH0 NG 
+HH AA1 
+D UW1 
+HH UW1 
+---autographin---
+HH AA1 
+AY2 OW2 Y UW1 
+HH UW1 
+HH AA1 R T 
+HH AA1 R T 
+K AO1 R S 
+HH AO1 R S 
+K AA1 R T 
+F L AY1 IH0 NG 
+B UW1 Z 
+K AH0 N S IH1 S T AH0 N T 
+L UW1 Z 
+HH AA1 R T 

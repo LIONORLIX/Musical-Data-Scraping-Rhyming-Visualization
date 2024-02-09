@@ -1,0 +1,35 @@
+W AO1 R M 
+D R AY1 
+---thefloor---
+F AO1 R 
+T UW1 
+T UW1 
+Y UW1 
+Y UW1 
+Y UW1 
+M AH1 CH 
+R AH0 S IY1 V 
+AH0 T R AE1 K SH AH0 N 
+L AY1 F 
+IH0 N S IH1 S T AH0 N S 
+T AH0 N AY1 T 
+T UW1 
+T UW1 
+Y UW1 
+Y UW1 
+M EH1 S IY0 
+M AY1 N D 
+B OY1 
+HH AE1 N D Z 
+G ER1 L 
+HH AE1 N D 
+T UW1 
+T UW1 
+Y UW1 
+Y UW1 
+M AY1 N D 
+IH1 T 
+IH1 T 
+Y UW1 
+AH1 P 
+AH1 P 

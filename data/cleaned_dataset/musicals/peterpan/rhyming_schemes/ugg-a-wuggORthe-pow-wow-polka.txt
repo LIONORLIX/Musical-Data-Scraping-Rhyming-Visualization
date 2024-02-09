@@ -1,0 +1,55 @@
+P AE1 N 
+W AA1 G 
+L IH1 L IY0 
+HH UW1 CH 
+---awug---
+W UW1 
+D UW1 
+P AE1 N 
+L IH1 L IY0 
+L IH1 L IY0 
+P AE1 N 
+B OW1 TH 
+L IH1 L IY0 
+B UW1 M 
+P AE1 N 
+R EH1 D S K IH2 N 
+AO1 L 
+B UW1 M 
+W AA1 
+B OY1 Z 
+AH1 G 
+IH1 N D IY0 AH0 N 
+W AA1 
+B OY1 Z 
+AH1 G 
+IH1 N D IY0 AH0 N Z 
+W AA1 
+P IY1 T ER0 
+---sabbb---
+L IH1 L IY0 
+---sabbb---
+---puffawuf---
+S UW1 
+D UW1 
+L IH1 L IY0 
+P AE1 N 
+DH EH1 R 
+DH AH0 
+EH1 N D 
+AH1 G 
+W AA1 
+B OY1 Z 
+W AA1 
+---wahhhh---
+B L AE1 K 
+W AE1 G 
+L IH1 L IY0 
+HH UH1 K 
+HH UH1 K 
+L IH1 L IY0 
+P AE1 N 
+L IH1 L IY0 
+L IH1 L IY0 
+F R EH1 N D 
+T R UW1 B L AH2 D 

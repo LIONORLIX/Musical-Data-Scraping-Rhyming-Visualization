@@ -1,0 +1,37 @@
+D EY1 
+D EY1 
+S IY1 
+B IY1 
+M IY1 
+D UW1 
+Y UW1 
+F AA1 R 
+K Y UW1 T 
+S UW1 T 
+AA1 R 
+N OW1 IH0 NG 
+G OW1 IH0 NG 
+---plage---
+---rajah---
+M AE1 N 
+M AE1 N 
+CH UW1 Z 
+G EY1 M 
+---plage---
+S EY1 M 
+S EY1 IH0 NG 
+P L EY1 IH0 NG 
+---plage---
+CH AA1 R JH ER0 
+D IH1 K IY0 
+L AH1 K IY0 
+OW1 SH AH0 N 
+IH0 M OW1 SH AH0 N 
+G EY1 M 
+---plage---
+DH AH0 
+DH AH0 
+S EY1 M 
+---plage---
+DH AH0 
+DH AH0 

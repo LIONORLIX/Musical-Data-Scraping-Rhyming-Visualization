@@ -1,0 +1,23 @@
+---roustabout---
+T AW1 N 
+G AY1 
+S K AY1 
+D AW1 T 
+---roustabout---
+K AY1 N D 
+B R IY1 Z 
+IY1 Z 
+B EH1 S T 
+W EH1 S T 
+D AW1 T 
+---roustabout---
+AY1 
+G UH2 D B AY1 
+W AA1 N T 
+S AE1 N D 
+K AE1 N 
+CH UW1 Z 
+L UW1 Z 
+D AW1 T 
+---roustabout---
+---roustabout---

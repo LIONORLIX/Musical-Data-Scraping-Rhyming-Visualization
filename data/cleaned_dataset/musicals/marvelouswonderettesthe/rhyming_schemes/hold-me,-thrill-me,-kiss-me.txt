@@ -1,0 +1,15 @@
+M IY1 
+M IY1 
+M IY1 
+Y UW1 
+M IY1 
+B IY1 
+B IY1 
+Y UW1 
+L AH1 V 
+F AY1 N D 
+L AH1 V 
+M AY1 N D 
+M IY1 
+M IY1 
+M IY1 

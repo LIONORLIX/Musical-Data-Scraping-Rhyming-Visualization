@@ -1,0 +1,12 @@
+L AH1 V 
+S UW1 N 
+L AH1 V 
+S UW1 N 
+L OW1 
+S UW1 N 
+S UW1 N 
+B R IY1 F 
+TH IY1 F 
+L EY1 T 
+S UW1 N 
+W EY1 T 

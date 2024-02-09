@@ -1,0 +1,11 @@
+D R IY1 M 
+F OW1 
+S AA1 R OW0 
+G OW1 
+G OW1 
+F AA1 R 
+W IH1 R IY0 
+S T AA1 R 
+S T AA1 R 
+HH AY1 
+AH1 P W ER0 D 

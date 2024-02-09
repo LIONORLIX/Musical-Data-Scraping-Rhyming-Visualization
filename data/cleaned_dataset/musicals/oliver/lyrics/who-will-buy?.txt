@@ -1,0 +1,149 @@
+------ Who Will Buy? ------
+--- ROSE SELLER ---
+--- Unknown ---
+Who will buy my sweet red roses?
+Two blooms for a penny.
+Who will buy my sweet red roses?
+Two blooms for a penny.
+--- MILKMAID ---
+--- Unknown ---
+Will you buy any milk today, mistress?
+Any milk today, mistress?
+--- ROSE SELLER ---
+--- Unknown ---
+Who will buy my sweet red roses?
+--- MILKMAID ---
+--- Unknown ---
+Any milk today, mistress?
+--- ROSE SELLER ---
+--- Unknown ---
+Two blooms for a penny.
+--- STRAWBERRY SELLER ---
+--- Unknown ---
+Ripe strawberries, ripe!
+Ripe strawberries, ripe!
+--- STRAWBERRY SELLER ---
+--- Unknown ---
+Ripe strawberries, ripe!
+MILKMAID
+--- Unknown ---
+Any milk today,
+mistress?
+ROSE SELLER
+--- Unknown ---
+Who will buy my sweet
+red roses?
+KNIFE GRINDER
+--- Unknown ---
+Knives, knives to
+grind!
+Any knives to grind?
+Knives, knives to
+grind!
+Any knives to grind?
+Who will buy?
+--- STRAWBERRY SELLER ---
+--- Unknown ---
+Who will buy?
+--- MILKMAID ---
+--- Unknown ---
+Who will buy?
+--- ROSE SELLER ---
+--- Unknown ---
+Who will buy?
+--- OLIVER ---
+--- Unknown ---
+Who will buy
+This wonderful morning?
+Such a sky
+You never did see!
+--- ROSE SELLER ---
+--- Unknown ---
+Who will buy my sweet red roses?
+--- OLIVER ---
+--- Unknown ---
+Who will tie
+It up with a ribbon
+And put it in a box for me?
+--- STRAWBERRY SELLER ---
+--- Unknown ---
+Ripe strawberries, ripe!
+--- OLIVER ---
+--- Unknown ---
+So I could see it at my leisure
+Whenever things go wrong
+And I would keep it as a treasure
+To last my whole life long.
+--- MILKMAID ---
+--- Unknown ---
+Any milk today?
+--- OLIVER ---
+--- Unknown ---
+Who will buy
+This wonderful feeling?
+I'm so high
+I swear I could fly.
+--- KNIFE GRINDER ---
+--- Unknown ---
+Knives! Knives to grind!
+--- STRAWBERRY SELLER ---
+--- Unknown ---
+Ripe strawberries, ripe!
+--- OLIVER ---
+--- Unknown ---
+Me, oh my!
+I don't want to lose it
+So what am I to do
+To keep the sky so blue?
+There must be someone who will buy...
+--- LONG SONG SELLER ---
+--- Unknown ---
+Who will buy?
+--- KNIFE GRINDER ---
+--- Unknown ---
+Who will buy?
+--- MILKMAID ---
+--- Unknown ---
+Who will buy?
+--- ROSE SELLER ---
+--- Unknown ---
+Who will buy?
+--- COMPANY AND OLIVER ---
+--- Unknown ---
+Who will buy
+This wonderful morning?
+Such a sky
+You never did see!
+--- Unknown ---
+Who will tie
+It up with a ribbon
+And put it in a box for me?
+--- Unknown ---
+There'll never be a day so sunny,
+It could not happen twice.
+Where is the man with all the money?
+It's cheap at half the price!
+--- Unknown ---
+Who will buy
+Who will buy
+This wonderful feeling?
+I'm so high
+I swear I could fly.
+Me, oh my!
+I don't want to lose it
+So what am I to do
+To keep the sky so blue?
+--- OLIVER ---
+--- Unknown ---
+There must be someone who will buy...
+--- MILKMAID ---
+--- Unknown ---
+Must be someone
+--- STRAWBERRY SELLER ---
+--- Unknown ---
+Must be someone
+--- KNIFE GRINDER ---
+--- Unknown ---
+Must be someone
+--- ALL ---
+------ fin ------

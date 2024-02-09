@@ -1,0 +1,22 @@
+M IY1 
+Y UW1 
+D UW1 
+IH1 T 
+T UW1 
+D UW1 
+P AE1 S T 
+L AE1 S T 
+IH1 T 
+T R UW1 
+D UW1 
+M IY1 
+S IY1 
+IH1 T 
+T R UW1 
+D UW1 
+M IY1 
+Y UW1 
+D UW1 
+IH1 T 
+T UW1 
+D UW1 

@@ -1,0 +1,17 @@
+L AH1 V 
+L AH1 V 
+L AH1 V 
+B AE1 D 
+G L AH1 V 
+G L AH1 V 
+G L AH1 V 
+B AE1 D 
+N AH1 T S 
+N AH1 T S 
+N AH1 T S 
+---pepsodent---
+B AE1 D 
+L AH1 V 
+L AH1 V 
+L AH1 V 
+B AE1 D 

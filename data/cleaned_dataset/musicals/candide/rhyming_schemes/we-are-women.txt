@@ -1,0 +1,32 @@
+W IH1 M AH0 N 
+W IH1 M AH0 N 
+W IY1 
+R IH0 Z IH1 S T 
+R IH1 S T 
+M IH1 S T 
+N IY1 
+W IY1 K S 
+CH IY1 K S 
+P IY1 K S 
+S IY1 
+L EH1 G Z 
+D UW1 
+F EH1 R IY0 L AE2 N D 
+IH0 K S P AE1 N D 
+L IH1 S T 
+K IH1 S T 
+---abundancy---
+R IH0 Z IH1 S T 
+M IY1 
+R IH0 Z IH1 S T 
+EH2 T S EH1 T ER0 AH0 
+W IY1 K S 
+EH2 T S EH1 T ER0 AH0 
+S M AY1 L Z 
+---balletophiles---
+S M AY1 L Z 
+D AE1 N S 
+EH2 T S EH1 T ER0 AH0 
+W IH1 M AH0 N 
+W IH1 M AH0 N 
+W IY1 

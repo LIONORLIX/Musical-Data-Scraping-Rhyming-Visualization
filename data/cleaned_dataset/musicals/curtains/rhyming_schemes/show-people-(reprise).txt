@@ -1,0 +1,4 @@
+AH1 S 
+P IY1 P AH0 L 
+D R IY1 M Z 
+R IY1 L 

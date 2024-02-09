@@ -1,0 +1,12 @@
+---interruptor---
+S P AH1 N JH 
+S P AH1 N JH 
+N AA1 T 
+N AA1 T 
+N AA1 T 
+S P AH1 N JH 
+N AA1 T 
+N AA1 T 
+N AA1 T 
+N AA1 T 
+S P AH1 N JH 

@@ -1,0 +1,34 @@
+AA1 N 
+S AY2 G AA1 N 
+S AY2 G AA1 N 
+G EH1 T S 
+K AH0 S EH1 T S 
+D R EH1 S 
+G EH1 S 
+M IY1 
+Y EH1 S 
+P R IH1 N S EH0 S 
+---vay---
+M AY1 
+---vay---
+M OY1 
+T AH0 D EY1 
+M AE1 N 
+F ER0 G IH1 V N AH0 S 
+AH1 S 
+AH0 B AH1 V 
+L AH1 V 
+---vay---
+M AY1 
+---vay---
+M OY1 
+---vay---
+M IY1 N 
+M AY1 
+W EH1 D IH0 NG Z 
+---vay---
+S IH1 NG 
+M OY1 
+HH ER1 D 
+K IH1 M 
+S AY2 G AA1 N 

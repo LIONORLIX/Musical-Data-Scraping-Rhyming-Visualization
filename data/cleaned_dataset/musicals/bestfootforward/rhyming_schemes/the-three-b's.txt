@@ -1,0 +1,82 @@
+B AA1 K 
+B EY1 T OW0 V AH0 N 
+B R AA1 M Z 
+T UW1 
+---barrelhouse---
+B UW1 G IY0 W UW1 G IY0 
+B L UW1 Z 
+B L UW1 Z 
+K AE1 R AH0 L 
+HH IY1 T 
+B L UW1 Z 
+B L UW1 Z 
+Y UW1 
+Y UW1 
+D IH0 S T R AE1 K SH AH0 N 
+R IY0 AE1 K SH AH0 N 
+---barrelhouse---
+B L UW1 Z 
+B L UW1 Z 
+S T AE1 N D 
+R AY1 D 
+D ER1 T IY0 
+B L UW1 Z 
+B L UW1 Z 
+B L UW1 Z 
+S N IH1 P 
+N AW1 
+CH UW1 Z 
+B L UW1 Z 
+S P AY1 N 
+F AY1 N 
+D IH0 Z AY1 N 
+B UW1 G IY0 W UW1 G IY0 
+Y EH1 S 
+CH EH1 S T 
+R EH1 S T 
+B EH1 S T 
+B UW1 G IY0 W UW1 G IY0 
+Y EH1 S 
+R EY1 N 
+TH AH1 N D ER0 
+K L AW1 D 
+K EY1 K 
+L IH1 K ER0 
+HH AA1 R D 
+L EY1 K 
+D AW1 N 
+K L AW1 N 
+K R AW1 N 
+HH IY1 T 
+B IY1 T 
+---barrelhouse---
+B IY1 T 
+B L UW1 Z 
+B IY1 T 
+T UW1 
+B L UW1 
+M AO1 R IH0 N 
+N AY1 T 
+R AY1 T 
+G UH1 D 
+G UH1 D 
+G UH1 D 
+IH1 Z 
+W EH1 L 
+S W EH1 L 
+CH AH1 M IY0 
+---scrummy---
+S K W AA1 L AH0 D 
+S AA1 L AH0 D 
+---barrelhouse---
+T AW1 N 
+DH EH1 R 
+DH EH1 R 
+AH0 M 
+AH0 M 
+IH1 T 
+JH AE1 Z 
+B L UW1 Z 
+B L UW1 Z 
+TH R IY1 
+B IY1 Z 

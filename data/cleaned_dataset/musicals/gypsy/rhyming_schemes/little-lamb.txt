@@ -1,0 +1,19 @@
+L UW0 IY1 Z 
+L AE1 M 
+L AE1 S T 
+L AE1 M 
+F AE1 S T 
+B EH1 R 
+R AY1 T 
+DH EH1 R 
+HH EH1 N 
+W EH1 N 
+K AE1 T 
+B L UW1 
+DH AE1 T 
+T UW1 
+F IH1 SH 
+W IH1 SH 
+L AE1 M 
+AE1 M 
+AE1 M 

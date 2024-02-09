@@ -1,0 +1,33 @@
+N AY1 T 
+---'63---
+M IY1 
+N AY1 T 
+N AY1 T 
+N EY1 M 
+S EY1 M 
+N AY1 T 
+W AO1 K T 
+AY1 
+S UW1 N 
+N AY1 T 
+M IY1 
+B IY1 
+N AY1 T 
+TH AH1 N D ER0 
+AH1 N D ER0 
+N AY1 T 
+W AO1 K T 
+AY1 
+S UW1 N 
+N AY1 T 
+L AY1 T 
+R AY1 T 
+N AY1 T 
+TH AH1 N D ER0 
+AH1 N D ER0 
+N AY1 T 
+N AY1 T 
+N AY1 T 
+N AY1 T 
+N AY1 T 
+N AY1 T 

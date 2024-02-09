@@ -1,0 +1,66 @@
+L AY1 N 
+F AY1 N 
+T AY1 M 
+SH AY1 N 
+K AA1 N T EH0 N T 
+S T AY1 L 
+DH EH1 M 
+M AY1 L 
+S M AY1 L 
+S M AO1 L 
+T AO1 L 
+S T AO1 L 
+SH AY1 N 
+M EH1 S 
+K OW2 AH0 L EH1 S 
+---effervesce---
+SH AY1 N 
+D AE1 Z AH0 L 
+P IH2 Z AE1 Z 
+S AE1 L IY0 
+---welly---
+AW1 T 
+AH0 B AW1 T 
+D AE1 Z AH0 L 
+SH AY1 N 
+AH2 N EH0 M P L OY1 D 
+---humanoid---
+V OY1 D 
+SH AY1 N 
+N IY1 D Z 
+L IY1 D Z 
+B L IY1 D Z 
+SH AY1 N 
+D AE1 Z AH0 L 
+P IH2 Z AE1 Z 
+S AE1 L IY0 
+---welly---
+AW1 T 
+AH0 B AW1 T 
+D AE1 Z AH0 L 
+SH AY1 N 
+L AW1 Z IY0 
+B L UW1 
+AE2 P R IH0 HH EH1 N S IH0 V 
+F L UW1 
+K AH1 S 
+F IH1 G 
+IH1 T 
+G IH1 G 
+T IH1 NG K AH0 L 
+---kabam---
+AW1 T 
+F R AA1 L IH0 K 
+---bollocks---
+AH0 B AW1 T 
+D AE1 Z AH0 L 
+SH AY1 N 
+L AY1 T S 
+S K W AA1 T 
+SH AA1 T 
+N AA1 T 
+IH1 Z 
+SH AY1 N 
+SH AY1 N 
+SH AY1 N 
+SH AY1 N 

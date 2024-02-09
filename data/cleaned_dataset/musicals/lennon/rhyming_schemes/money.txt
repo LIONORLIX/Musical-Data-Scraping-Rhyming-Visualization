@@ -1,0 +1,35 @@
+F R IY1 
+B IY1 Z 
+W AA1 N T 
+W AA1 N T 
+Y IY1 
+W AA1 N T 
+T R UW1 
+Y UW1 S 
+W AA1 N T 
+W AA1 N T 
+Y IY1 
+W AA1 N T 
+W AA1 N T 
+W AA1 N T 
+W AA1 N T 
+W AA1 N T 
+Y IY1 
+W AA1 N T 
+TH R IH1 L 
+B IH1 L 
+W AA1 N T 
+W AA1 N T 
+Y IY1 
+W AA1 N T 
+T R UW1 
+Y UW1 S 
+W AA1 N T 
+W AA1 N T 
+Y IY1 
+W AA1 N T 
+W AA1 N T 
+W AA1 N T 
+W AA1 N T 
+W AA1 N T 
+Y IY1 

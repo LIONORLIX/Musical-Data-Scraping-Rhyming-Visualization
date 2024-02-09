@@ -1,0 +1,71 @@
+---proteus---
+HH ER0 
+P L EY1 S 
+HH ER0 Z 
+HH IH1 Z 
+HH ER0 Z 
+S L IY1 V 
+M AY1 N 
+M AW1 TH 
+S AW1 TH 
+M AW1 TH 
+S T IH1 L 
+IH1 L 
+F IH1 L 
+B IH1 L IY0 
+JH IH1 L 
+IH1 L 
+P IH1 L 
+TH R IH1 L 
+AE1 NG G R IY0 
+L AA1 
+L AA1 
+HH ER0 
+P L EY1 S 
+AO1 R N AH0 M AH0 N T S 
+F EY1 S 
+S AW1 TH 
+Y AA1 
+F AA1 L OW0 D 
+---proteus---
+W AA1 CH AH0 Z 
+AA1 N 
+---proteus---
+S IH1 L V IY0 AH0 
+AE1 M 
+---proteus---
+L UH1 K 
+AH0 P R UW1 V D 
+B IH0 L AH1 V D 
+---contd---
+W ER1 D Z 
+F AO1 R M 
+L EH1 NG K TH 
+Y IY1 
+DH AH0 
+G R AW1 N D 
+S IH1 L V IY0 AH0 
+HH EH1 V AH0 N 
+---proteus---
+D IH0 Z AY1 ER0 
+AH1 V 
+HH IY1 
+G L AE1 S AH0 Z 
+P L AE1 T F AO2 R M 
+S IH1 L V IY0 AH0 
+B IY1 
+P UH1 T S 
+G L AE1 S AH0 Z 
+V AE1 L AH0 N T AY2 N 
+S IH1 L V IY0 AH0 
+T EH1 N T 
+V AE1 L AH0 N T AY2 N 
+M AO1 R 
+S EY1 K 
+---accurst---
+W ER1 S T 
+---proteus---
+M IY1 
+P L AE1 T F AO2 R M 
+---eglamour---
+CH AA1 R JH 

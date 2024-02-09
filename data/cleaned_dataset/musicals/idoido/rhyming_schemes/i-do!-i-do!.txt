@@ -1,0 +1,11 @@
+D UW1 
+D UW1 
+T R UW1 
+T R UW1 
+R AY1 S 
+N AY1 S 
+D UW1 
+D UW1 
+D R IY1 M 
+T R UW1 
+D UW1 

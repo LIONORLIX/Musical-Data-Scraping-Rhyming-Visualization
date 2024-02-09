@@ -1,0 +1,63 @@
+CH IH1 R 
+IY1 R 
+K R AY1 
+B R AY1 D 
+B OY1 Z 
+AH0 W EY1 
+OW2 K EY1 
+HH AY1 D 
+P R EY1 
+D EY1 
+Y AE1 
+Y AE1 
+---bonejangles---
+ER0 AW1 N D 
+T AW1 N 
+K AE1 SH 
+F AE1 S T 
+K OW1 P 
+IH0 L OW1 P 
+B OY1 Z 
+AH0 W EY1 
+OW2 K EY1 
+HH AY1 D 
+P R EY1 
+D EY1 
+Y AE1 
+Y AE1 
+Y AE1 
+Y AE1 
+---bonejangles---
+N AY1 T 
+T AY1 T 
+G L AH1 V 
+L AH1 V 
+T OW1 L D 
+G OW1 L D 
+T R IY1 
+TH R IY1 
+HH IY1 
+B OY1 Z 
+DH EH1 N 
+---bonejangles---
+W EY1 T AH0 D 
+B OY1 Z 
+DH EH1 N 
+---bonejangles---
+M AE1 N 
+B OY1 Z 
+DH EH1 N 
+---bonejangles---
+L AW1 D 
+---boneboys---
+DH EH1 N 
+---bonejangles---
+B L AE1 K 
+D AH1 S T 
+B AH1 S T 
+T R IY1 
+F R IY1 
+HH AE1 N D 
+M AE1 N 
+S AY1 D 
+B R AY1 D 

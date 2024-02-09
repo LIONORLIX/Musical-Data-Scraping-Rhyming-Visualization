@@ -1,0 +1,50 @@
+L AY1 F 
+L EY1 T 
+W AY1 F 
+S T EY1 T 
+S T EY1 T 
+G R EY1 T 
+---pertaters---
+K AE1 T AH0 L 
+---termayters---
+Z UW1 M 
+R UW1 M 
+R OW1 P 
+HH OW1 P 
+P L EY1 N 
+S W IY1 T 
+R EY1 N 
+AY1 
+HH AO1 K 
+S K AY1 
+L AE1 N D 
+G R AE1 N D 
+S EY1 
+---ayipioeeay---
+S EY1 IH0 N 
+OW2 K L AH0 HH OW1 M AH0 
+OW1 K EY1 
+P L EY1 N 
+S W IY1 T 
+R EY1 N 
+AY1 
+HH AO1 K 
+S K AY1 
+L AE1 N D 
+G R AE1 N D 
+S EY1 
+---ayipioeeay---
+S EY1 IH0 N 
+OW2 K L AH0 HH OW1 M AH0 
+OW1 K EY1 
+---oklaoklaoklaoklaoklaokla---
+---oklaoklaoklaoklaoklaokla---
+L AE1 N D 
+G R AE1 N D 
+S EY1 
+---ayipioeeay---
+S EY1 IH0 N 
+OW2 K L AH0 HH OW1 M AH0 
+OW1 K EY1 
+AH0 
+OW2 K L AH0 HH OW1 M AH0 

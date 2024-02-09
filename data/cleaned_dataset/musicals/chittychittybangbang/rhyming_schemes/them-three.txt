@@ -1,0 +1,8 @@
+F AO1 R 
+TH R IY1 
+F AO1 R 
+TH R IY1 
+F AO1 R 
+K AA1 Z 
+TH R IY1 
+M IY1 

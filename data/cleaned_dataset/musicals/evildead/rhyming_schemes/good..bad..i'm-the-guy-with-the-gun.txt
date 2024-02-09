@@ -1,0 +1,19 @@
+AE1 SH 
+S IY1 
+AO0 L R EH1 D IY0 
+AE1 N IY0 
+B AE1 D 
+AE1 SH 
+G AH1 N 
+AE1 N IY0 
+K AE1 B AH0 N 
+AE1 SH 
+K W EH1 S CH AH0 N 
+AE1 N IY0 
+K AE1 B AH0 N 
+AE1 SH 
+AE1 S K 
+AE1 N IY0 
+---braggarts---
+AE1 SH 
+M IY1 

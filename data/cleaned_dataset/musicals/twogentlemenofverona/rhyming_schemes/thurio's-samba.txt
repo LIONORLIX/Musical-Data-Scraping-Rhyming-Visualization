@@ -1,0 +1,125 @@
+---thurio---
+AY1 Z 
+Y IY1 
+N OW1 Z 
+Y IY1 
+K L OW1 DH Z 
+Y IY1 
+IH1 T 
+T EY1 K 
+D UW1 K 
+S EH1 D 
+AH0 
+K AA1 
+K AA1 
+S AA1 
+W AW1 
+---thurio---
+W AW1 
+AA0 N S AA1 M B AH0 L 
+AH0 
+K AA1 
+K AA1 
+S AA1 
+W AW1 
+---thurio---
+N AW1 
+CH IY1 K S 
+Y IY1 
+HH AE1 N D Z 
+Y IY1 
+G L AE1 N D Z 
+Y IY1 
+AH1 P 
+D UW1 K 
+AH1 P 
+S EH1 D 
+AH0 
+K AA1 
+K AA1 
+S AA1 
+W AW1 
+AA0 N S AA1 M B AH0 L 
+AH0 
+K AA1 
+K AA1 
+S AA1 
+AH0 
+K AA1 
+AH0 
+K AA1 
+K AA1 
+S AA1 
+W AW1 
+---thurio---
+S EH1 D 
+S EH1 D 
+D UW1 K 
+W EH1 D 
+---thurio---
+B EH1 D 
+CH EH1 S T 
+Y IY1 
+G ER1 L 
+Y IY1 
+K AH0 N AE1 L 
+Y IY1 
+M EH1 D AH0 L Z 
+M EY1 L 
+W AY1 L 
+R AY1 T 
+M IY1 T IH0 NG 
+D UW1 K 
+S EH1 D 
+AA1 R M 
+---propertied---
+F R EH1 N D Z 
+AO1 R B 
+B AW1 N T IY0 
+T W AH1 Z 
+D IH0 L AY1 T S 
+AH0 B AH1 V 
+L IH1 V ER0 IY0 
+AY1 L AH0 N D 
+P AA1 K AH0 T 
+---thurio---
+S EH1 D 
+AA0 N S AA1 M B AH0 L 
+AH0 
+K AA1 
+K AA1 
+S AA1 
+W AW1 
+AA0 N S AA1 M B AH0 L 
+AH0 
+K AA1 
+K AA1 
+S AA1 
+AH0 
+W AW1 
+AH0 
+K AA1 
+K AA1 
+S AA1 
+W AW1 
+AH0 
+K AA1 
+K AA1 
+S AA1 
+AH0 
+W AW1 
+AH0 
+K AA1 
+K AA1 
+S AA1 
+W AW1 
+AA0 N S AA1 M B AH0 L 
+---owwwwwwwwwwwwwwwwwwww---
+K IH1 L D 
+L AH1 V 
+---owwwwwwwwwwwwwwwwwwww---
+L AH1 V 
+---owwwwwwwwwwwwwwwwwwww---
+L AH1 V 
+CH IH1 K 
+W AW1 

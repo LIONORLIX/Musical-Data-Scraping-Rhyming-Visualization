@@ -1,0 +1,9 @@
+R AO1 NG 
+B IH0 L IY1 V 
+R AO1 NG 
+M IY1 
+M IY1 
+R AO1 NG 
+B IH0 L IY1 V 
+R AO1 NG 
+M IY1 

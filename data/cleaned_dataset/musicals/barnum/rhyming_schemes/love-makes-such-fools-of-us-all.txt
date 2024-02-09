@@ -1,0 +1,23 @@
+---grans---
+---tid---
+L AA1 K ER0 
+---vind---
+---eld---
+M AA1 R 
+---grans---
+---tid---
+F ER1 
+R UW1 L Z 
+T AY1 M 
+R IY1 Z AH0 N 
+S T EY1 JH 
+S AH0 B L AY1 M 
+S IY1 Z AH0 N 
+F UW1 L Z 
+G EY1 M 
+T R IY1 Z AH0 N 
+S AO1 NG 
+F L EY1 M 
+W AO1 L 
+R UW1 L Z 
+T AY1 M 

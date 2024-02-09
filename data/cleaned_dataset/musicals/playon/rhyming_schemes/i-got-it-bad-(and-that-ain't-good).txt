@@ -1,0 +1,15 @@
+SH UH1 D 
+G UH1 D 
+W UH1 D 
+G UH1 D 
+---aroun---
+AW1 T 
+K UH1 D 
+G UH1 D 
+W UH1 D 
+G UH1 D 
+SH UH1 D 
+G UH1 D 
+T EH1 R Z 
+HH IH1 M 
+SH UH1 D 

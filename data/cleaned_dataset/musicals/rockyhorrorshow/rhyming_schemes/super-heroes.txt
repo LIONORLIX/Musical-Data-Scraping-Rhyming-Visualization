@@ -1,0 +1,9 @@
+T R AY1 D 
+L AY1 D 
+B L IY1 D IH0 NG 
+F IY1 S T 
+D IH0 S IY1 S T 
+F IY1 D IH0 NG 
+F EY1 S 
+R EY1 S 
+S P EY1 S 

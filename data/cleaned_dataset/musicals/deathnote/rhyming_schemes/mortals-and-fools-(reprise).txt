@@ -1,0 +1,14 @@
+IH1 T 
+F UW1 L Z 
+IH1 T 
+R UW1 L Z 
+AH0 L AY1 V 
+AH0 W EY1 
+L IY1 V 
+S T EY1 
+IH1 T 
+F UW1 L Z 
+IH1 T 
+DH AH0 
+S P OW1 K AH0 N 
+R EH1 M 

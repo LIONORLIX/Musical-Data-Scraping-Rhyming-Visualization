@@ -1,0 +1,54 @@
+---zorba---
+HH IH1 L 
+Y UW1 
+HH IH1 L 
+Y UW1 
+Y UW1 
+R UW1 M 
+HH IH1 L 
+Y UW1 
+Y UW1 
+D AO1 R 
+D AO1 R 
+D AO1 R 
+HH IH1 L 
+Y UW1 
+---zorba---
+R EH1 D 
+F R EH1 N CH 
+W AY1 T 
+F R EH1 N CH 
+D AW1 N 
+F R EH1 N CH 
+K UW1 L 
+F R EH1 N CH 
+HH IH1 L 
+---zorba---
+W IY1 K 
+T AH1 F 
+HH AA1 R D 
+R AH1 F 
+OW1 L D 
+HH AA1 T 
+K OW1 L D 
+N AA1 T 
+HH IH1 L 
+HH IH1 L 
+Y UW1 
+Y UW1 
+HH IH1 L 
+Y UW1 
+Y UW1 
+R UW1 M 
+HH IH1 L 
+Y UW1 
+Y UW1 
+D AO1 R 
+D AO1 R 
+---hortense---
+HH IY1 R 
+HH IH1 L 
+---zorba---
+HH IH1 L 
+Y UW1 
+Y UW1 

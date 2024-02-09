@@ -1,0 +1,7 @@
+way
+land
+road
+hand
+way
+land
+but

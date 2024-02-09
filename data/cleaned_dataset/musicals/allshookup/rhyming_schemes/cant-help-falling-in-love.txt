@@ -1,0 +1,15 @@
+IH0 N 
+Y UW1 
+S T EY1 
+S IH1 N 
+Y UW1 
+S IY1 
+G OW1 Z 
+B IY1 
+T UW1 
+Y UW1 
+S IY1 
+G OW1 Z 
+B IY1 
+T UW1 
+Y UW1 

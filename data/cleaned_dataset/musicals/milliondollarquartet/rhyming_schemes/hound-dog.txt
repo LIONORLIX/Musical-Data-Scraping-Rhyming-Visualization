@@ -1,0 +1,11 @@
+D AO1 G 
+T AY1 M 
+D AO1 G 
+T AY1 M 
+R AE1 B AH0 T 
+M AY1 N 
+K L AE1 S T 
+L AY1 
+K L AE1 S T 
+L AY1 
+R AE1 B AH0 T 

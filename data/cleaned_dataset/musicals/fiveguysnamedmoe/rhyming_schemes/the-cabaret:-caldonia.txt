@@ -1,0 +1,49 @@
+S AO1 NG 
+W AH1 T 
+L IH1 F T 
+B EY1 B IY0 
+F IY1 T 
+IY1 T 
+S EY1 M 
+N EY1 M 
+---cal'donia---
+W AH1 T 
+---cal'donia---
+W AH1 T 
+HH AA1 R D 
+M AA1 P 
+S EY1 M 
+N EY1 M 
+S EH1 D 
+Y UW1 
+HH AA1 R T 
+M AA1 M AH0 
+T EH1 L 
+HH AW1 S 
+S EY1 
+---cal'donia---
+W AH1 T 
+---cal'donia---
+W AH1 T 
+HH AA1 R D 
+M AA1 P 
+S EY1 M 
+Y AE1 
+G OW1 
+---cal'donia---
+W AH1 T 
+---cal'donia---
+W AH1 T 
+HH AA1 R D 
+M AA1 P 
+S EY1 M 
+N EY1 M 
+AH0 G EH1 N 
+---cal'donia---
+W AH1 T 
+---cal'donia---
+W AH1 T 
+HH AA1 R D 
+M AA1 P 
+Y AE1 
+N EY1 M 

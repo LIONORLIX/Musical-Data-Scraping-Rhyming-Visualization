@@ -1,0 +1,27 @@
+W AA1 P 
+W AA1 P 
+W AA1 P 
+---teardrops---
+---teardrops---
+HH OW1 M 
+W IH1 L 
+W IH1 L 
+W IH1 L 
+---teardrops---
+---teardrops---
+HH OW1 M 
+W IH1 L 
+W IH1 L 
+W IH1 L 
+R OW0 M AE1 N S 
+R IH0 T ER1 N 
+AH0 W EY1 
+K R AY1 IH0 NG 
+---teardrops---
+---teardrops---
+HH OW1 M 
+W IH1 L 
+W IH1 L 
+W IH1 L 
+W IH1 L 
+W IH1 L 

@@ -1,0 +1,12 @@
+T UW1 
+Y UW1 
+Y UW1 
+Y UW1 
+ER0 AW1 N D 
+M IY1 
+Y UW1 
+D UW1 
+ER0 AW1 N D 
+M IY1 
+Y UW1 
+D UW1 

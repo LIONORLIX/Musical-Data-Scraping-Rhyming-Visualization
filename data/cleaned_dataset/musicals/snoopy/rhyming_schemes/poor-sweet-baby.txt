@@ -1,0 +1,23 @@
+B EY1 B IY0 
+B EY1 B IY0 
+W EH1 L 
+T EH1 L 
+B EY1 B IY0 
+B EY1 B IY0 
+S AY1 Z 
+AH0 N D 
+AY1 Z 
+M IY1 
+T EH1 R Z 
+M IY1 
+D R EY1 N 
+---cryin'em---
+F AO1 R 
+F AO1 R 
+N IH1 R 
+AH0 N D 
+IY1 R 
+F IH1 R 
+B EY1 B IY0 
+B EY1 B IY0 
+B EY1 B IY0 

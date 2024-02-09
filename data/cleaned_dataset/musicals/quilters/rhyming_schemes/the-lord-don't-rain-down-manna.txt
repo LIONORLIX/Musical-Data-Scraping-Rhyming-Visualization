@@ -1,0 +1,8 @@
+Y AA1 R D 
+F L OW1 
+Y AA1 R D 
+B IH0 L OW1 
+HH OW1 S T 
+DH OW1 
+OW1 V ER0 F L OW2 
+Y AA1 R D 

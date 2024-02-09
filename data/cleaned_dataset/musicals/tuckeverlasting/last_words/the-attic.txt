@@ -1,0 +1,7 @@
+house
+haunted
+pay
+wanted
+door
+floor
+for

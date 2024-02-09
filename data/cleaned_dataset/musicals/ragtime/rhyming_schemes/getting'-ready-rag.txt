@@ -1,0 +1,14 @@
+R AE1 G 
+R AE1 G 
+R AE1 G 
+T EY1 K S 
+N IY1 D 
+---coalhouse---
+B AE1 K 
+R AE1 G 
+G EH1 T 
+Y EH1 T 
+---coalhouse---
+S IY1 
+M IY1 
+T IY1 

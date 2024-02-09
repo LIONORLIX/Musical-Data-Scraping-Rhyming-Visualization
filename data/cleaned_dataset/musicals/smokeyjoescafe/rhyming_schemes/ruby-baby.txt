@@ -1,0 +1,21 @@
+N EY1 M 
+S EY1 M 
+Y UW1 
+Y UW1 
+M AY1 N 
+K R AY1 Z 
+G AY1 Z 
+Y UW1 
+Y UW1 
+M AY1 N 
+M AY1 N 
+B IY1 
+M AY1 N 
+Y AE1 
+M AY1 N 
+B EY1 B IY0 
+M AY1 N 
+M AY1 N 
+M AY1 N 
+B EY1 B IY0 
+M AY1 N 

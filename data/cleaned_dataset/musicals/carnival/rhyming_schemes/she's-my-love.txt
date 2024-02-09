@@ -1,0 +1,18 @@
+F EH1 R 
+L AH1 V 
+P R EH1 R 
+L AH1 V 
+T R AY1 
+AY1 
+S K AY1 
+N AY1 T 
+L AH1 V 
+L AY1 T 
+L AH1 V 
+OW1 N 
+AH0 L OW1 N 
+N OW1 N 
+L AH1 V 
+OW1 N 
+AH0 L OW1 N 
+N OW1 N 

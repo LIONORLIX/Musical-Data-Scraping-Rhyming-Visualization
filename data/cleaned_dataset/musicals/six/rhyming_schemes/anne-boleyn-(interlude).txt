@@ -1,0 +1,20 @@
+F AO1 R 
+F AO1 R 
+M IH1 S T ER0 IY0 
+---changedhistory---
+HH IH1 S T ER0 IY0 
+M IH1 S T ER0 IY0 
+T EH1 M P T R IH0 S 
+---theplan---
+M AE1 N 
+AE1 N 
+K IH1 NG 
+S W IH1 NG 
+W IH1 N 
+B OW0 L IH1 N 
+B OW0 L IH1 N 
+B OW0 L IH1 N 
+B OW0 L IH1 N 
+B OW0 L IH1 N 
+B OW0 L IH1 N 
+B OW0 L IH1 N 

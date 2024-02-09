@@ -1,0 +1,53 @@
+HH AE1 NG 
+G AE1 NG 
+W AY1 L 
+W AY1 L 
+AH2 N P R IH0 D IH1 K T AH0 B AH0 L 
+F L AE1 SH 
+IH1 Z 
+M AE1 N 
+D UW1 
+B R IH1 NG K 
+L IH1 M 
+S W IH1 M 
+W EY1 T IH0 NG 
+Y UW1 
+F L OW1 
+W AA1 Z 
+B AH1 Z 
+F AY1 N D 
+---leftbehind---
+D AW1 N 
+D AW1 N 
+Y UW1 
+W AY1 Z 
+L EH1 JH 
+EH1 JH 
+---missin---
+B IY1 
+F AY1 N AH0 L IY0 
+F L OW1 
+T AY1 D 
+G AY1 D 
+W EH1 N 
+AH0 N D 
+F L OW1 
+---stressin---
+P AE1 D 
+IH1 T 
+B IY1 
+G IH0 T AA1 R 
+D AW1 N 
+K R UW1 Z 
+G IH1 R 
+D AW1 N 
+T R AE1 NG K W AH0 L AY2 Z ER0 
+F L OW1 
+F L OW1 
+F L OW1 
+T AY1 D 
+G AY1 D 
+W EH1 N 
+IH1 T 
+F L OW1 
+AA2 P ER0 T UW1 N AH0 T IY0 Z 

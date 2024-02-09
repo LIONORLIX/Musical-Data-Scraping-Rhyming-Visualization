@@ -1,0 +1,22 @@
+G ER1 L 
+B OY1 
+L AH1 V 
+B IY1 
+M IY1 
+AH1 V 
+W OW1 
+HH AH0 L OW1 
+G ER1 L 
+B OY1 
+L AH1 V 
+G ER1 L 
+B OY1 
+L AH1 V 
+B IY1 
+M IY1 
+AH1 V 
+W OW1 
+HH AH0 L OW1 
+G ER1 L 
+B OY1 
+L AH1 V 

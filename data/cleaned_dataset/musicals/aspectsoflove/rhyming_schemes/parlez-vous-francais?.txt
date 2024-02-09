@@ -1,0 +1,34 @@
+S IY1 N 
+F R AA0 N S EY1 
+S AE1 D 
+F R AA0 N S EY1 
+B AE1 D 
+S EY1 
+EH1 K S 
+B EH1 L 
+N OW1 
+S OW1 
+S K UW1 L 
+F UW1 L 
+F R AA0 N S EY1 
+W IY1 
+F R AA0 N S EY1 
+M IY1 
+JH OW1 Z IY0 
+---mam'selle---
+SH EH1 R IY0 
+---commencer---
+F R AA0 N S EY1 
+M IY1 
+F R AA0 N S EY1 
+D UW1 
+F R AA0 N S EY1 
+T R UW1 
+AH0 N HH AE1 P IY0 
+F EH1 L AH0 
+SH EH1 R IY0 
+D AE1 N S ER0 
+F R AA0 N S EY1 
+M IY1 
+D AE1 N S ER0 
+F R AA0 N S EY1 

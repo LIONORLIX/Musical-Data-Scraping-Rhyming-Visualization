@@ -1,0 +1,16 @@
+S IY1 
+M IY1 
+N AY1 T 
+S T AA1 K 
+F IY1 L Z 
+S T AA1 K 
+W IY1 L Z 
+M IY1 
+S IY1 
+N AY1 T 
+S T AA1 K 
+S AH1 M HH AW2 
+N AW1 
+N AY1 T 
+S T AA1 K 
+S T AA1 K 

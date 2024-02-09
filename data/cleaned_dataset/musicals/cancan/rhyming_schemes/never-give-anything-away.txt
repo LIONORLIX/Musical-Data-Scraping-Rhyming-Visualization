@@ -1,0 +1,46 @@
+F AA1 R 
+S T AA1 R 
+N IY1 
+M IY1 
+AH0 W EY1 
+AH0 N W AY1 Z 
+AH0 W EY1 
+K AA1 M P R AH0 M AY2 Z 
+S EY1 
+W EH1 L 
+AH0 W EY1 
+S EH1 L 
+D EY1 
+B EH1 L 
+AH0 W EY1 
+S EH1 L 
+T UW1 
+G ER1 L Z 
+AH0 W EY1 
+AH0 W EY1 
+AH0 N W AY1 Z 
+---pistache---
+AH0 W EY1 
+AH0 W EY1 
+K AA1 M P R AH0 M AY2 Z 
+S EY1 
+S EY1 
+T EH1 L 
+AH0 W EY1 
+AH0 W EY1 
+S EH1 L 
+S EY1 
+---demoiselle---
+AH0 W EY1 
+G ER1 L Z 
+AH0 W EY1 
+---pistache---
+AH0 W EY1 
+G ER1 L Z 
+AH0 W EY1 
+---pistache---
+AH0 W EY1 
+G ER1 L Z 
+AH0 W EY1 
+---pistache---
+AH0 W EY1 

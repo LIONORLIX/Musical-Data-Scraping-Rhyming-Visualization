@@ -1,0 +1,245 @@
+<!-- https://stackoverflow.com/questions/43893351/loading-csv-data-into-html-div -->
+
+<!-- https://stackoverflow.com/questions/18480550/how-to-load-all-the-images-from-one-of-my-folder-into-my-web-page-using-jquery -->
+<!-- https://stackoverflow.com/questions/41261537/getting-the-list-of-files-inside-a-folder-using-ajax -->
+<!-- https://forum.jquery.com/portal/en/community/topic/folder-list-through-jquery-ajax-call -->
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@900&display=swap" rel="stylesheet">
+
+    <style>
+        :root {
+            --opacity-show: 0%;
+        }
+
+        body {
+            /*font-variant-east-asian: traditional;*/
+            font-family: 'Noto Sans SC', sans-serif;
+            background-color: gainsboro;
+        }
+
+        .title{
+            text-align: center;
+        }
+
+        #mainBody {
+            width: 100vw;
+            text-align: center;
+            position: relative;
+            left: 50%;
+            transform: translate(-50%);
+        }
+
+        .box {
+            display: inline-block;
+            width: 40%;
+            height: 85vh;
+            overflow: scroll;
+            vertical-align: top;
+            background-color: white;
+            transition:width 0.2s linear
+        }
+
+        select{
+            text-align: center;
+            font-size: 14pt;
+            position: fixed;
+            transform: translate(-50%,50%);
+            width:30%
+        }
+        .select_container{
+            height: 8%;
+        }
+
+        div img {
+            width: 90%;
+            object-fit: cover;
+            padding: 5%;
+        }
+
+
+        .realBox div {
+            min-height: 80px;
+        }
+
+        p {
+            padding: 20px;
+            padding-bottom: 0;
+            margin: 0;
+            text-align: left;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="title">
+    <h1>Patterns of Musical Rhyming Scheme</h1>
+    </div>
+    <div id="mainBody">
+
+        <div id="left_vis_box" class="box">
+            <div class="select_container">
+                <select name="languages" id="left_options" class="options" onchange="left_show()">
+                    <!-- <option value="javascript">JavaScript</option> -->
+                </select>
+            </div>
+            
+            <div class="head"></div>
+            <div id="left_vis" class="realBox">
+
+            </div>
+        </div>
+
+        <div id="right_vis_box" class="box">
+            <div class="select_container">
+            <select name="languages" id="right_options" class="options" onchange="right_show()">
+                <!-- <option value="javascript">JavaScript</option> -->
+            </select>
+            </div>
+            <div class="head"></div>
+            <div id="right_vis" class="realBox">
+                <!-- <img id="right_vis_image" src="data/cleaned_dataset/musicals/hamilton/rhyming_pattern.jpg" width="100%"> -->
+            </div>
+        </div>
+    </div>
+
+</body>
+
+<!-- <script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.min.js"></script> -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+
+<script type="text/javascript">
+
+    $(document).ready(function () {
+        $.ajax({
+            type: "GET",
+            url: "data/raw_data_scraped/musical_list.csv",
+            dataType: "text",
+            success: function (data) {
+                processData(data);
+            }
+        });
+
+        left_song_list_path = "data/cleaned_dataset/musicals/hamilton/patterns";
+        // document.getElementById("right_vis_image").src = right_image_path;
+
+        $.ajax({
+            type: 'GET',
+            dataType: 'json',
+            url: left_song_list_path,
+            data: {
+                path: left_song_list_path
+            },
+            success: function (jsonArray) {
+                console.log(jsonArray)
+                var htmlValue = "<div id='left_vis' class='realBox'>";
+                jQuery.each(jsonArray, function (data, item) {
+                    htmlValue += "<image src=\""+left_song_list_path+"/" + encodeURIComponent(item) + "\" width=\"100%\" >";
+                });
+                htmlValue = htmlValue + "</div>";
+                console.log(htmlValue);
+                $("#left_vis").replaceWith(htmlValue);
+            }
+        });
+
+        right_song_list_path = "data/cleaned_dataset/musicals/six/patterns";
+        // document.getElementById("right_vis_image").src = right_image_path;
+
+        $.ajax({
+            type: 'GET',
+            dataType: 'json',
+            url: right_song_list_path,
+            data: {
+                path: right_song_list_path
+            },
+            success: function (jsonArray) {
+                console.log(jsonArray)
+                var htmlValue = "<div id='right_vis' class='realBox'>";
+                jQuery.each(jsonArray, function (data, item) {
+                    htmlValue += "<image src=\""+right_song_list_path+"/" + encodeURIComponent(item) + "\" width=\"100%\" >";
+                });
+                htmlValue = htmlValue + "</div>";
+                console.log(htmlValue);
+                $("#right_vis").replaceWith(htmlValue);
+            }
+        });
+    });
+
+    function processData(allText) {
+        var allTextLines = allText.split(/\n/);
+        var left_options = $("#left_options");
+        for (var i = 1; i < allTextLines.length; i++) {
+            var data = allTextLines[i].split('\t');
+            left_options.append($("<option />").val(data[3]).text(data[0]));
+        }
+        document.getElementById("left_options").selectedIndex = 196;
+        var right_options = $("#right_options");
+        for (var i = 1; i < allTextLines.length; i++) {
+            var data = allTextLines[i].split('\t');
+            right_options.append($("<option />").val(data[3]).text(data[0]));
+        }
+        document.getElementById("right_options").selectedIndex = 399;
+    }
+
+    function left_show() {
+        song_list_path = "data/cleaned_dataset/musicals/" + document.getElementById("left_options").value + "/patterns";
+        // document.getElementById("left_vis_image").src = left_image_path;
+
+        $.ajax({
+            type: 'GET',
+            dataType: 'json',
+            url: song_list_path,
+            data: {
+                path: song_list_path
+            },
+            success: function (jsonArray) {
+                console.log(jsonArray)
+                var htmlValue = "<div id='left_vis' class='realBox'>";
+                jQuery.each(jsonArray, function (data, item) {
+                    htmlValue += "<image src=\""+song_list_path+"/" + encodeURIComponent(item) + "\" width=\"100%\" >";
+                });
+                htmlValue = htmlValue + "</div>";
+                console.log(htmlValue);
+                $("#left_vis").replaceWith(htmlValue);
+            }
+        });
+    }
+
+    function right_show() {
+        song_list_path = "data/cleaned_dataset/musicals/" + document.getElementById("right_options").value + "/patterns";
+        // document.getElementById("right_vis_image").src = right_image_path;
+
+        $.ajax({
+            type: 'GET',
+            dataType: 'json',
+            url: song_list_path,
+            data: {
+                path: song_list_path
+            },
+            success: function (jsonArray) {
+                console.log(jsonArray)
+                var htmlValue = "<div id='right_vis' class='realBox'>";
+                jQuery.each(jsonArray, function (data, item) {
+                    htmlValue += "<image src=\""+song_list_path+"/" + encodeURIComponent(item) + "\" width=\"100%\" >";
+                });
+                htmlValue = htmlValue + "</div>";
+                console.log(htmlValue);
+                $("#right_vis").replaceWith(htmlValue);
+            }
+        });
+
+    }
+
+</script>
+
+</html>

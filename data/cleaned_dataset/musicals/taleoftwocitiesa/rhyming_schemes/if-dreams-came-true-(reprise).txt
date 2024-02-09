@@ -1,0 +1,4 @@
+D EH1 D 
+L EH1 D 
+CH AE1 N S 
+AH0 N UW1 

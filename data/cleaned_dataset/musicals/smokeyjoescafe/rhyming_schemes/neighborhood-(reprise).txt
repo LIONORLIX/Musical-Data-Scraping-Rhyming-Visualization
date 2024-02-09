@@ -1,0 +1,7 @@
+F AO1 R 
+D AO1 R 
+S EY1 
+AH0 W EY1 
+S K R AE1 P B UH2 K 
+L UH1 K 
+AO1 L 

@@ -1,0 +1,22 @@
+B L UW1 
+R EH1 D 
+B L UW1 
+R EH1 D 
+G EH1 T 
+AE1 K W AH0 
+B IH0 T W IY1 N 
+B AH1 M 
+S EH1 D 
+B L UW1 
+R EH1 D 
+G EH1 T 
+AE1 K W AH0 
+B IH0 T W IY1 N 
+B R AH1 N 
+S EH1 D 
+G R EY1 
+AH0 N D 
+---aa---
+K AH1 L ER0 
+B L AE1 K 
+D IH1 L IY0 D AE1 L IY0 

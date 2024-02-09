@@ -1,0 +1,14 @@
+S T AA1 R T 
+S M AA1 R T 
+B EH1 S T 
+HH AA1 R T 
+Y UW1 
+M IY1 
+TH R UW1 
+M IY1 
+D EY1 
+S EY1 
+W EY1 
+B IY1 
+Y UW1 
+AH0 G R IY1 

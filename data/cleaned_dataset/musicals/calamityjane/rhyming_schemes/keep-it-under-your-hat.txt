@@ -1,0 +1,15 @@
+---patootie---
+HH AE1 T 
+OW1 L D 
+K AE1 T 
+D AE1 D IY0 
+M AE1 T 
+D AE1 N 
+K AE1 N 
+M AE1 N 
+HH AE1 T 
+HH AE1 T 
+M AE1 N 
+HH AE1 T 
+HH AE1 T 
+HH AE1 T 

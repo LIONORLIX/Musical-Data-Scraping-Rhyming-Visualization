@@ -1,0 +1,65 @@
+T EH1 L 
+W EH1 L 
+B L AA1 K 
+N AW1 
+N AW1 
+S M AA1 K 
+---lalala---
+L AH0 B EH1 L AH0 
+L AA1 
+AA1 
+---ooo---
+---ooo---
+---oooahhoo---
+---ooo---
+---oooahhoo---
+---ooo---
+---ooo---
+---ooo---
+OW1 K W UH2 D 
+W AA1 P 
+AA1 
+W AA1 P 
+AA1 
+W AH0 HH UW1 
+---babababa---
+W UH1 D R UW2 F 
+L AH0 B EH1 L AH0 
+W UH1 D R UW2 F 
+D R AA1 P AW2 T 
+---ooo---
+D R AA1 P AW2 T 
+---ooo---
+AA1 
+AA1 
+AA1 
+IH1 T 
+JH AA1 B 
+IH1 T 
+S L AA1 B 
+---ahahahahhh---
+---ooo---
+S K UW1 L 
+---ahhh---
+EY1 N JH AH0 L 
+---wooo---
+JH IY1 Z 
+IH1 T 
+AA1 
+IH1 T 
+AA1 
+AA1 
+T R AY1 
+S K AY1 
+AA1 
+AA1 
+AA1 
+AA1 
+S K AY1 
+AA1 
+EY1 N JH AH0 L Z 
+D R AA1 P AW2 T 
+S K UW1 L 
+D R AA1 P AW2 T 
+S K UW1 L 
+D R AA1 P AW2 T 

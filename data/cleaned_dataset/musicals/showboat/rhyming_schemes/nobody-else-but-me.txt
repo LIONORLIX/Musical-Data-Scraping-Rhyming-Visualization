@@ -1,0 +1,18 @@
+B IY1 
+M IY1 
+L AH1 V 
+M IY1 
+AE1 M 
+F AO1 L T S 
+F AO1 L T S 
+B R AY1 T 
+B R AY1 T 
+G R AE1 N D 
+M IY1 
+R AO1 NG 
+AH0 L AO1 NG 
+W IY1 
+K L OW1 S 
+B IY1 
+L AE1 D 
+G L AE1 D 

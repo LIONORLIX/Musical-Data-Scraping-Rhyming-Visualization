@@ -1,0 +1,28 @@
+B AH1 NG 
+B AH1 NG 
+B AH1 NG 
+B AH1 NG 
+OW1 V ER0 
+AH0 L OW1 N 
+OW1 N 
+B IY1 M 
+D R IY1 M 
+B AH1 NG 
+D R IY1 M 
+S IY1 N 
+R OW1 V ER0 
+OW1 V ER0 
+AH0 L OW1 N 
+OW1 N 
+B IY1 M 
+D R IY1 M 
+B AH1 NG 
+D R IY1 M 
+G L IY1 M 
+---pagliacci---
+L IH2 B ER0 AA1 CH IY0 
+HH OW1 L D 
+OW1 L D 
+B IY1 M 
+P L IY1 Z 
+D R IY1 M 

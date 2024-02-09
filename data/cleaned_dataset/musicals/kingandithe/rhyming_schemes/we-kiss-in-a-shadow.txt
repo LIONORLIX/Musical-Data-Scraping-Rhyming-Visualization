@@ -1,0 +1,33 @@
+---tha---
+SH AE1 D OW2 
+M UW1 N 
+F Y UW1 
+S UW1 N 
+W IH1 S P ER0 
+HH ER1 D 
+N IH1 R 
+W ER1 D 
+S IY1 K R AH0 T 
+S AY1 
+F R IY1 
+S AH1 N L AY2 T 
+S K AY1 
+S IY1 
+M IY1 
+---tuptim---
+W IH1 S P ER0 
+HH ER1 D 
+N IH1 R 
+W ER1 D 
+S IY1 K R AH0 T 
+S AY1 
+F R IY1 
+B OW1 TH 
+S AH1 N L AY2 T 
+S K AY1 
+S IY1 
+M IY1 
+---tuptim---
+S AH1 N L AY2 T 
+S K AY1 
+S IY1 

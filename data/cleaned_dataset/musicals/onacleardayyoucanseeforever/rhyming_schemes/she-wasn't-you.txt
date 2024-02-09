@@ -1,0 +1,18 @@
+B IH0 F AO1 R 
+B IH0 F AO1 R 
+Y UW1 
+M IY1 
+M IY1 
+D UW1 
+Y UW1 
+M IY1 
+M IY1 
+F AE1 S T 
+L AY1 V 
+G IH1 V 
+L AE1 S T 
+M IY1 
+M IY1 
+F AE1 S T 
+L AY1 V 
+G IH1 V 

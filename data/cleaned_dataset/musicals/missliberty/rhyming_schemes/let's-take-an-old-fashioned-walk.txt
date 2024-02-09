@@ -1,0 +1,25 @@
+R AY1 D 
+L AA1 T 
+S AY1 D 
+S P AA1 T 
+---sou---
+D UW1 
+W AO1 K 
+T AO1 K 
+T OW1 L D 
+W AO1 K 
+P AA1 R K 
+D AA1 R K 
+K AH0 N T R OW1 L D 
+W AO1 K 
+AH0 P AA1 R T 
+HH AA1 R T 
+D IH0 K L AY1 N D 
+M AY1 N D 
+S OW1 L D 
+W AO1 K 
+M IH2 L Y AH0 N EH1 R 
+S T EY1 T S 
+EH1 R 
+AH0 W EY1 T S 
+---sou---

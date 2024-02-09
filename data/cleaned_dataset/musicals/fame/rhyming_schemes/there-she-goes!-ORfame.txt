@@ -1,0 +1,60 @@
+G OW1 Z 
+S T AA1 R 
+AA1 R 
+G OW1 Z 
+Y UW1 
+L UH1 K 
+B UH1 K 
+Y UW1 
+SH AY1 
+S K EH1 R D 
+AY1 
+P R IY0 P EH1 R D 
+CH AA1 R T S 
+HH AA1 R T S 
+AO1 L 
+K R AW1 D Z 
+K L AW1 D Z 
+F EY1 M 
+F ER0 EH1 V ER0 
+F L AY1 
+T AH0 G EH1 DH ER0 
+K R AY1 
+F EY1 M 
+HH EH1 V AH0 N 
+F L EY1 M 
+F EY1 M 
+F ER0 EH1 V ER0 
+N EY1 M 
+R IH0 M EH1 M B ER0 
+R IH0 M EH1 M B ER0 
+R IH0 M EH1 M B ER0 
+R IH0 M EH1 M B ER0 
+R IH0 M EH1 M B ER0 
+R IH0 M EH1 M B ER0 
+S IH1 M P AH0 L 
+---volar---
+F EY1 M 
+---cielo---
+---brillar---
+S IH1 M P AH0 L 
+---volar---
+---cielo---
+M IH1 R AH0 
+---brillar---
+CH AA1 R T S 
+HH AA1 R T S 
+K R AW1 D Z 
+AO1 L 
+B AO1 L 
+G OW1 Z 
+G OW1 Z 
+G OW1 Z 
+G OW1 Z 
+HH ER0 
+HH ER0 
+G OW1 Z 
+R IH0 M EH1 M B ER0 
+R IH0 M EH1 M B ER0 
+R IH0 M EH1 M B ER0 
+R IH0 M EH1 M B ER0 

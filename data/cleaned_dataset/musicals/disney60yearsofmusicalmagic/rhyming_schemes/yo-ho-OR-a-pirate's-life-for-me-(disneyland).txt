@@ -1,0 +1,23 @@
+M IY1 
+L UW1 T 
+HH OW1 
+HH UW1 T 
+HH OW1 
+M IY1 
+S AE1 K 
+HH OW1 
+---highjack---
+HH OW1 
+M IY1 
+IH0 G N AY1 T 
+HH OW1 
+F R AY1 T 
+HH OW1 
+N EY1 V Z 
+HH OW1 
+EH1 G Z 
+HH OW1 
+K AE1 D S 
+HH OW1 
+D AE1 D Z 
+HH OW1 

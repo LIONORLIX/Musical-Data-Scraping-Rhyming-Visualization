@@ -1,0 +1,14 @@
+memory
+sky
+skin
+face
+up
+walk
+grace
+darkness
+light
+onwards
+moors
+road
+slow
+house

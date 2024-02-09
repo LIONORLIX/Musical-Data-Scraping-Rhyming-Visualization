@@ -1,0 +1,18 @@
+---cladwell---
+P AW1 ER0 
+P EH1 N IY0 
+---cladwell---
+---cladwell---
+---cladwell---
+B AH1 N IY0 
+R AW1 N D 
+P EH1 N IY0 
+AW1 ER0 
+S T AA1 R IY0 
+---cladwell---
+S AA1 R IY0 
+P EH1 N IY0 
+S AA1 R IY0 
+---cladwell---
+S AA1 R IY0 
+B OW1 TH 

@@ -1,0 +1,50 @@
+---jigger---
+F EY1 L 
+F EY1 L 
+M AE1 N 
+W EY1 L 
+S T OW1 N 
+W UH1 D 
+W UH1 M AH0 N 
+G UH1 D 
+T AO1 K 
+M IY1 
+S AH1 N 
+W AA1 Z 
+F AH1 N 
+M EH1 N 
+S T OW1 N 
+W UH1 D 
+W UH1 M AH0 N 
+G UH1 D 
+IY1 N AH0 K 
+S OW1 
+---jigger---
+T R UW1 
+AO1 L 
+S OW1 
+M EH1 N 
+T R UW1 
+G ER1 L Z 
+F EY1 L 
+F EY1 L 
+M AE1 N 
+W EY1 L 
+W AH1 N 
+Y UW1 
+T UW1 
+K EH1 R IY0 
+AO1 F 
+TH R IY1 
+M AE1 N 
+IH1 M 
+K EH1 R IY0 
+AH0 W EY1 
+S AY1 T 
+S K R AH1 B D 
+D EY1 
+N AY1 T 
+G ER1 L Z 
+S T OW1 N 
+W UH1 D 
+W UH1 M AH0 N 

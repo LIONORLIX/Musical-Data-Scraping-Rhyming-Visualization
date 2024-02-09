@@ -1,0 +1,17 @@
+N AY1 T 
+F L AY1 
+L AY1 F 
+ER0 AY1 Z 
+N AY1 T 
+S IY1 
+L AY1 F 
+F R IY1 
+F L AY1 
+N AY1 T 
+F L AY1 
+N AY1 T 
+N AY1 T 
+F L AY1 
+L AY1 F 
+ER0 AY1 Z 
+ER0 AY1 Z 

@@ -1,0 +1,16 @@
+P AW1 N D Z 
+L AH1 V 
+L AH1 V 
+AH1 P 
+L AH1 V 
+HH AE1 N D Z 
+L AE1 N D 
+L AH1 V 
+D AW1 N 
+ER0 AW1 N D 
+L AH1 V 
+D AW1 T 
+AW1 T 
+L AH1 V 
+T EH1 N D ER0 N AH0 S 
+B R EH1 S T 

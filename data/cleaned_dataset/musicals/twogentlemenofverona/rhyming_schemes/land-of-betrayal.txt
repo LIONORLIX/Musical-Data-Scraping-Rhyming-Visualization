@@ -1,0 +1,273 @@
+---lucetta---
+B IH0 T R EY1 AH0 L 
+HH EY1 T 
+DH EH1 R 
+G R EY1 T 
+---proteus---
+M IY1 
+---lucetta---
+P AH0 L UW1 T AH0 D 
+S EY1 M 
+AH1 S 
+B L EY1 M 
+L AY1 IH0 NG 
+B AE1 N 
+L AH1 V IH0 NG 
+JH AH0 P AE1 N 
+F AH0 M IH1 L Y ER0 
+DH EH1 R 
+S IH1 T IY0 
+D IH0 S P EH1 R 
+T AW1 N 
+AH0 W EY1 
+EH1 V R IY0 W EH2 R 
+D EY1 
+B IH0 T R EY1 AH0 L 
+HH EY1 T 
+DH EH1 R 
+G R EY1 T 
+---proteus---
+S IH1 L V IY0 AH0 
+R AY1 T 
+EH1 G Z IH0 T 
+AH1 P 
+HH IH1 Z 
+S EH1 N T ER0 
+HH IY1 
+F AO1 R 
+HH IH0 M S EH1 L F 
+L EH1 F T 
+R AY1 T 
+AH0 N D 
+S EH1 N T ER0 
+AH0 N D 
+S EH1 N T ER0 
+D UW1 K 
+V AE1 L AH0 N T AY2 N 
+---thurio---
+V AE1 L AH0 N T AY2 N 
+D UW1 K 
+F AE1 S T 
+V AE1 L AH0 N T AY2 N 
+M EH1 S AH0 N JH ER0 
+F R EH1 N D Z 
+DH EH1 M 
+D UW1 K 
+IH0 M P AO1 R T 
+V AE1 L AH0 N T AY2 N 
+S IH1 G N AH0 F AY2 
+K AO1 R T 
+D UW1 K 
+AH0 W AY1 L 
+T UW1 
+P OW1 L 
+V AE1 L AH0 N T AY2 N 
+---thurio---
+S T EY1 
+D UW1 K 
+AH0 F EH1 R Z 
+S IY1 K R AH0 T 
+S AO1 T 
+D AO1 T ER0 
+V AE1 L AH0 N T AY2 N 
+M AE1 CH 
+JH EH1 N T AH0 L M AH0 N 
+K W AA1 L AH0 T IY0 Z 
+D AO1 T ER0 
+---thurio---
+P ER0 S EH1 P T IH0 V 
+D UW1 K 
+V AE1 L AH0 N T AY2 N 
+K AH1 M 
+DH AH0 
+DH AH0 
+D UW1 K 
+---thurio---
+B AY1 K 
+D UW1 K 
+HH IY1 R 
+K OY1 
+EH1 L AH0 K W AH0 N S 
+T UW1 T ER0 
+---thurio---
+T UW1 T ER0 
+D UW1 K 
+K AO1 R T 
+CH EY1 N JH D 
+M AY2 S EH1 L F 
+AY1 
+F R EH1 N D Z 
+W ER1 TH 
+M EH1 N 
+HH ER0 
+V AE1 L AH0 N T AY2 N 
+N AY1 T 
+---thurio---
+S EY1 F 
+D UW1 K 
+N AY1 T 
+V AE1 L AH0 N T AY2 N 
+W IH1 N D OW0 
+---thurio---
+AH0 L AO1 F T 
+D UW1 K 
+IH1 T 
+L AY1 F 
+V AE1 L AH0 N T AY2 N 
+L AE1 D ER0 
+---thurio---
+L AE1 D ER0 
+D UW1 K 
+L AE1 D ER0 
+---thurio---
+L AE1 D ER0 
+V AE1 L AH0 N T AY2 N 
+K AO1 R D Z 
+AH1 P 
+T AW1 ER0 
+IH1 T 
+L AE1 F 
+D UW1 K 
+B L AH1 D 
+L AE1 D ER0 
+V AE1 L AH0 N T AY2 N 
+IH1 T 
+---thurio---
+N AY1 T 
+S AH1 N G L AE2 S IH0 Z 
+D UW1 K 
+CH AY1 L D 
+B AY1 
+V AE1 L AH0 N T AY2 N 
+---oclock---
+---thurio---
+K L AA1 K 
+V AE1 L AH0 N T AY2 N 
+L AE1 D ER0 
+D UW1 K 
+AH0 L OW1 N 
+---thither---
+V AE1 L AH0 N T AY2 N 
+IH1 T 
+K L OW1 K 
+S AH1 N G L AE2 S IH0 Z 
+F R EH1 N Z IY0 
+---thurio---
+K L OW1 K 
+V AE1 L AH0 N T AY2 N 
+L EH1 NG K TH 
+D UW1 K 
+T ER1 N 
+V AE1 L AH0 N T AY2 N 
+L AO1 R D 
+D UW1 K 
+K L OW1 K 
+L EH1 NG K TH 
+V AE1 L AH0 N T AY2 N 
+L AO1 R D 
+D UW1 K 
+K L OW1 K 
+M IY1 
+V AE1 L AH0 N T AY2 N 
+B AE1 K 
+DH AH0 
+B L OW1 
+G AA1 R D Z 
+---thurio---
+D IH0 V AY1 N 
+AH0 N D 
+D AH1 Z 
+V AE1 L AH0 N T AY2 N 
+AE1 T 
+R AY1 T 
+M AY1 N 
+DH AH0 
+B L OW1 Z 
+AH0 P IH1 R Z 
+W IH1 CH 
+G AA1 R D 
+K EY1 P 
+L AE1 D ER0 
+T UW1 
+V AE1 L AH0 N T AY2 N 
+D UW1 K 
+K W IH1 Z AH0 K AH0 L 
+F IH1 Z IH0 K AH0 L 
+P AE1 S T 
+L AE1 S T 
+S AE1 D 
+B AE1 D 
+M AE1 N 
+M AH0 L AA1 N 
+S EH1 N T ER0 
+JH AH1 S T 
+EH1 G Z IH0 T IH0 NG 
+V AE1 L AH0 N T AY2 N 
+T AO1 R M EH2 N T 
+M AY2 S EH1 L F 
+HH ER0 
+B AE1 N IH0 SH M AH0 N T 
+---contd---
+S IY1 N 
+B AY1 
+B AY1 
+P ER0 F EH1 K SH AH0 N 
+N AY1 T 
+N AY1 T IH0 NG G EY0 L 
+D EY1 
+AH0 P AA1 N 
+B IY1 
+IH1 N F L UW0 AH0 N S 
+AH0 L AY1 V 
+EH1 N T ER0 Z 
+---proteus---
+HH EH1 L P 
+---lamentst---
+G UH1 D 
+L AH1 V 
+L AY1 F 
+DH AE1 T 
+TH AO1 T S 
+HH EH1 N S 
+D IH0 L IH1 V ER0 D 
+L AH1 V 
+P R OW1 T EH2 S T 
+G EY1 T 
+L EH1 V AH0 L 
+S T EY1 JH 
+S IH1 L V IY0 AH0 
+V AE1 L AH0 N T AY2 N 
+---proteus---
+S AO1 L T 
+AO1 F 
+AA1 N 
+D UW1 K 
+D AO1 T ER0 
+S IH1 L V IY0 AH0 
+Y UW1 
+AH0 W EY1 
+AH0 W EY1 
+L AH1 V 
+D UW1 K 
+D IH1 R 
+S IH1 L V IY0 AH0 
+T AW1 ER0 
+V AE1 L AH0 N T AY2 N 
+AO1 F 
+---thurio---
+L AO1 R D 
+D UW1 K 
+Y EH1 S 
+---thurio---
+G R IY1 V AH0 S L IY0 
+D UW1 K 
+N OW1 
+P OW1 AH0 T 
+---sinews---
+S T OW1 N Z 
+L AH0 V AY1 AH0 TH AH0 N 
+S AE1 N D Z 
+---thurio---
+DH AE1 T 
+D UW1 K 
+M AO1 R 

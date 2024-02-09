@@ -1,0 +1,15 @@
+B AE1 D 
+M AE1 D 
+P R AY1 Z 
+AE0 D V AY1 Z 
+TH R IY1 
+F R IY1 
+T UW1 
+B L UW1 
+D UW1 
+B L UW1 
+TH R IY1 
+F R IY1 
+D UW1 
+T UW1 
+S AE1 M 

@@ -1,0 +1,19 @@
+N AA1 K 
+N AA1 K 
+DH EH1 R 
+DH EH1 R 
+AH1 P 
+---whooo---
+DH EH1 R 
+AH1 S 
+N AW1 
+AH1 P 
+N AA1 K 
+DH EH1 R 
+P R EH1 SH AH0 S 
+HH UW1 
+L IH1 T AH0 L 
+Y UW1 
+T R UW1 
+AH1 P 
+AH1 P 

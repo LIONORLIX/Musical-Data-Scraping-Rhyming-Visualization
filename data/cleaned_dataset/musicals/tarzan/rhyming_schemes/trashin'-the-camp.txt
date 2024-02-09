@@ -1,0 +1,23 @@
+D AA1 
+D AA1 
+D AA1 
+OW1 
+D AA1 
+D AA1 
+D UW1 
+---whoo---
+AH1 P 
+AH1 P 
+AH1 P 
+AH1 P 
+AW1 T 
+N AW1 
+AW1 T 
+D AA1 
+D AA1 
+D AA1 
+OW1 
+D AA1 
+D AA1 
+D UW1 
+---whoo---

@@ -1,0 +1,22 @@
+F IY1 L 
+F IY1 L 
+F IY1 L 
+D EY1 
+M IY1 
+G UH1 D 
+F IY1 L 
+F IY1 L 
+F IY1 L 
+D EY1 
+M IY1 
+G UH1 D 
+M IY1 N 
+M IY1 N 
+M IY1 N 
+W ER1 L D 
+M IY1 
+F IY1 L 
+F IY1 L 
+F IY1 L 
+D EY1 
+M IY1 

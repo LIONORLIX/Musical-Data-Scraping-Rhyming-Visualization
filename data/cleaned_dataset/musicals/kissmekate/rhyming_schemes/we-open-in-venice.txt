@@ -1,0 +1,42 @@
+W IY1 
+W IY1 
+B AE1 N D 
+L AE1 N D 
+F R AH0 V AA1 L AH0 T IY0 
+W IY1 
+W IY1 
+G R UW1 P 
+T R UW1 P 
+IH1 T AH0 L IY0 
+V EH1 N AH0 S 
+V ER0 OW1 N AH0 
+---cremona---
+---cremona---
+P AA1 R M AH0 
+M EH1 N AH0 S 
+P AE1 D Y UW0 AH0 
+W EH1 R 
+V EH1 N AH0 S 
+V ER0 OW1 N AH0 
+---cremona---
+---cremona---
+P AA1 R M AH0 
+M EH1 N AH0 S 
+P AE1 D Y UW0 AH0 
+W EH1 R 
+V EH1 N AH0 S 
+V ER0 OW1 N AH0 
+---cremona---
+---cremona---
+P AA1 R M AH0 
+M EH1 N AH0 S 
+P AE1 D Y UW0 AH0 
+W EH1 R 
+V EH1 N AH0 S 
+V ER0 OW1 N AH0 
+---cremona---
+---cremona---
+P AA1 R M AH0 
+M EH1 N AH0 S 
+P AE1 D Y UW0 AH0 
+W EH1 R 

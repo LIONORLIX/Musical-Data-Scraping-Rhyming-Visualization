@@ -1,0 +1,7 @@
+N AY1 T 
+---*dialogue---
+N AY1 T 
+S AA1 R OW0 
+N AY1 T 
+M AA1 R OW0 
+---*dialogue---

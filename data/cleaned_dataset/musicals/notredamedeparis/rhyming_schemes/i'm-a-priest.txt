@@ -1,0 +1,20 @@
+F EY1 S 
+P L EY1 S 
+G OW1 
+N OW1 
+G ER1 L 
+W ER1 L D 
+SH AA1 K 
+R AA1 K 
+K EH1 R 
+F L EH1 R 
+G ER1 L 
+W ER1 L D 
+G ER1 L 
+AH0 G EH1 N 
+S IH1 N 
+K R AY1 S T 
+P EH1 R AH0 D AY2 S 
+G ER1 L 
+W ER1 L D 
+G ER1 L 

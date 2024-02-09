@@ -1,0 +1,49 @@
+DH AE1 T 
+Z AA1 M B IY0 
+DH AE1 T 
+T UW1 
+DH AE1 T 
+AE2 B ER0 K R AA1 M B IY0 
+DH AE1 T 
+SH UW1 
+S AE1 NG K T AH0 M 
+DH AE1 T 
+Z AA1 M B IY0 
+EH2 N IY0 M AO1 R 
+HH IY1 R 
+F IH1 R 
+L EY1 
+N AW1 
+N AW1 
+M AH1 S T 
+K AE1 N T 
+M AH1 S T 
+K AE1 N T 
+B L AH1 D 
+EH2 N IY0 M AO1 R 
+B AE1 K 
+---foorbridge---
+G OW1 
+N AW1 
+V AE1 N 
+M IY1 
+W OW1 N T 
+W AO1 K 
+G OW1 
+HH AY1 K 
+S T AE1 N D 
+HH ER0 
+N UW1 
+P L AE1 N 
+DH AE1 T 
+V EY0 K EY1 SH AH0 N 
+DH AE1 T 
+AH0 L OW1 N 
+---necronomicon---
+D EH1 D 
+CH AE1 N T 
+K ER1 S 
+CH IH1 K S 
+G AO1 N 
+DH AE1 T 
+D EH1 D 

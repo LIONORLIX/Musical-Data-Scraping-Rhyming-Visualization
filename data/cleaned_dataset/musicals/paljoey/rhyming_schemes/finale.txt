@@ -1,0 +1,17 @@
+L AE1 S T 
+L AE1 S T 
+L AE1 S T 
+M AO1 R 
+L AA1 T 
+L AA1 T 
+L AA1 T 
+M AO1 R 
+IY1 T 
+---dyspeptic---
+B EH1 R 
+AE2 N T AH0 S EH1 P T IH0 K 
+DH EH1 R 
+---romancefinis---
+---chancefinis---
+---pantsfinis---
+M AO1 R 

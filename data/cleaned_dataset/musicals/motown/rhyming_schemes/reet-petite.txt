@@ -1,0 +1,29 @@
+W IY1 
+W IY1 
+W IY1 
+F AY1 N 
+F AY1 N 
+M IY1 T 
+OW1 
+M IY1 T 
+G IH1 V 
+L AY1 V 
+F AY1 N 
+M IY1 T 
+T OW1 
+S OW1 
+AO2 L R AY1 T 
+N AY1 T 
+OW1 
+M IY1 T 
+T R IY1 
+M IY1 
+T EY1 K S 
+R EY1 T S 
+F R EH1 T 
+B Y UW1 T IY0 
+T EY1 K S 
+R EY1 T S 
+OW1 
+M IY1 T 
+M IY1 T 

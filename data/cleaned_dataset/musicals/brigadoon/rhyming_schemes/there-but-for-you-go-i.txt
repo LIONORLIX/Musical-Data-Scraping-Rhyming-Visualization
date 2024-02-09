@@ -1,0 +1,16 @@
+L IY1 
+DH AE1 T 
+L OW1 N L IY0 
+W AY1 
+L OW1 
+G OW1 
+S AY1 
+AY1 
+S IY1 
+HH IY1 
+B AY1 
+AY1 
+K R AY1 
+AY1 
+OW1 N 
+S K AY1 

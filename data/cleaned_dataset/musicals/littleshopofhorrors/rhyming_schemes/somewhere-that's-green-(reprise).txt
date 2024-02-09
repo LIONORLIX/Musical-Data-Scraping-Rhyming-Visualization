@@ -1,0 +1,8 @@
+L IY1 V Z 
+P ER0 F Y UW1 M 
+M IY1 
+B L UW1 M 
+N AW1 
+S ER0 IY1 N 
+S IY1 
+B IY1 

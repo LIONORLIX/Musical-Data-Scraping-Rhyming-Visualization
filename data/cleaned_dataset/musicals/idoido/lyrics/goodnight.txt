@@ -1,0 +1,40 @@
+------ Goodnight ------
+--- Unknown ---
+She-Goodnight.
+He-Goodnight.
+She-I hope you sleep all right.
+He-I hope so too.
+She-Pleasant dreams.
+He-The same to you.
+--- Unknown ---
+Spoken: She-Michael? He-Yes, dear?
+--- Unknown ---
+She-I have never seen a man
+He-A man?
+She-Undressed
+He-I see.
+She-I'm afraid, I'm as innocent as I can be; I have never seen a single man, I mean, with clothes removed - and such -
+He-Well... you haven't really missed very much.
+She-Goodnight. He-Goodnight
+She-I hope you sleep all right.
+He-I hope so too.
+She-Pleasant dreams.
+He-The same to you.
+--- Unknown ---
+Spoken: She-Michael? He-Yes, dear?
+--- Unknown ---
+She-Have you ever seen a girl?
+He-A girl?
+She-Undressed?
+He-I see.
+She-Could it be - you're inexperienced the same as me? Have you ever seen a single girl; I mean, without a stitch of clothes?
+He-Well... I must have seen one once, I suppose.
+--- Unknown ---
+She-Goodnight He-Goodnight.
+She-Goodnight He-Goodnight.
+She-I hope you sleep all right He-I hope you sleep all right
+She-I hope so too. He-I hope you sleep well too.
+She-Pleasant dreams.
+He-The same to you...
+She-Pleasant dreams.
+------ fin ------

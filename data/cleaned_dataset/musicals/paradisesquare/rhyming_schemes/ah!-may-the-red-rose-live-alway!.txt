@@ -1,0 +1,36 @@
+---alway---
+S K AY1 
+W IY1 P 
+D AY1 
+R EY1 
+L AY1 T 
+K IH1 S 
+B R AY1 T 
+---alway---
+S K AY1 
+W IY1 P 
+D AY1 
+F IY1 L D 
+N IH1 R 
+HH EH1 D Z 
+F IH1 R 
+D IH0 L AY1 T 
+B R EY1 K S 
+F EH1 S T AH0 V AH0 L 
+W EY1 K S 
+F IY1 L D 
+N IH1 R 
+HH EH1 D Z 
+F IH1 R 
+B AW1 
+F L AW1 ER0 Z 
+W IH1 NG 
+B AW1 ER0 Z 
+P L AE1 N T S 
+B R IY1 F 
+K AO1 L 
+L IY1 F 
+---alway---
+S K AY1 
+W IY1 P 
+D AY1 

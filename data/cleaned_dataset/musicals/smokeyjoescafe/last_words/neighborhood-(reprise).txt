@@ -1,0 +1,7 @@
+for
+door
+say
+away
+scrapbook
+look
+all

@@ -1,0 +1,18 @@
+---forno---
+OW1 N 
+---livorno---
+F OW1 N 
+AH0 G OW1 
+S OW1 
+G W IY1 D OW0 
+M AW1 
+OW1 N 
+AA1 R M Z 
+F AY1 N 
+B IY1 
+B IY1 
+N AY1 N 
+B OY1 
+W ER1 D L AH0 S 
+K AH0 N D AH1 K T S 
+HH ER0 

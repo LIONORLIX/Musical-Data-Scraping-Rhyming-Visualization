@@ -1,0 +1,25 @@
+TH R IY1 
+S AA1 R N AH0 
+S AA1 R N AH0 
+S AA1 R N AH0 
+S AA1 R N AH0 
+HH AA1 
+HH AA1 
+HH AA1 
+HH AA1 
+---lalaariya---
+---lalaariya---
+S AA1 R N AH0 
+S AA1 R N AH0 
+S AA1 R N AH0 
+S AA1 R N AH0 
+S AA1 
+S AA1 
+S AA1 
+S AA1 
+S AA1 
+S AA1 
+S AA1 
+G AE1 L AH0 
+T UW1 
+---banaeeya---

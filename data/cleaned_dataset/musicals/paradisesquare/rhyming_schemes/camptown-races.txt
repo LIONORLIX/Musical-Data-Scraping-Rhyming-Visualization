@@ -1,0 +1,33 @@
+D AH1 
+D EY1 
+D AH1 
+D EY1 
+N AY1 T 
+D EY1 
+N AE1 G 
+B EY1 
+D AH1 
+D AH1 
+D AH1 
+D AH1 
+N AY1 T 
+D EY1 
+N AE1 G 
+B EY1 
+D AH1 
+D AH1 
+D AH1 
+D AH1 
+K AO1 R AH0 S 
+N AY1 T 
+D EY1 
+N AE1 G 
+B EY1 
+D AH1 
+D AH1 
+D AH1 
+D AH1 
+N AY1 T 
+D EY1 
+N AE1 G 
+B EY1 

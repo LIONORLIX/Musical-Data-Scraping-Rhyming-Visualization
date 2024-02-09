@@ -1,0 +1,9 @@
+S IY1 
+B IH0 L IY1 V 
+L IY1 V 
+L IY1 V 
+M IY1 
+D IH0 S IY1 V 
+B IH0 L IY1 V 
+L IY1 V 
+L IY1 V 

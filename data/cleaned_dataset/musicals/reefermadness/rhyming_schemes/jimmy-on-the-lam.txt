@@ -1,0 +1,25 @@
+P AW1 
+B AA1 P 
+---badop---
+IY1 
+Y UW1 
+Y UW1 
+HH AY1 D 
+SH EY1 M 
+G AH1 T ER0 
+B AH1 T ER0 
+B L EY1 M 
+Y UW1 
+Y UW1 
+JH UW1 L IY0 EH2 T 
+DH EH1 M 
+DH EH1 M 
+G EH1 T 
+L AE1 M 
+HH IH1 M 
+Y UW1 
+Y UW1 
+OW1 
+OW1 
+CH AH1 G 
+CH AH1 G 

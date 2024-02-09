@@ -1,0 +1,27 @@
+---shilo---
+D AE1 D 
+M EH1 D AH0 S AH0 N 
+Y EH1 S 
+DH AE1 T 
+W AH1 T 
+DH AE1 T 
+DH AE1 T 
+K R AE1 K T 
+M AE1 S K 
+B AE1 K 
+F AY1 N 
+T AY1 M 
+N IY1 D AH0 D 
+---shilo---
+Y UW1 
+DH AE1 T 
+DH AE1 T 
+P EY1 SH AH0 N T S 
+S IH1 K 
+L AY1 V 
+G R IH1 M 
+W AY1 L 
+D AH1 N 
+R AO1 NG 
+R AO1 NG 
+F AA1 DH ER0 

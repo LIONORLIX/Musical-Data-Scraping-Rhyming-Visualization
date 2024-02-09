@@ -1,0 +1,30 @@
+L UW0 IY1 Z 
+D UW1 
+---pippi---
+AY1 
+TH AO1 R N 
+AY1 
+L UW0 IY1 Z 
+OW1 
+D UW1 
+---pippi---
+EH1 L 
+F UW1 L 
+S K UW1 L 
+B R AY1 T 
+G UH1 D 
+M IY1 
+P AE1 D 
+B AO1 R D 
+R EY1 JH 
+D AE1 N S ER0 Z 
+EY1 JH 
+B IH0 G AH1 N 
+M IY1 
+G AH1 N 
+T W AY1 S 
+TH AO1 R N 
+AH0 G EH1 N 
+L UW0 IY1 Z 
+B IH0 G AH1 N 
+M IY1 

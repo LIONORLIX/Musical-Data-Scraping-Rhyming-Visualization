@@ -1,0 +1,11 @@
+B AE1 D 
+Y UW1 
+B L UW1 Z 
+N AY1 T S 
+Y UW1 
+R AH0 F Y UW1 Z 
+D OW1 
+D OW1 
+D OW1 
+B AA1 
+B L UW1 

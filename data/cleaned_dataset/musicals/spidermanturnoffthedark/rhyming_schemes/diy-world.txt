@@ -1,0 +1,51 @@
+EH1 M IH0 L IY0 
+B IY1 
+B IY1 
+B IY1 
+B IY1 
+W ER1 L D 
+AA0 N S AA1 M B AH0 L 
+B IY1 
+W ER1 L D 
+R EY1 Z 
+W EY1 V Z 
+W EY1 Z 
+HH IH1 N T 
+S W IH1 M 
+S K IH1 N 
+F IH1 T 
+AA0 N S AA1 M B AH0 L 
+B IY1 
+B IY1 
+B IY1 
+B IY1 
+W ER1 L D 
+AA0 N S AA1 M B AH0 L 
+B IY1 
+W ER1 L D 
+P IY1 T ER0 
+B IY1 Z 
+N AO1 R M AH0 N 
+K R IY0 EY1 SH AH0 N 
+N AO1 R M AH0 N 
+W EY1 
+N AO1 R M AH0 N 
+D EY1 
+N AO1 R M AH0 N 
+---solition---
+AA0 N S AA1 M B AH0 L 
+Y IH1 R Z 
+B IY1 
+B IY1 
+B IY1 
+B IY1 
+---repeatrepeat---
+AA0 N S AA1 M B AH0 L 
+W IY1 
+R IH0 P IY1 T 
+N AO1 R M AH0 N 
+IH0 M AE1 JH AH0 N 
+S T R EH1 NG K TH 
+---refelexes---
+G R AE1 S P 
+AA0 N S AA1 M B AH0 L 

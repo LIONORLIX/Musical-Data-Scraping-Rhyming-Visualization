@@ -1,0 +1,32 @@
+---yatata---
+---yatata---
+B IH1 Z IY0 
+B IH1 Z IY0 
+B IY1 
+W AH1 N 
+F OW1 N IH0 NG 
+T IY1 
+D AH1 N 
+L EY1 D IY0 Z 
+AH0 L AY1 V 
+K AA1 K T EY2 L Z 
+T EY1 L Z 
+F AY1 V 
+---yatata---
+---yatata---
+D AA1 K T ER0 
+D AA1 K T ER0 
+SH AA1 T 
+D IH0 V AY1 N 
+G AA1 T 
+F AY1 N 
+B AO1 L D ER0 D AE2 SH 
+T R AE1 SH 
+G AO1 N 
+G AO1 N 
+AA1 N 
+AA1 N 
+T AE1 T AH0 L 
+G AH1 SH 
+P AE1 T ER0 
+T UH1 SH 

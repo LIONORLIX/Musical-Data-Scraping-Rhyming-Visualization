@@ -1,0 +1,47 @@
+M IY1 
+S EH1 N S 
+F AE1 S T 
+P AA1 R T N ER0 
+T EH1 N S 
+L AE1 S T 
+K AE1 S T 
+S AY1 D 
+R IY1 Z AH0 N Z 
+M UW1 V 
+B IH0 L IY1 V 
+K AH0 N T IH1 N Y UW0 
+P R UW1 V 
+AH0 CH IY1 V 
+L IY1 V 
+G EY1 M 
+S EY1 M 
+S AY1 D 
+AH0 L OW1 N 
+OW1 N 
+S AY1 D 
+AH1 V 
+M AY1 N D 
+G OW1 
+F EY1 TH F AH0 L 
+S AY1 N D 
+N OW1 
+SH OW1 
+P L AE1 N 
+K AE1 N 
+S AY1 D 
+B EH1 D 
+HH EH1 D 
+S AY1 D 
+S AY1 D 
+AE0 D V AY1 S 
+---^^^^^^^^^^^^^^^chorus---
+S AY1 D 
+B IH0 L IY1 V 
+D IH0 S IY1 V 
+S AY1 D 
+S UW1 N 
+AE2 F T ER0 N UW1 N 
+S AY1 D 
+L AO1 NG 
+R AO1 NG 
+S AY1 D 

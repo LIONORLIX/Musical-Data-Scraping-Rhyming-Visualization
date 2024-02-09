@@ -1,0 +1,30 @@
+D EY1 
+M IY1 
+B IY1 
+D EY1 
+G ER1 L 
+F AO1 R 
+W AY1 D 
+S AY1 D 
+D EY1 
+G ER1 L 
+B OY1 
+ER0 AW1 N D 
+W EY1 T IH0 NG 
+D AA1 R L IH0 NG 
+D AW1 N 
+D EY1 
+M AO1 R 
+B IH0 F AO1 R 
+D EY1 
+---x3---
+ER0 AW1 N D 
+W EY1 T IH0 NG 
+D AA1 R L IH0 NG 
+D AW1 N 
+OW1 
+D EY1 
+M AO1 R 
+B IH0 F AO1 R 
+D EY1 
+---x3---

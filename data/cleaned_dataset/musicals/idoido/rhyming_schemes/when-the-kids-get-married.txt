@@ -1,0 +1,51 @@
+B EH1 D 
+---underhead---
+P IY1 S 
+S UW1 N 
+T R IH1 P 
+SH IH1 P 
+T UW1 
+K UW1 
+S UW1 N 
+M EY1 
+EH1 L AH0 
+IY1 
+M EY1 
+EH1 L AH0 
+IY1 
+B UW1 M 
+CH IH1 K 
+CH IH1 K 
+F AA1 R 
+HH AA1 R M 
+P EY1 
+L EY1 
+S UW1 N 
+P EY1 N T 
+K W EY1 N T 
+L AY1 V 
+P R IH1 M AH0 T IH0 V 
+S UW1 N 
+S AE1 K S AH0 F OW2 N 
+T OW1 N 
+HH AE1 N D 
+B AE1 N D 
+S UW1 N 
+V AY0 AH0 L IH1 N 
+S IH1 M P AH0 L 
+B IH0 G IH1 N 
+---lune---
+---tuen---
+S UW1 N 
+AO1 L 
+HH AO1 L 
+V AA1 D V IH0 L 
+S UW1 N 
+B EH1 D 
+R EH1 D 
+G AA1 L F 
+AO1 F 
+S AE1 K S 
+---lune---
+HH AH1 N IY0 M UW2 N 
+S UW1 N 

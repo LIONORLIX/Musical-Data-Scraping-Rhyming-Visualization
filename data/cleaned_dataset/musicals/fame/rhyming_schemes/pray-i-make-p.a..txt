@@ -1,0 +1,19 @@
+P R EY1 
+P AA1 
+M EY1 K 
+P AA1 
+P R EY1 
+P AA1 
+M EY1 K 
+P AA1 
+P R EY1 
+P AA1 
+M EY1 K 
+P AA1 
+P R EY1 
+P R EY1 
+P R EY1 
+P R EY1 
+P AA1 
+M EY1 K 
+P AA1 

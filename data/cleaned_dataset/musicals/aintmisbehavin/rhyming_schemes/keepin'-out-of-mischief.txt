@@ -1,0 +1,65 @@
+N AW1 
+HH AW1 
+F AY1 ER0 
+D IH0 Z AY1 ER0 
+S IY1 
+M IY1 
+AH0 D V AE1 N S 
+R OW0 M AE1 N S 
+V AW1 Z 
+N AW1 
+N AW1 
+HH AW1 
+F AY1 ER0 
+D IH0 Z AY1 ER0 
+S IY1 
+M IY1 
+AH0 D V AE1 N S 
+R OW0 M AE1 N S 
+V AW1 Z 
+M IH1 S CH AH0 F 
+Y AE1 
+M IH1 S CH AH0 F 
+Y AE1 
+N AW1 
+---jumpin---
+JH AA1 N S AH0 N 
+W AO1 L ER0 
+---jumpin'---
+---jumpin'---
+HH AE1 T S 
+---jumpin---
+TH AH1 M P IH0 NG 
+B AH1 M P IH0 NG 
+HH AA1 T 
+---jumpin'---
+D AO1 R 
+K W AO1 R T ER0 
+F L AO1 R 
+D AO1 T ER0 
+R AA1 K IH0 N 
+N AA1 K IH0 NG 
+K AH1 M Z 
+---jumpin---
+B IY1 T 
+---jumpin'---
+---jumpin'---
+T OW1 Z 
+---jumpin---
+T AO1 K IH0 N 
+W AO1 K IH0 N 
+R AH1 G 
+---jumpin---
+JH IH1 N 
+K IH1 CH AH0 N 
+IH0 N 
+S W IH1 CH IH0 NG 
+AW1 ER0 
+P AW1 ER0 
+JH EY1 L 
+---jumpin---
+---jumpin'---
+---jumpin'---
+K AH1 M Z 
+---jumpin---
+N EY1 M 

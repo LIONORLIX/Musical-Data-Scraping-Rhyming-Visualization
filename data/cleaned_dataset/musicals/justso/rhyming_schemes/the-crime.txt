@@ -1,0 +1,10 @@
+D AE1 F T 
+R AE1 F T 
+P Y UH1 R AH0 S T S 
+S EY1 M 
+M AO1 R S AH0 L 
+CH IH1 P 
+T R IH1 P 
+T IY1 
+L OW1 F 
+---parsee---

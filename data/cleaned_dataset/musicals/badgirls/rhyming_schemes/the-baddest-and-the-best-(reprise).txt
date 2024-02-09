@@ -1,0 +1,8 @@
+B AE1 D 
+B EH1 S T 
+D AW1 N 
+CH EH1 S T 
+M AE1 D 
+R EH1 S T 
+T AW1 N 
+B EH1 S T 

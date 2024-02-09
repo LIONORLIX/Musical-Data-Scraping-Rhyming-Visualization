@@ -1,0 +1,52 @@
+---for…arsenal---
+L AA1 
+N OY1 Z 
+B OY1 Z 
+W AY1 L D 
+EH1 V R IY0 B AA2 D IY0 
+W AY1 L D 
+M AY1 N D 
+HH AH1 N IY0 
+TH IH1 NG 
+W AY1 
+S EY1 IH0 NG 
+W AY1 
+L AY1 IH0 NG 
+JH AE1 B 
+M AY1 N D 
+G EH1 T ER0 
+T AH0 N AY1 T 
+W AY1 
+M IY1 
+EH2 N IY0 M AO1 R 
+---stacee---
+W EY1 T 
+R IH0 JH IY1 N AH0 
+F AE1 SH AH0 S T 
+R IH0 JH IY1 N AH0 
+S T AO1 R 
+R IH0 JH IY1 N AH0 
+F AE1 SH AH0 S T 
+AA1 N 
+IH1 T 
+IH1 T 
+EH2 N IY0 M AO1 R 
+HH EH1 R T S 
+---zat---
+N OY1 Z 
+B OY1 Z 
+W AY1 L D 
+W AY1 L D 
+D R UW1 
+F AO1 R 
+N OY1 Z 
+B OY1 Z 
+W AY1 L D 
+W AY1 L D 
+D R UW1 
+N OY1 Z 
+B OY1 Z 
+W AY1 L D 
+W AY1 L D 
+---yeaaaaaaahhhhh---
+K W IH1 T 

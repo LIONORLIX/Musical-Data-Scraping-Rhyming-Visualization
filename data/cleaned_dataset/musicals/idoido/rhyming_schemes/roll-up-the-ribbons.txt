@@ -1,0 +1,10 @@
+P EY1 P ER0 Z 
+AH0 W EY1 
+W EY1 
+F Y UW1 CH ER0 
+T R UW1 
+W EY1 
+Y UW1 
+W EY1 
+Y UW1 
+Y UW1 

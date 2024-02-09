@@ -1,0 +1,30 @@
+N AA1 
+---encuentro---
+K EY1 L 
+---amorado---
+S OW1 L OW2 
+---djoba---
+M AA1 Z 
+---djoba---
+M AA1 Z 
+---djoba---
+M AA1 Z 
+---djoba---
+M AA1 Z 
+---djoba---
+M AA1 Z 
+---djoba---
+M AA1 Z 
+L UW0 IY1 Z AH0 
+IH0 M P AO1 R T 
+D IH1 S T AH0 N S 
+S P EH1 R 
+---retir---
+EY1 
+Y AA1 
+---djoba---
+M AA1 Z 
+---djoba---
+M AA1 Z 
+---djoba---
+M AA1 Z 

@@ -1,0 +1,143 @@
+S AA1 R JH AH0 N T 
+S T IY1 L 
+P AH0 L IY1 S 
+---tarantara---
+S AA1 R JH AH0 N T 
+F IY1 L 
+P AH0 L IY1 S 
+---tarantara---
+S AA1 R JH AH0 N T 
+TH IH1 NG 
+P AH0 L IY1 S 
+---tarantara---
+S AA1 R JH AH0 N T 
+S IH1 NG 
+P AH0 L IY1 S 
+---tarantara---
+S AA1 R JH AH0 N T 
+---emeutes---
+P AH0 L IY1 S 
+---tarantara---
+S AA1 R JH AH0 N T 
+B UW1 T S 
+P AH0 L IY1 S 
+---tarantara---
+S AA1 R JH AH0 N T 
+R AW1 N D 
+S AW1 N D 
+S AW1 N D 
+P AH0 L IY1 S 
+---tarantara---
+B AE1 S 
+---tarantara---
+---tarantara---
+---tarantara---
+---tarantara---
+---tarantara---
+R AA1 
+---tarantara---
+B AE1 S 
+R AA1 
+R AA1 
+R AA1 
+R AA1 
+R AA1 
+R AA1 
+---tarantara---
+M EY1 B AH0 L 
+G L AO1 R IY0 
+G AO1 R IY0 
+S T AO1 R IY0 
+IH2 M AO0 R T AE1 L IH0 T IY0 
+S L AO1 T ER0 
+D AO1 T ER0 
+W AO1 T ER0 
+D AY1 
+G ER1 L Z 
+D AY1 
+D AY1 
+S AA1 R JH AH0 N T 
+EH1 V AH0 D AH0 N T 
+P AH0 L IY1 S 
+---tarantara---
+S AA1 R JH AH0 N T 
+M EH1 N T 
+P AH0 L IY1 S 
+---tarantara---
+S AA1 R JH AH0 N T 
+AH0 P IH1 R 
+P AH0 L IY1 S 
+---tarantara---
+S AA1 R JH AH0 N T 
+CH IH1 R 
+P AH0 L IY1 S 
+---tarantara---
+S AA1 R JH AH0 N T 
+F EY1 T 
+S T EY1 T 
+P AH0 L IY1 S 
+---tarantara---
+S AA1 R JH AH0 N T 
+EH1 V AH0 D AH0 N T 
+M EH1 N T 
+P AH0 L IY1 S 
+---tarantara---
+IY1 D IH0 TH 
+IH0 N D EH1 V ER0 
+S EH1 V ER0 
+EH1 V ER0 
+G R EY1 V 
+G ER1 L Z 
+G R EY1 V 
+R UW1 TH L AH0 S 
+---truthless---
+T UW1 TH L AH0 S 
+K R EY1 V 
+S AA1 R JH AH0 N T 
+S T R EH1 S 
+P R EH1 S 
+L AE1 K 
+B AE1 K 
+W AY1 Z 
+K R IH1 T IH0 S IH2 Z AH0 M 
+EH1 V AH0 D AH0 N T 
+M EH1 N T 
+P AH0 L IY1 S 
+EH1 V AH0 D AH0 N T 
+M EH1 N T 
+EH1 V AH0 D AH0 N T 
+M EH1 N T 
+EH1 V AH0 D AH0 N T 
+P AH0 L IY1 S 
+M EH1 N T 
+T AY1 M 
+JH EH1 N ER0 AH0 L 
+AH0 W EY1 
+S L EY1 
+S T EY1 
+D IH0 L EY1 
+G OW1 
+G OW1 
+G OW1 
+G OW1 
+G OW1 
+G ER1 L Z 
+F OW1 
+G OW1 
+F OW1 
+G OW1 
+G OW1 
+G OW1 
+P AH0 L IY1 S 
+G OW1 
+---tarantara---
+---tarantara---
+G OW1 
+F AO1 R W ER0 D 
+F OW1 
+G OW1 
+F AO1 R W ER0 D 
+F OW1 
+G OW1 
+G OW1 
+G OW1 

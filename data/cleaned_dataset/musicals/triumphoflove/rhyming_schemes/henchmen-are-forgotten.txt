@@ -1,0 +1,40 @@
+L IY1 S T 
+G IH1 F T 
+S P IY1 CH 
+D R IH1 F T 
+P AE1 L 
+R AH1 N 
+F ER0 G AA1 T AH0 N 
+D AH1 N 
+F ER0 G AA1 T AH0 N 
+F AH1 N 
+R AA1 T AH0 N 
+---peasaugratin---
+D AH1 N 
+S ER1 V Z 
+TH R UW1 
+D IH0 Z ER1 V Z 
+DH AH1 S 
+S AH1 N 
+D AH1 N 
+F ER0 G AA1 T AH0 N 
+F ER0 G AA1 T AH0 N 
+F ER0 G AA1 T AH0 N 
+EH1 V R IY0 W AH2 N 
+SH AE1 T ER0 D 
+M AE1 T ER0 D 
+F AO1 R 
+F AO1 R 
+B EH1 T ER0 
+L EH1 T ER0 
+M IY1 
+M IY1 
+S EH1 D 
+R AA1 T AH0 N 
+---trottin'---
+---whammo---
+N OW1 W EH2 R 
+R AH1 N 
+F ER0 G AA1 T AH0 N 
+F ER0 G AA1 T AH0 N 
+F ER0 G AA1 T AH0 N 

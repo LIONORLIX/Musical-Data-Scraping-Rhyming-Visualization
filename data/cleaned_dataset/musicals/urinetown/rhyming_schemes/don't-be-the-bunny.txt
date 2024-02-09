@@ -1,0 +1,88 @@
+---cladwell---
+M EH1 D OW2 
+K EH1 R 
+Y UW1 
+B AH1 N IY0 
+Y UW1 
+T R IH1 G ER0 
+Y UW1 
+B UW1 
+S T UW1 
+B OY1 Z 
+S T AE1 F 
+B AA1 S 
+---cladwell---
+B AH1 N IY0 
+S T UW1 
+D IH1 N ER0 
+D UW1 
+F AH1 N IY0 
+K Y UW1 
+B AH1 N IY0 
+B AH1 N IY0 
+HH OW1 P 
+AE1 N AH0 M AH0 L Z 
+---cladwell---
+D IH1 R 
+HH OW1 P 
+F IY1 T 
+---cladwell---
+---themeverywhere---
+B UW1 TH 
+S EH1 N T S 
+AH0 HH EH1 D 
+B R EH1 D 
+IH0 N S T EH1 D 
+EH1 R 
+CH EH1 R 
+P IY1 P AH0 L 
+S T AE1 F 
+B AA1 S 
+---cladwell---
+B AH1 N IY0 
+D OW1 P 
+L UW1 Z ER0 
+HH OW1 P 
+P AW1 ER0 
+M AH1 N IY0 
+Y UW1 
+---fipp---
+B AH1 N IY0 
+---cladwell---
+B AH1 N IY0 
+HH OW1 P 
+T OW1 L B UW2 TH 
+---cladwell---
+M IY1 
+HH OW1 P 
+K AA1 R Z 
+---cladwell---
+DH EY1 
+HH OW1 P 
+D UW1 
+---cladwell---
+TH IH1 NG Z 
+HH OW1 P 
+F AA1 DH ER0 
+---cladwell---
+B AA1 K S 
+HH OW1 M 
+F L AO1 R 
+F AO1 R 
+K L IH1 P ER0 Z 
+S L IH1 P ER0 Z 
+S T AE1 F 
+S T AE1 F 
+B AA1 S 
+S T AE1 F 
+B AH1 N IY0 
+SH UW1 
+AA1 N 
+---cladwell---
+Y UW1 
+S T AE1 F 
+AH1 P 
+S AH1 N IY0 
+P UH1 R 
+B AH1 N IY0 
+B AH1 N IY0 

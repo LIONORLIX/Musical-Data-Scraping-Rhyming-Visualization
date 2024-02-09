@@ -1,0 +1,84 @@
+IH0 N 
+IH0 N 
+IH0 N 
+IH0 N 
+IH0 N 
+IH0 N 
+IH0 N 
+IH0 N 
+IH1 T 
+HH IH1 L 
+HH IY1 R 
+IY1 R 
+---whippoorwill---
+IH0 N 
+N IH1 R 
+V Y UW1 
+AY1 
+S K AY1 
+T R UW1 
+M UW1 N L AY2 T 
+S AW1 N D 
+P IH1 L OW0 Z 
+M AY1 N 
+IH0 N 
+S T IH1 R 
+AH0 W EY1 
+F IY1 T 
+F IY1 T 
+N IY1 T 
+N IY1 T 
+IH0 N 
+T AH0 D EY1 
+IH0 N 
+HH IY1 R 
+P EH1 R 
+CH EH1 R Z 
+S T EH1 R Z 
+K IY1 
+P ER0 F Y UW1 M 
+P EH1 R 
+DH EH1 M 
+M IY1 
+IH0 N 
+D IH1 R 
+W EY1 
+HH AA1 R T S 
+HH AA1 R T S 
+T AA1 R T S 
+T AA1 R T S 
+IH0 N 
+T AH0 D EY1 
+IH0 N 
+IH1 T 
+HH IH1 L 
+HH IY1 R 
+IY1 R 
+---whippoorwill---
+M UW1 N L AY2 T 
+W AY1 N 
+P IH1 L OW0 Z 
+M AY1 N 
+IH0 N 
+IH1 T 
+HH IH1 L 
+HH IY1 R 
+IY1 R 
+---whippoorwill---
+IH0 N 
+N IH1 R 
+V Y UW1 
+AY1 
+S K AY1 
+T R UW1 
+M UW1 N L AY2 T 
+W AY1 N 
+P IH1 L OW0 Z 
+M AY1 N 
+IH0 N 
+K L IH1 R 
+D EY1 
+G OW1 L D 
+G OW1 L D 
+IH0 N 
+IH0 N 

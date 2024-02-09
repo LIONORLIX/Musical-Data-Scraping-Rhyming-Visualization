@@ -1,0 +1,15 @@
+F L AY1 
+W AY1 L 
+W AY1 N D 
+S OW1 L 
+L AE1 S T 
+L AE1 S T 
+B AY1 
+HH AA1 R T 
+AH0 W AY1 L 
+F L AY1 
+S OW1 L 
+L AE1 S T 
+L AE1 S T 
+L AE1 S T 
+L AE1 S T 

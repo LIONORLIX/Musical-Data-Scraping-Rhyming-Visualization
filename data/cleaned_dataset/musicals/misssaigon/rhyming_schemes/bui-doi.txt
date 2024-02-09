@@ -1,0 +1,38 @@
+D OY1 
+L AY1 F 
+HH EH1 L 
+S T R AY1 F 
+D UW1 
+F ER0 G EH1 T 
+F ER0 G EH1 T 
+T UW1 
+TH AO1 T 
+D AE1 M 
+V IY0 EH2 T N AA1 M 
+Y OW1 G IY0 
+B IH0 HH AY1 N D 
+D OY1 
+S T R AY1 F 
+D UW1 
+T UW1 
+EH1 N IY0 P L EY2 S 
+F EY1 S 
+P L IY1 D 
+T AO1 R N 
+B AO1 R N 
+S T R AY1 F 
+N UW1 
+---childrentoo---
+G IH1 V 
+L AY1 V 
+T R AY1 
+D OY1 
+L AY1 F 
+HH EH1 L 
+S T R AY1 F 
+D UW1 
+N OW1 
+N OW1 
+HH AA1 R T S 
+HH AA1 R T S 
+N OW1 

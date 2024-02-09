@@ -1,0 +1,24 @@
+S T IH1 L 
+R AA1 N 
+B IH1 L 
+R AA1 N 
+S T IH1 L 
+B IH1 L 
+HH OW1 M 
+R AA1 N 
+AY1 
+R AA1 N 
+M AY1 
+R AA1 N 
+AY1 
+M AY1 
+HH OW1 M 
+R AA1 N 
+S OW1 L OW2 
+F AY1 N 
+R AA1 N 
+M AY1 N 
+R AA1 N 
+F AY1 N 
+M AY1 N 
+HH OW1 M 

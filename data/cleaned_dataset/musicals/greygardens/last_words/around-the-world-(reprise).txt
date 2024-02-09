@@ -1,0 +1,12 @@
+wall
+in
+clear
+thin
+gold
+sole
+door
+more
+await
+gate
+gate
+gate

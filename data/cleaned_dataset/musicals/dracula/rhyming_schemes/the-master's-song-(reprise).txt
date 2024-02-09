@@ -1,0 +1,8 @@
+S IY1 Z 
+W EY1 V Z 
+AH1 P 
+S L EY1 V Z 
+S AO1 NG 
+S AO1 NG 
+S T R AO1 NG 
+L AY1 F 

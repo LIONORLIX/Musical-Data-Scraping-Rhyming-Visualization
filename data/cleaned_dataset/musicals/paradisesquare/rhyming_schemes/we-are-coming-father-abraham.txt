@@ -1,0 +1,18 @@
+M AO1 R 
+SH AO1 R 
+D IH1 R 
+T EH1 R 
+B IH0 F AO1 R 
+M AO1 R 
+R IH0 S T AO1 R 
+M AO1 R 
+M AO1 R 
+S K AY1 
+---descry---
+AH0 S AY1 D 
+P R AY1 D 
+P AO1 R 
+M AO1 R 
+R IH0 S T AO1 R 
+M AO1 R 
+M AO1 R 

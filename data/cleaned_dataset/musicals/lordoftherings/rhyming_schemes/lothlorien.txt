@@ -1,0 +1,49 @@
+AH0 P IH1 R D 
+HH EH1 R 
+HH OW1 M 
+F EH1 R 
+R EH1 S T 
+G L EY1 D 
+D AE1 N S T 
+M EY1 D 
+G OW1 L D 
+S OW1 L 
+HH OW1 M 
+AH0 N T OW1 L D 
+L AO1 R 
+EY1 L AA2 R 
+L AY1 AH0 L 
+AH0 
+---auta---
+L AO1 R 
+L AO1 R 
+L AO1 R 
+EY1 L AA2 R 
+AA1 R OW0 
+---lothlorien---
+HH AA1 R T 
+D R IY1 M 
+L AY1 T 
+S T R IY1 M 
+G R OW1 
+W ER1 L D 
+B IH0 L AO1 NG 
+Y ER1 N IH0 NG 
+HH OW1 P 
+S AO1 NG 
+D IH0 S EH1 N D 
+K W EY1 K 
+R IH0 M EY1 N 
+M EY1 K 
+L AE1 N D 
+S T AE1 N D 
+HH AA1 R M 
+AA1 R M Z 
+---lothlrien---
+W AH1 N D ER0 
+S T AA1 R L AY2 T 
+L AY1 T 
+---lothlorien---
+W AH1 N D ER0 
+S AH1 N 
+L AY1 T 

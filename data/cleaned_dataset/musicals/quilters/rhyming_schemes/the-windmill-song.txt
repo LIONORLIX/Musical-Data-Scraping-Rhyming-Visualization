@@ -1,0 +1,47 @@
+EH1 R 
+EH1 R 
+EH1 R 
+W IY1 L 
+S K AY1 
+W IH1 N D M IH2 L 
+L AY1 
+M UW1 N 
+W IY1 L 
+AY1 Z 
+S L IY1 P 
+L AH1 L AH0 B AY2 Z 
+EH1 R 
+D R IY1 M 
+G ER1 L 
+EH1 R 
+S ER1 K AH0 L 
+B IH0 L OW1 
+W AO1 T ER0 
+G R OW1 
+JH UW1 N 
+S P UW1 N Z 
+P L EY1 D 
+S L IY1 P 
+B L EY1 D Z 
+W IY1 L 
+---*dialogue---
+IH0 N 
+IH0 N 
+S P IH1 N 
+M AY1 
+AA1 R M Z 
+DH AH0 
+W ER1 L D 
+DH AH0 
+HH AE1 N D Z 
+EH1 R 
+UW1 
+W AA1 
+DH AH0 
+HH AE1 N D Z 
+EH1 R 
+UW1 
+W AA1 
+DH AH0 
+HH AE1 N D Z 
+EH1 R 

@@ -1,0 +1,13 @@
+T R IY1 Z 
+B R IY1 Z 
+Y UW1 
+S T IH1 L 
+HH IH1 L 
+R IH1 L 
+HH IH1 L 
+R EH1 R 
+F EH1 R 
+G OW1 
+N OW1 
+S T IH1 L 
+HH IH1 L 

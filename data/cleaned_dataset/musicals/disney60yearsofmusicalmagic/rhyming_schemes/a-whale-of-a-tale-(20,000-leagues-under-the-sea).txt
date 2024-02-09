@@ -1,0 +1,27 @@
+L AE1 D Z 
+T UW1 
+L AH1 V D 
+AH0 B AH1 V 
+T R UW1 
+T AE0 T UW1 
+---madagaskar---
+HH ER0 
+AW1 T 
+AH1 P 
+T R AW1 T 
+L AE1 D Z 
+T UW1 
+L AH1 V D 
+AH0 B AH1 V 
+T R UW1 
+T AE0 T UW1 
+JH AA1 V AH0 
+L AA1 V AH0 
+Y AH1 NG 
+AH1 P 
+W AY1 F 
+L AE1 D Z 
+T UW1 
+L AH1 V D 
+AH0 B AH1 V 
+T R UW1 

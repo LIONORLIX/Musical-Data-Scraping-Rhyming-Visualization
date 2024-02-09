@@ -1,0 +1,27 @@
+M IY1 
+D UW1 
+---chickadee---
+Y UW1 
+N AH1 M B ER0 
+AW1 T 
+S K AW1 T 
+S IY1 
+L AA1 T 
+L AA1 T 
+L AA1 T 
+L AA1 T 
+M IY1 
+N AH1 M B ER0 
+F AO1 R 
+F AO1 R 
+F AY1 N 
+L AA1 T 
+L AA1 T 
+N AA1 T 
+N AA1 T 
+K AA1 M B AY0 N 
+N AH1 M B ER0 
+G AA1 T 
+N AH1 M B ER0 
+G AA1 T 
+M AY1 N 

@@ -1,0 +1,33 @@
+---priya---
+P AA1 R T 
+AA1 R T 
+D EY1 
+AH0 W EY1 
+M IH0 S T IY1 K 
+F AH0 Z IY1 K 
+D R AA1 P 
+T AA1 P 
+F EY1 M AH0 S 
+F EY1 M AH0 S 
+AH0 B AE1 SH 
+L UH1 K 
+EH1 N IY0 W EY2 
+S L AH1 M 
+F EY1 M AH0 S 
+---priya---
+B IY1 
+F AE1 N T AH0 S IY0 
+K L AW1 N 
+D AW1 N 
+S AH1 N 
+EH1 V R IY0 W AH2 N 
+P R EY1 
+AH0 S T R EY1 
+F EY1 M AH0 S 
+F EY1 M AH0 S 
+AH0 B AE1 SH 
+P AA1 R T 
+M IY1 
+---priya---
+HH AE1 N D 
+F EY1 M AH0 S 

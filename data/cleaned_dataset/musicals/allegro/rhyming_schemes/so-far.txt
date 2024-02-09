@@ -1,0 +1,9 @@
+F AA1 R 
+S T AA1 R 
+N IH1 R 
+IH1 T 
+B IH0 G IH1 N IH0 NG 
+AA1 R 
+F AA1 R 
+Y UW1 
+M EH1 T 

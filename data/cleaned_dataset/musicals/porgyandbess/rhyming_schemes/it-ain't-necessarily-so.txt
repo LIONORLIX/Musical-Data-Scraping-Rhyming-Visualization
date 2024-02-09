@@ -1,0 +1,32 @@
+S OW1 
+S OW1 
+B AY1 B AH0 L 
+S OW1 
+M AY1 
+M AY1 
+D AY1 AH0 T 
+M AY1 
+W EY1 L 
+W EY1 L 
+AE0 B D OW1 M AH0 N 
+W EY1 L 
+S T R IY1 M 
+S T R IY1 M 
+D AO1 T ER0 
+S T R IY1 M 
+S OW1 
+S OW1 
+V IH1 L AH0 N 
+S OW1 
+S IY1 N 
+F AO1 L T 
+---pos'ble---
+S AO1 L T 
+Y IH1 R Z 
+Y IH1 R Z 
+IH0 N 
+Y IH1 R Z 
+SH OW1 
+N EH1 S AH0 
+N EH1 S AH0 
+S OW1 

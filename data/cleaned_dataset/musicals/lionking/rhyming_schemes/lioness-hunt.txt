@@ -1,0 +1,40 @@
+HH AY1 
+B AH1 B AH0 
+HH AY1 
+B AH1 B AH0 
+HH AY1 
+B AH1 B AH0 
+HH AY1 
+B AH1 B AH0 
+B AH1 B AH0 
+B AH1 B AH0 
+B AH1 B AH0 
+---siyozingela---
+T AA1 
+---thatha---
+HH IY1 
+---thatha---
+HH IY1 
+---thatha---
+W EY1 L 
+B AH1 B AH0 
+---thatha---
+HH IY1 
+---thatha---
+HH IY1 
+---thatha---
+W EY1 L 
+B AH1 B AH0 
+---thatha---
+HH IY1 
+---thatha---
+HH IY1 
+---thatha---
+W EY1 L 
+B AH1 B AH0 
+---thatha---
+HH IY1 
+---thatha---
+HH IY1 
+---thatha---
+W EY1 L 

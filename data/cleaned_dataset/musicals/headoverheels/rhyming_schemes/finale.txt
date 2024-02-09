@@ -1,0 +1,24 @@
+F IY1 T 
+B IY1 T 
+D AW1 N 
+W UW1 
+OW1 
+B IY1 T 
+OW1 
+B IY1 T 
+OW1 
+B IY1 T 
+OW1 
+B IY1 T 
+OW1 
+B IY1 T 
+B IY1 T 
+OW1 
+B IY1 T 
+B IY1 T 
+OW1 
+B IY1 T 
+B IY1 T 
+OW1 
+B IY1 T 
+OW1 TH 

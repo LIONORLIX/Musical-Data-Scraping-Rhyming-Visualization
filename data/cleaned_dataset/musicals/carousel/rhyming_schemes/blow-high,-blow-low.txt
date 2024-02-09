@@ -1,0 +1,48 @@
+M EH1 N 
+L OW1 
+G OW1 
+AH0 W EY1 
+G OW1 
+L OW1 
+D EY1 
+D EY1 
+L AE1 N D 
+AH2 N D ER0 S T AE1 N D 
+F AH1 N 
+JH EY1 L 
+S IY1 
+F R IY1 
+HH UH1 K 
+W EY1 L 
+L OW1 
+G OW1 
+AH0 W EY1 
+G OW1 
+L OW1 
+D EY1 
+D EY1 
+F IY1 L 
+W IY1 L 
+S EY1 L 
+B IY1 
+S IY1 
+W EY1 L 
+L OW1 
+G OW1 
+AH0 W EY1 
+G OW1 
+L OW1 
+D EY1 
+D EY1 
+B IY1 
+---bassinet---
+W AO1 K 
+T AO1 K 
+W EH1 T 
+L OW1 
+G OW1 
+AH0 W EY1 
+G OW1 
+L OW1 
+D EY1 
+D EY1 

@@ -1,0 +1,20 @@
+M AO1 R 
+M AO1 R 
+Y UW1 
+M AO1 R 
+F IY1 T 
+S T R IY1 T 
+B IH0 F AO1 R 
+F IH1 S T 
+R IH1 S T 
+D AO1 R 
+M AO1 R 
+M AO1 R 
+N AY1 T S 
+TH IH1 NG Z 
+S EH1 D 
+HH AA1 R T 
+AH0 P AA1 R T 
+D EH1 D 
+B IY1 
+M IY1 

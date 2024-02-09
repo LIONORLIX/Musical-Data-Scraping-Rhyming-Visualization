@@ -1,0 +1,35 @@
+F UW1 L 
+AY1 
+W AY1 F 
+T R AY1 
+D AY1 
+L AY1 F 
+G UH1 D 
+N OW1 
+W UH1 D 
+G R OW1 
+G R OW1 
+W ER1 L D 
+K EY1 K 
+S EH1 D 
+T IY1 CH 
+B EY1 K 
+B R EH1 D 
+G UH1 D 
+N OW1 
+W UH1 D 
+G R OW1 
+G R OW1 
+AA1 N 
+D R IY1 M 
+P L IY1 Z 
+F AW1 N D 
+F L AW1 ER0 Z 
+T R IY1 Z 
+G R AW1 N D 
+K AA0 P EH1 L AH0 
+G UH1 D 
+N OW1 
+W UH1 D 
+G R OW1 
+G R OW1 

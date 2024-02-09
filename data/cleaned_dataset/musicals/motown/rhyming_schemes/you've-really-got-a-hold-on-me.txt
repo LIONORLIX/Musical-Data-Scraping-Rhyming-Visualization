@@ -1,0 +1,27 @@
+Y UW1 
+Y UW1 
+M AE1 D L IY0 
+M IY1 
+M IY1 
+Y UW1 
+T UW1 
+N AW1 
+M IY1 
+M IY1 
+D UW1 
+M IY1 
+T AY1 T ER0 
+HH IY1 R 
+HH IY1 R 
+N AW1 
+------
+M IY1 
+M IY1 
+D UW1 
+M IY1 
+M IY1 
+M IY1 
+M IY1 
+M IY1 
+M IY1 
+M IY1 

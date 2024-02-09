@@ -1,0 +1,31 @@
+D UW1 
+R IY1 L 
+D UW1 
+---fum---
+K AH1 M 
+R EH1 D IY0 
+R EH1 D IY0 
+R EH1 D IY0 
+K AH1 M 
+W EY1 
+Y UW1 
+Y UW1 
+L IY1 
+K AH1 M 
+R EH1 D IY0 
+R EH1 D IY0 
+R EH1 D IY0 
+K AH1 M 
+W EY1 
+IH1 T 
+IH1 T 
+D AH1 M 
+K AH1 M 
+R EH1 D IY0 
+R EH1 D IY0 
+R EH1 D IY0 
+K AH1 M 
+W EY1 
+B OY1 
+B OY1 
+B OY1 

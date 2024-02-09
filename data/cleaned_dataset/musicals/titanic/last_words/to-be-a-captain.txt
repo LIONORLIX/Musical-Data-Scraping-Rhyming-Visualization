@@ -1,0 +1,8 @@
+board
+class
+pass
+course
+command
+souls
+hand
+souls

@@ -1,0 +1,78 @@
+Z IY1 
+EH1 S 
+EH1 S 
+---zzz---
+EH1 S 
+L IY1 
+B IY1 
+L IY1 Z AH0 
+AH0 G EH1 N 
+Z IY1 
+EH1 S 
+EH1 S 
+---zzz---
+EH1 S 
+L IY1 
+B IY1 
+L IY1 Z AH0 
+EY1 D AH0 
+EY1 D AH0 
+EY1 D AH0 
+R UW1 TH 
+R UW1 TH 
+R UW1 TH 
+D UW1 
+F EY1 
+L IY1 Z AH0 
+S EY1 
+Z IY1 
+EH1 S 
+EH1 S 
+---zzz---
+EH1 S 
+L IY1 
+B IY1 
+L IY1 Z AH0 
+IH1 T 
+W EY1 
+K R UW1 L IY0 
+S EY1 IH0 NG 
+---minooli---
+---minelie---
+K R AY1 
+EH1 N 
+AY1 
+EH1 L 
+AY1 
+M IH0 N EH1 L IY0 
+M IH0 N EH1 L IY0 
+IH0 T AE1 L Y AH0 N 
+P AA1 P AH0 
+D UW1 
+S AE1 N D R AH0 
+---sahndra---
+M ER0 IY1 
+JH OW1 N 
+JH OW2 AE1 N 
+M IY1 
+AH0 N AW1 N S T 
+---pommelled---
+T R AW1 N S T 
+B AE1 T S 
+P R AH0 N AW1 N S T 
+Z IY1 
+EH1 S 
+EH1 S 
+---zzz---
+EH1 S 
+L IY1 
+B IY1 
+L IY1 Z AH0 
+EH1 N 
+AY1 
+EH1 L 
+AY1 
+M IH0 N EH1 L IY0 
+M IH0 N EH1 L IY0 
+IY1 Z IY0 
+---leezy---

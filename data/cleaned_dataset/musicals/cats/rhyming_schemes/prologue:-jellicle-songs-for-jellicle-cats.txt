@@ -1,0 +1,89 @@
+B AO1 R N 
+D AA1 R K 
+TH R OW1 N 
+B AA1 R K 
+AH0 L OW1 N 
+D UW1 
+W UH1 D 
+K AE1 N 
+D UW1 
+F IY1 T 
+EH1 R 
+S T R IY1 T 
+L EY1 ER0 
+D UW1 
+K AE1 N 
+D UW1 
+K AE1 N 
+D UW1 
+D IH1 S T AH0 N T 
+B EH1 L 
+AH0 S IH1 S T AH0 N T 
+HH EH1 L 
+---minx---
+---linx---
+R AE1 T 
+S F IH1 NG K S 
+K AE1 T 
+K AE1 T S 
+K AE1 T S 
+K AE1 T S 
+K AE1 T S 
+T R AH0 P IY1 Z 
+T AY1 ER0 
+T R IY1 Z 
+W AY1 ER0 
+D UW1 
+D UW1 
+D UW1 
+D UW1 
+K AE1 T S 
+K AE1 T S 
+K AE1 T S 
+K AE1 T S 
+K IY1 
+S T R AW1 S 
+S IY1 
+HH AW1 S 
+N AY1 T S 
+HH AY1 T S 
+M AH0 S AY1 AH0 
+K W AY1 ER0 
+N AY1 T 
+HH AY1 T S 
+M AH0 S AY1 AH0 
+K W AY1 ER0 
+---felinity---
+V IY1 V AH0 
+K AE1 T 
+T R UW1 
+W AH1 T 
+K AE1 N 
+D UW1 
+CH AE1 N T S 
+N UW1 
+D AE1 N S 
+K AE1 T S 
+K AE1 T S 
+K AE1 T S 
+K AE1 T S 
+K AE1 T S 
+K AE1 T S 
+K AE1 T S 
+K AE1 T S 
+K AE1 T S 
+K AE1 T S 
+K AE1 T S 
+K AE1 T S 
+K AE1 T S 
+K AE1 T S 
+K AE1 T S 
+K AE1 T S 
+K AE1 T S 
+K AE1 T S 
+K AE1 T S 
+S ER0 P R AY1 Z 
+DH AE1 T 
+AY1 Z 
+K AE1 T 
+K AE1 T 

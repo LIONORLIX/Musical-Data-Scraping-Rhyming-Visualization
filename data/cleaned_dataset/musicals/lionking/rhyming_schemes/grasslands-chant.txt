@@ -1,0 +1,64 @@
+Z IY1 
+M AE1 D AH0 M 
+Z IY1 
+M AE1 D AH0 M 
+Z IY1 
+M AE1 D AH0 M 
+Z IY1 
+M AE1 D AH0 M 
+Z IY1 
+M AE1 D AH0 M 
+Z IY1 
+M AE1 D AH0 M 
+Z IY1 
+M AE1 D AH0 M 
+Z IY1 
+M AE1 D AH0 M 
+W AA1 
+W AA1 
+M AA1 N AH0 
+W AA1 
+W AA1 
+W AA1 
+M AA1 N AH0 
+W AA1 
+W AA1 
+W AA1 
+M AA1 N AH0 
+W AA1 
+W AA1 
+W AA1 
+M AA1 N AH0 
+W AA1 
+W AA1 
+W AA1 
+M AA1 N AH0 
+W AA1 
+M AE1 D AH0 M 
+B OW1 
+B OW1 
+B OW1 
+---lomhlaba---
+B OW1 
+B OW1 
+B OW1 
+---lomhlaba---
+B OW1 
+B OW1 
+B OW1 
+---lomhlaba---
+B OW1 
+B OW1 
+B OW1 
+---lomhlaba---
+---mmm---
+HH EH1 M 
+---mmm---
+HH EH1 M 
+AA1 
+---mmm---
+HH EH1 M 
+---mmm---
+HH EH1 M 
+AA1 
+---mmm---

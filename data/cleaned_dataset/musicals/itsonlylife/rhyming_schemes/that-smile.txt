@@ -1,0 +1,48 @@
+D AA1 
+D AA1 
+D AA1 
+F EY1 S 
+AH1 P 
+AY1 Z 
+D AA1 
+D UW1 
+S K AY1 
+D AA1 
+D AA1 R K 
+---kissable---
+S P AA1 R K 
+M IY1 
+B IY1 
+M AA1 R K 
+D AA1 
+S T R EH1 NG K TH 
+D IH0 S AH0 P OY1 N T M AH0 N T S 
+B R IH1 NG 
+AA1 
+D AA1 
+D UW1 
+EH1 N IY0 TH IH2 NG 
+D AA1 
+D AA1 R K 
+---kissable---
+S P AA1 R K 
+M IY1 
+B IY1 
+M AA1 R K 
+M EH1 T 
+F ER0 G EH1 T 
+W AO1 R 
+D AA1 
+Y UH1 R Z 
+HH AA1 R M AH0 N IY0 
+D AA1 R K 
+---kissable---
+S P AA1 R K 
+M IY1 
+B IY1 
+M AA1 R K 
+M EH1 T 
+F ER0 G EH1 T 
+W AO1 R 
+F AA1 L IH0 NG 
+Y UH1 R Z 

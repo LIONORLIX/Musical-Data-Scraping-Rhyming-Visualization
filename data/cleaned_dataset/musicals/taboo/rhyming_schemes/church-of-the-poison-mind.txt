@@ -1,0 +1,26 @@
+AY1 Z 
+S W IY1 T 
+CH AY1 L D 
+S T R IY1 T 
+Y UW1 
+K AY1 N D 
+M EY1 B IY0 
+F AY1 N D 
+---x4---
+B IY1 T 
+M AY1 N 
+N IY1 T 
+F AY1 N 
+M EY1 B IY0 
+T AY1 M 
+K R EY1 Z IY0 
+B L AY1 N D 
+---x3---
+AY1 Z 
+S W IY1 T 
+CH AY1 L D 
+S T R IY1 T 
+Y UW1 
+K AY1 N D 
+M EY1 B IY0 
+F AY1 N D 

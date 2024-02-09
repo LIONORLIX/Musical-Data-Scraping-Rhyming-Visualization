@@ -1,0 +1,19 @@
+T EY1 K 
+M EY1 K 
+S K AY1 Z 
+AY1 Z 
+AH0 B AH1 V 
+L AH1 V 
+M AY1 N 
+D IH0 V AY1 N 
+D EY1 
+P R EY1 
+B IY1 
+M IY1 
+M AY1 N 
+D IH0 V AY1 N 
+D EY1 
+P R EY1 
+B IY1 
+W ER1 L D 
+M IY1 

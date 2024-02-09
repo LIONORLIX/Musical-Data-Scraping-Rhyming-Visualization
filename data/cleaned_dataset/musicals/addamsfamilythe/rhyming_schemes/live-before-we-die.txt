@@ -1,0 +1,38 @@
+D AY1 
+K R AY1 
+D AY1 
+F EY1 L 
+B EY1 L 
+D AE1 N S 
+F R EH1 N D 
+EH1 N D 
+S IH1 M P L AH0 F AY2 
+D AE1 N S 
+S P OW1 K AH0 N 
+Y UW1 
+S P OW1 K AH0 N 
+T UW1 
+S P OW1 K AH0 N 
+T AH0 M AA1 R OW2 
+S P OW1 K AH0 N 
+M UW1 N 
+B IH0 HH AY1 N D 
+D AE1 N S 
+R AH0 G R EH1 T 
+D AE1 N S 
+W AA1 Z 
+D AH1 Z 
+D R AY1 
+---dieand---
+S P OW1 K AH0 N 
+K AO1 R P S 
+S P OW1 K AH0 N 
+L ER1 CH 
+B AY1 
+T R AY1 
+D AE1 N S 
+S IY1 
+B IY1 
+HH AE1 N D 
+---dieand---
+D AE1 N S 

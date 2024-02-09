@@ -1,0 +1,56 @@
+D IY1 M AH0 N Z 
+D IY1 M AH0 N Z 
+G AY1 
+M AY1 N D 
+B AH1 T 
+D IY1 M AH0 N 
+D IY1 M AH0 N 
+D AE1 D IY0 
+D AE1 D IY0 
+AA1 N 
+---awoo---
+---necronomicon---
+D EH1 D 
+G EY1 M Z 
+N AW1 
+D IY1 M AH0 N 
+D IY1 M AH0 N 
+B R OW1 K AH0 N 
+W AY1 
+N OW1 
+D AH1 Z 
+B IY1 N 
+D IY1 M AH0 N Z 
+IH1 T 
+DH AE1 T 
+D IY1 M AH0 N Z 
+S K UW1 L 
+S K UW1 L 
+P R AA1 M 
+Y AE1 
+B R AW1 N 
+B R AW1 N 
+N AY1 T 
+B R AW1 N 
+D R IY1 M D 
+D R IY1 M 
+B IH0 G AE1 N 
+D IY1 M AH0 N 
+D IY1 M AH0 N 
+S T AE1 N D Z 
+F R EH1 N D Z 
+HH EY1 
+B L AH1 D SH EH2 D 
+D EH1 D 
+EH1 F 
+K R UW1 AH0 L 
+W AA1 
+DH EH1 M 
+W AA1 
+B R OW1 K AH0 N 
+M EH1 N 
+L AY1 F 
+L AY1 F 
+D IY1 M AH0 N Z 
+D IY1 M AH0 N Z 
+---ooeeoooo---

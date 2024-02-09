@@ -1,0 +1,37 @@
+---defarge---
+AA1 R 
+B IH1 N 
+F AA1 R 
+S IH1 N 
+M EH1 M ER0 IY0 
+R AO1 NG 
+F R IY1 
+B IY1 
+---defarge---
+K OW1 L D 
+CH IY1 P 
+B L AH1 D 
+AH0 S L IY1 P 
+N AH1 TH IH0 NG 
+S IY1 
+F R IY1 
+B IY1 
+---defarge---
+S IY1 
+---defarge---
+F R IY1 
+M EH1 N 
+F R IY1 
+---defarge---
+B IY1 
+K AA1 R T AH0 N 
+SH AA1 T 
+G L AE1 S 
+JH AH1 JH 
+L AA1 T 
+AE1 S 
+B EY1 
+M IY1 
+D R IH1 NG K 
+S IY1 
+B IY1 

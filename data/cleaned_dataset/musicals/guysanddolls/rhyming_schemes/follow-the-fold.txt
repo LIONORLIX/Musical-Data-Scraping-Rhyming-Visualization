@@ -1,0 +1,16 @@
+M AO1 R 
+M AO1 R 
+M AO1 R 
+F OW1 L D 
+S W AA1 L OW0 
+M AO1 R 
+M AO1 R 
+M AO1 R 
+F OW1 L D 
+SH AY1 N Z 
+D AA1 R K N AH0 S 
+K OW1 L D 
+W AA1 L OW0 
+M AO1 R 
+M AO1 R 
+M AO1 R 

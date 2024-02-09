@@ -1,0 +1,49 @@
+IH1 T 
+IH1 T 
+---aimable---
+P AA1 M P AA0 M 
+P AA1 M P AA0 M 
+L AY1 T 
+B R AY1 T 
+HH AW1 S 
+HH AW1 S 
+R OW1 M 
+W AH1 T 
+W AH1 T 
+---aimable---
+M AE1 D AH0 M 
+M AE1 D AH0 M 
+M AE1 D AH0 M 
+M AY1 N D 
+F AY1 N D 
+W EH1 R 
+W EH1 R 
+---aimable---
+M AE1 D AH0 M 
+M AE1 D AH0 M 
+M AE1 D AH0 M 
+---aimable---
+M AE1 D AH0 M 
+M AE1 D AH0 M 
+L AE1 S T 
+M AE1 D AH0 M 
+L AE1 S T 
+SH UH1 R 
+---merci---
+M AE1 D AH0 M 
+JH EH1 N AH0 V IY2 V 
+M AH0 S Y ER1 
+M AH0 S Y ER1 
+M AH0 S Y ER1 
+L AE1 S T 
+SH UH1 R 
+---merci---
+M AH0 S Y ER1 
+S T EH1 P 
+P EH1 P 
+D UW1 
+Y UW1 
+M AE1 D AH0 M 
+M AE1 D AH0 M 
+DH AE1 T 
+B EY1 B IY0 

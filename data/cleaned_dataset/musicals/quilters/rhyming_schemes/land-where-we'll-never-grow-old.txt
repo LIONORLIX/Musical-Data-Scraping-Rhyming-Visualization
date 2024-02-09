@@ -1,0 +1,18 @@
+L AE1 N D 
+S T R AE1 N D 
+S OW1 L 
+HH AY1 
+D AY1 
+OW1 L D 
+W IY1 L 
+OW1 L D 
+OW1 L D 
+W IY1 L 
+OW1 L D 
+OW1 L D 
+---*dialogue---
+HH OW1 M 
+R OW1 M 
+B AY1 
+K IH1 NG 
+S IH1 NG 

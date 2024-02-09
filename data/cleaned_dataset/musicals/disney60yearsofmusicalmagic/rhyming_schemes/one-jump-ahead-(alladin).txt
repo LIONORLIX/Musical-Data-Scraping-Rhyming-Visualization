@@ -1,0 +1,38 @@
+K IY1 P 
+---breadline---
+S AO1 R D 
+AH0 F AO1 R D 
+L AO1 M EH1 N 
+JH OW1 K 
+B R OW1 K 
+DH AE1 T 
+G AY1 Z 
+G AY1 Z 
+F AE1 K T S 
+AE1 B UW0 
+HH UW1 
+B AA1 T AH0 M 
+K R AY1 M 
+AH0 M 
+IY1 T 
+T AY1 M 
+S L OW1 P OW2 K 
+D UW1 M 
+P L UW1 M 
+---hitmen---
+F L AA1 K 
+B L AA1 K 
+V AE1 N D AH0 L 
+AE1 B UW0 
+S K AE1 N D AH0 L 
+HH EY1 S T IY0 
+T EY1 S T IY0 
+IY1 T 
+AH0 L AO1 NG 
+R AO1 NG 
+---hoofbeats---
+HH AH1 M P 
+D IH0 Z AE1 S T ER0 
+F AE1 S T ER0 
+IH0 N 
+L AE1 N D IH0 N 

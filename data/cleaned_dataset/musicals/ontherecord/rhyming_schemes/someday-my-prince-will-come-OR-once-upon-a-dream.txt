@@ -1,0 +1,21 @@
+K AH1 M 
+L AH1 V 
+B IY1 
+M IY1 
+Y UW1 
+T UW1 
+S AH1 M D EY2 
+T R UW1 
+K AH1 M 
+L AH1 V 
+B IY1 
+M IY1 
+D R IY1 M 
+G L IY1 M 
+S IY1 M 
+D UW1 
+W AH1 N S 
+D R IY1 M 
+T UW1 
+D UW1 
+W AH1 N S 

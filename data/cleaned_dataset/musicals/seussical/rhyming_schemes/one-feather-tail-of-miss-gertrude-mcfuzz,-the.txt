@@ -1,0 +1,12 @@
+D UW1 
+---mcfuzz---
+W AA1 Z 
+HH AE1 D 
+S AE1 D 
+P AH1 F 
+F L AW1 ER0 Z 
+IH0 N AH1 F 
+W AH1 T 
+W AA1 Z 
+M EH1 N T 
+EH1 L AH0 F AH0 N T 

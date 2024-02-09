@@ -1,0 +1,48 @@
+---*father*---
+B AA1 D IY0 Z 
+P AE1 DH Z 
+L OW1 ER0 
+B AE1 TH S 
+S EY1 N T S 
+HH AA1 R T S 
+ER1 JH AH0 Z 
+P AA1 R T S 
+DH OW1 
+F AO1 R M 
+T AY1 M 
+W AO1 R M 
+T R AH1 B AH0 L 
+Y AO1 R 
+P AA1 R T S 
+Y UH0 R S EH1 L V Z 
+ER1 N 
+L IH1 T AH0 L 
+B ER1 N 
+SH AW1 ER0 
+Y AO1 R 
+P AA1 R T S 
+P R OW1 K R IY0 EY1 SH AH0 N 
+R EH2 K R IY0 EY1 SH AH0 N 
+SH OW1 
+P IH1 M P AH0 L Z 
+W AO1 R T S 
+S T AH1 N T IH0 D 
+JH EH1 L IY0 
+---*students*---
+EH1 R ER0 
+T EH1 R ER0 
+---*father*---
+G R OW1 
+B EH1 L T 
+S UW1 ER0 
+G IH1 L T IY0 
+D UW1 R 
+T R AH1 B AH0 L 
+---*all---
+S AY1 T 
+M AY1 N D 
+R AY1 T 
+B L AY1 N D 
+---*father*---
+Y AO1 R 
+---*students*---

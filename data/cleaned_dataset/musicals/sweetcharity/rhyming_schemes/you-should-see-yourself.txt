@@ -1,0 +1,37 @@
+M AE1 N 
+---tst---
+T AH0 N AY1 T 
+L AY1 T 
+K L AE1 S 
+P AE1 S 
+P AE1 S 
+M AE1 D 
+---mmm---
+AA1 N 
+G AO1 N 
+M UW1 D 
+L AH1 V ER0 
+G L UW1 D 
+AW1 T W IH2 T 
+B IH1 L T 
+N IY1 D 
+IH0 N D IY1 D 
+W AY1 L D 
+---rrrrrrrrrrrh---
+AY1 Z 
+P R AY1 Z 
+T AH0 D EY1 
+F ER1 N IH0 CH ER0 
+S EH1 T S 
+S EH1 T S 
+P EY1 M AH0 N T 
+D AW1 R IY0 
+N AA1 T 
+G AA1 T 
+AA1 R 
+S T AA1 R 
+Y ER0 S EH1 L F 
+Y ER0 S EH1 L F 
+M AE1 N 
+Y ER0 S EH1 L F 
+Y ER0 S EH1 L F 

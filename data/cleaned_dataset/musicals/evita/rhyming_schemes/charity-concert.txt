@@ -1,0 +1,18 @@
+N AY1 T 
+N AY1 T 
+S T AA1 R Z 
+D AO1 R 
+G IH0 T AA1 R Z 
+M AO1 R 
+---magaldi---
+D W AA1 R T EY2 
+M AH1 CH 
+Y UH1 R Z 
+P IY1 P AH0 L 
+K AA1 Z 
+AH0 P L AO1 Z 
+Y UH1 R Z 
+P IY1 P AH0 L 
+F AY1 T 
+L AY1 T 
+R AY1 T 

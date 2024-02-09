@@ -1,0 +1,28 @@
+D AW1 N 
+D AW1 N 
+S AO1 NG 
+D AW1 N 
+AH0 L AO1 NG 
+F R IY1 
+M IY1 
+D AW1 N 
+D AW1 N 
+AH0 P IY1 L IH0 NG 
+D EY1 
+HH AE1 P IY0 
+D EY1 
+M AE1 N D IY0 
+HH AE1 P IY0 
+D EY1 
+D AW1 N 
+D R AH1 M 
+D AW1 N 
+---rhum---
+F R IY1 
+M IY1 
+T AW1 N 
+D AW1 N 
+D AW1 N 
+D AW1 N 
+D AW1 N 
+---agoin---

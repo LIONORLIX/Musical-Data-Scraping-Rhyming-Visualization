@@ -1,0 +1,19 @@
+CH AA1 R M 
+W AO1 R M 
+S P EH1 L 
+W EH1 L 
+CH AA1 R M 
+W AO1 R M 
+S P EH1 L 
+W EH1 L 
+HH AY1 
+S K AY1 
+F AO1 L 
+G R OW1 
+CH AA1 R M 
+W AO1 R M 
+S P EH1 L 
+W EH1 L 
+CH AA1 R M 
+S P EH1 L 
+W EH1 L 

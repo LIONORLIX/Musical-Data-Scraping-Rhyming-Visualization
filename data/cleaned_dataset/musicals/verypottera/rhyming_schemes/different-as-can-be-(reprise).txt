@@ -1,0 +1,20 @@
+S IY1 
+M IY1 
+D IH1 F ER0 AH0 N T 
+D IH1 F ER0 AH0 N T 
+B IY1 
+---gaurentee---
+M IY1 
+D IH1 F ER0 AH0 N T 
+D IH1 F ER0 AH0 N T 
+B IY1 
+S AO1 R T S 
+---voldemort---
+S K W ER1 AH0 L 
+K W AO1 R AH0 L 
+S L AO1 T ER0 
+P AA1 T ER0 
+D IH1 F ER0 AH0 N T 
+D IH1 F ER0 AH0 N T 
+D IH1 F ER0 AH0 N T 
+B IY1 

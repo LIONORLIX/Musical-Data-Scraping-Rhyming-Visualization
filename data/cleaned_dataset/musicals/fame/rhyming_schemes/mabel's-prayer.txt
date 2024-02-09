@@ -1,0 +1,15 @@
+S AY1 N 
+L AY1 N 
+M IY1 
+M IY1 
+S AY1 N 
+S AY1 N 
+L AY1 N 
+L AY1 N 
+HH ER0 
+M IY1 
+HH ER0 
+M IY1 
+AE1 N S ER0 
+AA1 
+D AE1 N S ER0 

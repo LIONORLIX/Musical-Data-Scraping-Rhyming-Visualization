@@ -1,0 +1,82 @@
+S AH1 N 
+S EH1 D 
+D AH1 N 
+W UH1 D 
+L AE1 S T 
+D AH1 N 
+B AH1 M 
+G ER1 L 
+N EY1 M 
+SH EY1 M 
+R EY1 S 
+K EY1 N 
+G ER1 L 
+HH EH1 D 
+AE1 S K T 
+L AO1 R D 
+S EH1 D 
+S EH1 D 
+T EY1 B AH0 L 
+S EH1 L AH0 B R EY2 T 
+P L EY1 S AH0 Z 
+EY1 T 
+S AH1 N 
+N EY1 M 
+B IY1 
+P R OW0 K L EY1 M 
+HH ER0 
+W AY1 F 
+AA1 R K 
+L AY1 F 
+S EH1 D 
+T EY1 B AH0 L 
+P L EY1 T 
+P IY1 P AH0 L 
+EY1 T 
+W AY1 F 
+M UW1 D 
+L AO1 
+F UW1 D 
+B R UW1 D 
+T UW1 
+S IY1 M 
+S EH1 TH 
+DH EH1 M 
+DH EH1 M 
+R IH0 L IY1 V D 
+Y UW1 
+L AY1 T 
+F AA1 DH ER0 
+R IH0 L IY1 V D 
+F AA1 DH ER0 
+T AH0 N AY1 T 
+Y UW1 
+P AE1 S T 
+AH0 P IH1 R 
+---japeth---
+S EH1 D 
+F IH1 R 
+M AO1 R 
+AO1 L 
+HH IY1 R 
+N EH1 K S T 
+F EY1 B AH0 L 
+G ER1 L 
+T EY1 B AH0 L 
+S EH1 D 
+T EY1 B AH0 L 
+S AY1 D 
+W ER1 L D 
+B R AY1 D 
+W ER1 L D 
+B R AY1 D 
+T EY1 B AH0 L 
+HH EH1 Z AH0 T EY2 T 
+W EY1 T 
+S T EY1 T 
+L IH1 V Z 
+N AY1 V Z 
+K AE1 L K Y AH0 L EY2 T 
+EY1 T 
+---onetwothreefourfivesixseven---
+EY1 T 

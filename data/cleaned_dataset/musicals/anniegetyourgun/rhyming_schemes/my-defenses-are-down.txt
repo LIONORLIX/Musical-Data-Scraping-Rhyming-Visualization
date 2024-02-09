@@ -1,0 +1,47 @@
+G ER1 L Z 
+F AH1 N 
+G ER1 L Z 
+W AH1 N 
+D AH1 N 
+D AW1 N 
+R IH0 Z IH1 S T AH0 N S 
+AE1 M 
+L AY1 AH0 N 
+L AE1 M 
+D AW1 N 
+M IY1 
+HH AW1 
+---wakened---
+N AW1 
+T AY1 G ER0 
+B EH1 R 
+AA1 R M ER0 
+HH EH1 R 
+D AW1 N 
+S ER0 EH1 N D ER0 
+W AH1 N 
+IH1 T 
+D AH1 N 
+IH1 T 
+F AH1 N 
+D AW1 N 
+R IH0 Z IH1 S T AH0 N S 
+JH AE1 M 
+L AY1 AH0 N 
+L AE1 M 
+D AW1 N 
+Y UW1 
+HH AW1 
+---wakened---
+N AW1 
+T AY1 G ER0 
+B EH1 R 
+K AO1 R AH0 S 
+AA1 R M ER0 
+HH EH1 R 
+D AW1 N 
+S ER0 EH1 N D ER0 
+W AH1 N 
+IH1 T 
+D AH1 N 
+IH1 T 

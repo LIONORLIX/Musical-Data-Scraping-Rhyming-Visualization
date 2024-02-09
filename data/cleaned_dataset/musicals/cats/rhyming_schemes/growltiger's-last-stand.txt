@@ -1,0 +1,98 @@
+B AA1 R JH 
+L AA1 R JH 
+EY1 M Z 
+T EH1 M Z 
+P L IY1 Z 
+N IY1 Z 
+W AY1 
+AY1 
+F EY1 M 
+N EY1 M 
+G UW1 S 
+L UW1 S 
+K EY1 JH 
+R EY1 JH 
+SH IH1 P S 
+G R IH1 P S 
+V AW1 D 
+AH0 L AW1 D 
+F IH1 R 
+IY1 R 
+P L EY1 
+L EY1 
+T AY1 D 
+S AY1 D 
+---disappered---
+B IH1 R D 
+AH0 W EY1 
+P R EY1 
+AH0 L OW1 N 
+---griddlebone---
+B AH1 NG K S 
+JH IH1 NG K S 
+---griddlebone---
+B EH1 R AH0 T OW2 N 
+S ER0 P R AY1 Z 
+AY1 Z 
+R AW1 N D 
+S AW1 N D 
+N AY1 V Z 
+L IH1 V Z 
+B UH1 SH 
+N AY1 T 
+R AH1 SH 
+P AH0 L AY1 T 
+G EH1 R IH0 T 
+---parret---
+M AH0 K AO1 
+B AA1 R 
+B AA1 R 
+B R AY1 T 
+W AA1 Z 
+M AH0 K AO1 
+B AA1 R 
+B AA1 R 
+B AA1 R 
+T EH1 R 
+B IH1 R 
+HH EH1 D 
+S EH1 D 
+D IH0 S P Y UW1 T 
+B UW1 T 
+AY1 
+D R AY1 
+S AE1 D 
+HH AE1 D 
+M AH0 K AO1 
+F L UW1 T 
+F L UW1 T 
+F L UW1 T 
+T EH1 R 
+B IH1 R 
+M AH0 K AO1 
+G IH0 T AA1 R 
+G IH0 T AA1 R 
+G IH0 T AA1 R 
+T EH1 R 
+B IH1 R 
+M AH0 K AO1 
+G IH0 T AA1 R 
+B AA1 R 
+HH AO1 R D 
+AH0 B AO1 R D 
+---skeered---
+IH1 T 
+D IH2 S AH0 P IH1 R D 
+IY1 Z 
+D R AW1 N D 
+S ER0 AW1 N D 
+R AE1 NG K 
+P L AE1 NG K 
+D R AA1 P 
+---kerflop---
+L AE1 N D 
+S T R AE1 N D 
+D AA1 K 
+B AE0 NG K AA1 K 
+W EH1 L 
+T EH1 L 

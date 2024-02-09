@@ -1,0 +1,19 @@
+Y UW1 
+B AE1 D 
+Y UW1 
+B AE1 D 
+M AE1 D 
+M AE1 D 
+Y UW1 
+B AE1 D 
+Y UW1 
+B AE1 D 
+M AE1 D 
+M IY1 
+HH EH1 V IY0 
+HH EH1 V IY0 
+Y UW1 
+B AE1 D 
+Y UW1 
+B AE1 D 
+M AE1 D 

@@ -1,0 +1,58 @@
+L AY1 F B OW2 T 
+W AY1 L 
+S ER1 P AH0 N T AY2 N 
+S M AY1 L 
+L AY1 F B OW2 T 
+JH AA1 N 
+IH1 T 
+F AY1 N 
+M AO1 R N IH0 NG 
+M AY1 N 
+---shipreprise---
+S T R AW1 S 
+L AY1 F B OW2 T 
+P L EY1 S 
+M EH1 N 
+N AW1 
+N AA1 T 
+G OW1 
+AE1 S T ER0 
+M AH1 S T 
+L AY1 F B OW2 T 
+B IY1 N 
+N EH1 K S T 
+AE1 S T ER0 
+L IY1 V 
+N AW1 
+---bellboy---
+W IH1 D IY0 N ER0 
+M AH1 S T 
+L AY1 F B OW2 T 
+K L AA1 R K 
+HH IY1 R 
+L AY1 F B OW2 T 
+P AE1 S AH0 N JH ER0 Z 
+R IH0 M EY1 N IH0 NG 
+L AY1 F B OW2 T 
+N AW1 
+---maidreprise---
+S EY1 K 
+B R AY1 D 
+M EY1 D 
+AH0 M EH1 R AH0 K AH0 
+AE1 D V ER0 T AY2 Z 
+K AE1 N AH0 N Z 
+M AH1 S T 
+L AY1 F B OW2 T 
+V OY1 S AH0 Z 
+W IY1 R 
+T AY1 M 
+R IH0 P IY1 T 
+---voicesrepeat---
+W EH1 L 
+AE1 N D R UW2 Z 
+W ER1 K 
+EH1 L S IH0 Z 
+K IY1 P 
+K IY1 P 
+AH0 W EY1 

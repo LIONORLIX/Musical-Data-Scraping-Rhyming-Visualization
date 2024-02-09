@@ -1,0 +1,32 @@
+N EY1 M 
+S EY1 M 
+R OW1 Z IH0 Z 
+R OW1 Z IH0 Z 
+OW1 P AH0 N 
+K L OW1 Z D 
+F Y UW1 CH ER0 
+L AH1 V 
+M EH1 T 
+F ER0 G EH1 T 
+G EY1 V 
+---him—in---
+D EY1 Z 
+D EY1 Z 
+D EY1 Z 
+D EY1 Z 
+M AY1 N D 
+L AY1 N 
+R OW1 Z IH0 Z 
+R OW1 Z IH0 Z 
+OW1 P AH0 N 
+K L OW1 Z D 
+F Y UW1 CH ER0 
+L AH1 V 
+M EH1 T 
+F ER0 G EH1 T 
+G EY1 V 
+---him—in---
+D EY1 Z 
+D EY1 Z 
+D EY1 Z 
+D EY1 Z 

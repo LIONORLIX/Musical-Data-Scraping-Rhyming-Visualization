@@ -1,0 +1,45 @@
+W AA1 N T 
+G AA1 T 
+N IY1 D 
+IH1 T 
+AH0 S K IH1 N 
+HH OW1 M 
+G AO1 N 
+UW1 
+UW1 
+B IH1 T 
+B IH1 T 
+B IH1 T 
+M AH1 N IY0 
+HH AH1 N IY0 
+P R AA1 F IH0 T S 
+AH0 
+AH0 
+B IH1 T 
+B IH1 T 
+UW1 
+UW1 
+UW1 
+UW1 
+M IY1 
+R EY1 
+R EY1 
+B IH1 T 
+B IH1 T 
+IY1 
+M IY1 
+IY1 
+T AE1 B 
+M IY1 
+M IY1 
+B IH1 T 
+B IH1 T 
+B IH1 T 
+B IH1 T 
+B IH1 T 
+B IH1 T 
+---'spect---
+R EY1 
+B IH1 T 
+B IH1 T 
+B IH1 T 

@@ -1,0 +1,25 @@
+S P IY1 D 
+L OW1 V IH0 N 
+L OW1 V IH0 N 
+B IH1 N 
+D R AY1 V ER0 
+L AH1 V ER0 
+L AH1 V ER0 
+L AH1 V ER0 
+P L EY1 
+---launce---
+L OW1 V IH0 N 
+P EY1 N 
+P UW1 D AH0 L 
+OW1 
+S P IY1 D 
+OW1 
+L OW1 V IH0 N 
+L OW1 V IH0 N 
+B IH1 N 
+R AH1 N ER0 
+L AH1 V ER0 
+---contd---
+L AH1 V ER0 
+L AH1 V ER0 
+P L EY1 

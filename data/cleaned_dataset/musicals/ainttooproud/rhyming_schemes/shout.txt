@@ -1,0 +1,55 @@
+W AA1 N AH0 
+AH0 N D 
+AH0 N D 
+AH0 N D 
+N AW1 
+W IH1 L 
+---x5---
+B EY1 B IY0 
+AA1 N 
+Y UW1 
+M IY1 
+M IY1 
+M IY1 
+M IY1 
+---x3---
+R IH0 M EH1 M B ER0 
+Y IH1 R Z 
+Y UW1 
+S OW1 L 
+Y AE1 
+AH1 P 
+Y AE1 
+M IY1 
+G OW1 
+N OW1 
+N AW1 
+B EY1 B IY0 
+HH EY1 
+M IY1 
+HH EY1 
+N OW1 
+N AW1 
+W AA1 N AH0 
+Y AE1 
+R AY1 T 
+T UW1 
+---x2---
+T UW1 
+T UW1 
+Y AE1 
+M IH1 N AH0 T 
+---x2---
+W UH1 M AH0 N 
+---x2---
+T UW1 
+W AA1 N AH0 
+AH1 P 
+B AE1 K 
+F AO1 R 
+F AO1 R 
+---12---
+S IH1 K S 
+---12---
+F AO1 R 
+S IH1 K S 

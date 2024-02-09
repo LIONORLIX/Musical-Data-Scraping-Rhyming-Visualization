@@ -1,0 +1,12 @@
+HH AA1 R T 
+P AA1 R T 
+S IY1 
+F R IY1 
+S IH1 NG 
+S P R IH1 NG 
+T R IY1 
+T R IY1 
+S IH1 NG 
+S P R IH1 NG 
+M IY1 
+B IY1 

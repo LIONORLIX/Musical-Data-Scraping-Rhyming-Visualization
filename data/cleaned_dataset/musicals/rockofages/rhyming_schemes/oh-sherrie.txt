@@ -1,0 +1,37 @@
+G AO1 N 
+F IY1 L 
+G AO1 N 
+S T IY1 L 
+D R IY1 M ER0 
+EH1 L S 
+OW1 V ER0 
+L AH1 V 
+AA1 N 
+L AH1 V 
+AA1 N 
+G OW1 
+M IY1 
+AH0 L OW1 N 
+B IY1 
+F IY1 V ER0 
+EH1 L S 
+---burnin---
+AH0 N D 
+L AH1 V 
+AA1 N 
+L AH1 V 
+AA1 N 
+SH EH1 R IY0 
+SH EH1 R IY0 
+G AO1 N 
+AH0 W EY1 
+G AO1 N 
+L AY1 
+S T EY1 
+L AH1 V 
+AA1 N 
+L AH1 V 
+AA1 N 
+L AH1 V 
+AA1 N 
+AA1 N 

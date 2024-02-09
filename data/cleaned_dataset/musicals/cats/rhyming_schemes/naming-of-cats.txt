@@ -1,0 +1,33 @@
+K AE1 T 
+M AE1 T ER0 
+G EY1 M Z 
+HH AE1 T ER0 
+N EY1 M Z 
+D EY1 L IY0 
+JH EY1 M Z 
+B EY1 L IY0 
+N EY1 M Z 
+S W IY1 T ER0 
+D EY1 M Z 
+D IH0 M IY1 T ER0 
+N EY1 M Z 
+P ER0 T IH1 K Y AH0 L ER0 
+D IH1 G N AH0 F AY2 D 
+P ER2 P AH0 N D IH1 K Y AH0 L ER0 
+P R AY1 D 
+K W AO1 R AH0 M 
+---coricopat---
+---jellylorum---
+K AE1 T 
+OW1 V ER0 
+G EH1 S 
+D IH0 S K AH1 V ER0 
+K AH0 N F EH1 S 
+M EH2 D AH0 T EY1 SH AH0 N 
+S EY1 M 
+K AA2 N T AH0 M P L EY1 SH AH0 N 
+TH AO1 T 
+TH AO1 T 
+TH AO1 T 
+N EY1 M 
+---effanineffable---

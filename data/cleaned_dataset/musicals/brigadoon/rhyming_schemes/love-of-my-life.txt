@@ -1,0 +1,51 @@
+S AE1 D 
+L AE1 D 
+W AY1 F 
+L AY1 F 
+---macgill---
+HH IH1 L 
+T AH1 CH 
+M AH1 CH 
+S P R IH1 NG Z 
+TH IH1 NG Z 
+HH IH1 L 
+---macgill---
+D AY1 
+T R AY1 
+W AY1 F 
+L IY1 
+HH IY1 
+M IY1 
+W IH1 L 
+---macgill---
+K R IY1 K 
+W IY1 K 
+N OW1 
+L OW1 
+T R UW1 TH 
+Y UW1 TH 
+W AY1 F 
+L AY1 F 
+HH IY1 
+M IY1 
+P EH1 N 
+G L EH1 N 
+S K AY1 
+G IH0 D B AY1 
+T R UW1 
+D UW1 
+TH IH1 NG K 
+D R IH1 NG K 
+W AY1 F 
+L AY1 F 
+S AH1 N 
+W AH1 N 
+M AY1 T 
+F AY1 T 
+G L EH1 N 
+P EH1 N 
+D IH0 S M EY1 
+AH0 W EY1 
+W AH1 N 
+R AH1 N 
+W AY1 F 

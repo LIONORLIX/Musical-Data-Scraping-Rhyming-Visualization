@@ -1,0 +1,18 @@
+AA1 R M Z 
+AA1 R M ER0 
+AA1 R M Z 
+M AO1 R 
+F AA1 R M Z 
+K R AY1 
+ER0 AY1 V 
+AH0 L AY1 V 
+K R AY1 
+AA1 R M Z 
+AH1 S 
+AA1 R M Z 
+AH1 S 
+AA1 R M Z 
+F AO1 R 
+D AH1 N 
+S AH1 N 
+F AO1 R 

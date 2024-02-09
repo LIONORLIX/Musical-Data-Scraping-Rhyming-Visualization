@@ -1,0 +1,14 @@
+P IY1 P AH0 L 
+T R UW1 
+Y UW1 
+Y UW1 
+Y UW1 
+B AH1 D IY0 
+B EH1 T ER0 
+D OW1 N T 
+R AY1 T 
+T R UW1 
+Y UW1 
+N AY1 T 
+N AY1 T 
+B AY1 T 

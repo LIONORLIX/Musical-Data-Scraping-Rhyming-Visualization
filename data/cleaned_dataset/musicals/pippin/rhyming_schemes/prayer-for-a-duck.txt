@@ -1,0 +1,8 @@
+L OW1 
+S OW1 
+N OW1 
+B ER1 S T 
+W ER1 S T 
+AH0 M AH1 K 
+S T AH1 K 
+P L AH1 K 

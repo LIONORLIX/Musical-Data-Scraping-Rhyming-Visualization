@@ -1,0 +1,12 @@
+W EY1 
+M IY1 
+P L EY1 
+S AO1 NG 
+S EY1 
+S AO1 NG 
+L AO1 NG 
+AH0 W EY1 
+M IY1 
+D EY1 
+P R AY1 S 
+W AH1 N S 

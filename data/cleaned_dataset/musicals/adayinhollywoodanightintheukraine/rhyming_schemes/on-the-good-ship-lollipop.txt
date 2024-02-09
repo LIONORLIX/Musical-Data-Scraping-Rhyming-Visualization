@@ -1,0 +1,19 @@
+T R EY1 N 
+---aeroplanes---
+T UW1 
+K R UW1 
+L AA1 L IY0 P AA2 P 
+SH AA1 P 
+P L EY1 
+B EY1 
+EH1 V R IY0 W EH2 R 
+EH1 R 
+AA1 R 
+B AA1 R 
+R OW1 L 
+K EY1 K 
+UW1 
+EY1 K 
+L AA1 L IY0 P AA2 P 
+HH AA1 P 
+AH0 W EY1 

@@ -1,0 +1,45 @@
+---siehst---
+M AE1 G 
+---siehst---
+M AE1 G 
+S IY1 
+M AE1 G 
+S IY1 
+M AE1 G 
+M AE1 G 
+EY1 L Z 
+D AE1 B 
+---aufzuschreien---
+EH1 V R IY0 TH IH2 NG 
+AH0 B AW1 T 
+AW1 T 
+S AY1 T 
+M AE1 G 
+S AY1 T 
+M AE1 G 
+S IH1 NG 
+M AE1 G 
+S IH1 NG 
+M AE1 G 
+---traurig---
+S IY1 
+IH1 CH 
+---machtlos---
+IH1 CH 
+---shekraft---
+L AY1 D 
+S IY1 
+---deutlich---
+---heinweg---
+HH AY1 F ER0 
+S AE1 D L IY0 
+S IY1 
+AY1 
+P AW1 ER0 L AH0 S 
+AY1 
+S AY1 T 
+S AO1 NG 
+S IY1 
+K L IH1 R L IY0 
+B AE1 K 
+HH OW1 M 

@@ -1,0 +1,36 @@
+F AO1 L Z 
+S N OW1 
+S N OW1 
+G R OW1 
+S T AO1 R M IY0 
+R AY1 D 
+S AY1 D 
+SH AY1 N 
+D AW1 N 
+N AW1 
+D AW1 N 
+Y UW1 
+L AH1 K IY0 
+F AO1 L 
+AO1 L 
+AO1 F 
+M IY1 
+T R AY1 
+S K AY1 
+T AY1 M 
+D AW1 N 
+N AW1 
+D AW1 N 
+Y UW1 
+D AW1 N 
+N AW1 
+D AW1 N 
+Y UW1 
+D AW1 N 
+N AW1 
+D AW1 N 
+Y UW1 
+D AW1 N 
+N AW1 
+D AW1 N 
+Y UW1 

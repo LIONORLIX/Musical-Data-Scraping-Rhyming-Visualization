@@ -1,0 +1,19 @@
+------ Epilogue (Farewells) ------
+--- HOBBITS ---
+Namari? (*)
+N?menna! (**)
+Auta i r?. (***)
+Hilya! Hilya! (****)
+Namari?
+Hilya! Hilya!
+Auta i r?.
+Namari?
+Auta i r?.
+Hilya!
+Yallume
+--- Translation ---
+(*) Farewell
+(**) Into the West
+(***) The day is passing
+(****) Follow. Follow.
+------ fin ------

@@ -1,0 +1,7 @@
+R OW1 D 
+R OW1 D 
+M IY1 
+HH AE1 N D 
+R OW1 D 
+S IY1 
+L AE1 N D 

@@ -1,0 +1,205 @@
+N EH1 T IY0 
+S EH1 L IY0 
+S EH1 L IY0 
+N EH1 T IY0 
+N EH1 T IY0 
+Y UW1 
+M IY1 
+S K AY1 
+R IH0 P L AY1 
+---abcs---
+F AE1 M AH0 L IY0 
+Y UH1 R Z 
+S EH1 L IY0 
+AH0 L AY1 V 
+N EH1 T IY0 
+B EH1 L 
+K OW1 S T 
+G AA1 D 
+S EH1 L IY0 
+G AA1 D 
+S EH1 L IY0 
+G AA1 D 
+N EH1 T IY0 
+L AE1 N D 
+D AY1 D 
+HH OW1 M L AE2 N D 
+S EH1 L IY0 
+P IY1 P AH0 L 
+AO1 L 
+P IY1 P AH0 L 
+N EH1 T IY0 
+---olinka---
+CH IY1 F 
+---linga---
+V IH1 L IH0 JH ER0 Z 
+---linga---
+CH IY1 F 
+OW1 B AH0 
+V IH1 L IH0 JH ER0 Z 
+OW1 B AH0 
+CH IY1 F 
+---batuwanga---
+M EH1 N 
+Y EY1 
+CH IY1 F 
+---linga---
+V IH1 L IH0 JH ER0 Z 
+---linga---
+CH IY1 F 
+OW1 B AH0 
+V IH1 L IH0 JH ER0 Z 
+OW1 B AH0 
+CH IY1 F 
+---batuwanga---
+M EH1 N 
+Y EY1 
+V IH1 L IH0 JH ER0 Z 
+---linga---
+N EH1 T IY0 
+---linga---
+V IH1 L IH0 JH ER0 Z 
+OW1 B AH0 
+N EH1 T IY0 
+OW1 B AH0 
+V IH1 L IH0 JH ER0 Z 
+---batuwanga---
+---15---
+K IH1 D Z 
+---linga---
+N EH1 T IY0 
+AA1 R 
+K IH1 D Z 
+OW1 B AH0 
+N EH1 T IY0 
+HH AE1 P IY0 
+N EH1 T IY0 
+S EH1 N T ER0 
+Y UW1 N AH0 V ER2 S 
+K IH1 D Z 
+---linga---
+N EH1 T IY0 
+AA1 R 
+K IH1 D Z 
+OW1 B AH0 
+N EH1 T IY0 
+HH AE1 P IY0 
+N EH1 T IY0 
+S EH1 N T ER0 
+Y UW1 N AH0 V ER2 S 
+V IH1 L IH0 JH ER0 Z 
+D EY1 
+D EY1 
+EY1 
+W IH1 M AH0 N 
+D AA1 D AA2 
+V IH1 L IH0 JH ER0 Z 
+EY1 
+EY1 
+W IH1 M AH0 N 
+D AA1 D AA2 
+V IH1 L IH0 JH ER0 Z 
+EY1 
+V IH1 L IH0 JH ER0 Z 
+D EY1 
+EY1 
+W IH1 M AH0 N 
+D AA1 D AA2 
+V IH1 L IH0 JH ER0 Z 
+EY1 
+EY1 
+W IH1 M AH0 N 
+---ooday---
+V IH1 L IH0 JH ER0 Z 
+EY1 
+N EH1 T IY0 
+B L AE1 K 
+T AY1 M 
+F AY1 N 
+R OW1 B Z 
+W IH1 N D Z 
+K W IH1 L T 
+F R EH1 N D Z 
+S EH1 L IY0 
+N UW1 
+TH IH1 M B AH0 L 
+B IY1 
+R IH0 Z EH1 M B AH0 L 
+K W IY1 N Z 
+Y IH1 R Z 
+S IH1 T IY0 Z 
+T EH1 R Z 
+CH IY1 F 
+Y AA1 
+B IH0 G IH1 N 
+CH IY1 F 
+---yahhhh---
+N EH1 T IY0 
+Y AA1 
+Y AA1 
+Y AA1 
+OW1 
+N EH1 T IY0 
+---olinka---
+W IH1 M AH0 N 
+M IY1 
+B IH1 N 
+N EH1 V ER0 
+AO1 L 
+DH EH1 R 
+IH1 Z 
+W AY1 V Z 
+P R IY1 CH IH0 NG 
+AH1 S 
+N EH1 T IY0 
+M EH1 R IY0 D 
+AH0 G R IY1 M AH0 N T 
+W UW1 P 
+M AE1 N 
+F AH1 S 
+W UW1 P 
+CH IH1 L D R AH0 N 
+N AH1 TH IH0 NG 
+N EH1 T IY0 
+M AH1 DH ER0 
+S AH1 M B AA2 D IY0 
+W AY1 V Z 
+EH2 JH AH0 K EY1 SH AH0 N 
+N EH1 T IY0 
+HH OW1 M 
+W AY1 V Z 
+S T EY1 SH AH0 N 
+S EH1 L IY0 
+OW0 L IH1 V IY0 AH0 
+W AY1 V Z 
+---hmmmmmmm---
+W AO1 R IY0 ER0 
+M AH0 JH EH1 N T AH0 
+---16---
+N EH1 T IY0 
+S OW1 
+M EY1 L 
+L EH1 T ER0 
+L AE1 N D 
+HH AA1 R T S 
+AH0 N N OW1 N 
+---olinka---
+T AH0 G EH1 DH ER0 
+N EH1 T IY0 
+B IY1 
+F R IY1 
+P IY1 P AH0 L 
+---olinka---
+---unndala---
+N EH1 T IY0 
+P IY1 P AH0 L 
+---olinka---
+---unndala---
+N EH1 T IY0 
+M AH1 S T 
+T UW1 
+S IH1 S T ER0 
+M EH1 N 
+AH0 W EY1 
+---hummmmmm---
+S EH1 L IY0 

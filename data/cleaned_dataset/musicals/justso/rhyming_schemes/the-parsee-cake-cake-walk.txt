@@ -1,0 +1,42 @@
+K EY1 N 
+G R EY1 N 
+K AH1 P 
+AH1 P 
+W EY1 
+T R EY1 
+K IH1 K S 
+M IH1 K S 
+F AY1 N 
+B R AE1 N D IY0 
+HH AA1 R M 
+G L AH1 T S 
+N AH1 T S 
+N AH1 T S 
+B ER1 D 
+N AH1 T S 
+AO1 L 
+N AH1 T S 
+IH0 N G R IY1 D IY0 AH0 N T 
+W EY1 
+T R EY1 
+K IH1 K S 
+M IH1 K S 
+AO1 L 
+M IH1 K S 
+R AY1 N OW2 
+W EY1 
+S T EY1 
+AO1 L 
+W AO1 K 
+---parsee---
+M IY1 
+AO1 L 
+W AO1 K 
+---parsee---
+AH0 N D 
+AO1 L 
+W EY1 
+T R EY1 
+K IH1 K S 
+R IH1 DH AH0 M 
+K EY1 K 

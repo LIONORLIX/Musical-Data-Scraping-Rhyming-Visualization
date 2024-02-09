@@ -1,0 +1,19 @@
+M AY1 N 
+T AY1 M 
+B AY1 N D Z 
+L AY1 N 
+T R UW1 
+TH R UW1 
+Y UW1 
+L AY1 N 
+L AY1 T 
+N AY1 T 
+R AY1 T 
+L AY1 N 
+S AY1 D 
+HH AY1 D 
+T AY1 D 
+L AY1 N 
+M AY1 N 
+T AY1 M 
+B AY1 N D Z 

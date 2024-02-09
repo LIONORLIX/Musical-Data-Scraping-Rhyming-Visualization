@@ -1,0 +1,66 @@
+F L AA1 P 
+T AA1 P 
+L IY1 S T 
+D IH0 S IY1 S T 
+K AO1 R S 
+F AE1 K T 
+R IH0 M EY1 N Z 
+R IH0 M EY1 N Z 
+AE1 K T 
+S IH1 S T ER0 
+AY1 
+HH AH1 
+DH IH1 S 
+P IY1 P AH0 L 
+P IY1 P AH0 L 
+---i'ddrums---
+S AE1 K S AH0 F OW2 N 
+---we'dtogether---
+AH0 L OW1 N 
+SH IY1 D 
+AY1 D 
+W IY1 D 
+AH0 L OW1 N 
+L AY1 K 
+M EH1 N 
+Y AH1 K 
+M IY0 AW1 
+W AW1 
+AH0 G EH1 N 
+G OW1 
+G OW1 
+G OW1 
+R AO1 R 
+F L AO1 R 
+M AO1 R 
+AH1 P 
+Y EH1 T 
+D AE1 N S AH0 Z 
+Y AE1 
+AH0 L OW1 N 
+S EY1 
+DH AH0 
+DH IH1 S 
+R AY1 T 
+HH AY1 
+W IY1 D 
+AH0 L OW1 N 
+IH0 N 
+IH1 L 
+DH AE1 T 
+AO1 F 
+S T IH1 L 
+G OW1 
+G OW1 
+---gosideways---
+B R AW1 
+T AW1 N 
+D AW1 N 
+B AH1 T 
+D IH1 D 
+Y UW1 N AH0 S AH0 N 
+K R AE1 SH 
+IH1 T 
+IH1 T 
+IH1 T 
+AH0 L OW1 N 

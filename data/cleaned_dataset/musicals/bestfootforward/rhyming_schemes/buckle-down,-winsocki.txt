@@ -1,0 +1,22 @@
+---winsocki---
+D AW1 N 
+---winsocki---
+D AW1 N 
+N EH1 K S 
+R EH1 K S 
+HH EH1 K S 
+D AW1 N 
+Y EH1 L 
+---winsocki---
+HH EH1 L 
+CH IH1 N 
+D AW1 N 
+D IH0 F IY1 T 
+R IY0 T R IY1 T 
+---winsocki---
+D AW1 N 
+---winsocki---
+D AW1 N 
+D AW1 N 
+T AW1 N 
+K R AW1 N 

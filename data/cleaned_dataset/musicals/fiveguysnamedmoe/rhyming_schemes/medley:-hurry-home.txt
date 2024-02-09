@@ -1,0 +1,39 @@
+F OW1 N 
+AH0 L OW1 N 
+OW1 N 
+HH OW1 M 
+G AA1 T 
+F AY1 N 
+L AY1 N 
+G L UW1 
+G AA1 T 
+G IH1 T AH0 N 
+Y UW1 
+M IH0 S T EY1 K 
+M EY1 K 
+B R EY1 K 
+HH OW1 M 
+N OW1 
+G OW1 
+K L IH1 R 
+D IH1 R 
+B EY1 B IY0 
+D AW1 T 
+B EY1 B IY0 
+AW1 T 
+B EH1 T ER0 
+N ER1 S 
+B EH1 T ER0 
+W ER1 S 
+B EY1 B IY0 
+D AW1 T 
+B EY1 B IY0 
+AW1 T 
+---dawnin---
+M AO1 R IH0 N 
+K R EY1 N 
+---dawnin---
+K R EY1 N 
+M AO1 R 
+M AO1 R 
+M AO1 R 

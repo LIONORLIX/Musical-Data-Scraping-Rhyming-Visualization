@@ -1,0 +1,43 @@
+S IY1 
+M IY1 
+D UW1 
+Y UW1 
+R IH0 W AO1 R D 
+AH0 K AO1 R D 
+T AY1 M 
+S AO1 
+B IH0 F AO1 R 
+T UW1 
+Y UW1 
+R IH0 W AO1 R D 
+AH0 K AO1 R D 
+T AY1 M 
+W AY1 Z 
+---sympathise---
+W AH1 N Z 
+D AH1 N 
+R IH0 W AO1 R D 
+AH0 K AO1 R D 
+T AY1 M 
+IH0 K S K Y UW1 S IH0 Z 
+F L AO1 R 
+HH IH1 M 
+L AO1 
+---unrewarded---
+N EY1 L 
+HH IH1 M 
+HH IH1 M 
+F EY1 L 
+M AH1 N IY0 
+G UH1 D 
+M AH1 N IY0 
+SH UH1 D 
+M AH1 N IY0 
+P UH1 R 
+M OW1 T IH0 V Z 
+F IY1 L IH0 NG Z 
+AH0 
+F IY1 
+M AO1 R 
+HH IH1 M 
+---gethsemane---

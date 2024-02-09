@@ -1,0 +1,21 @@
+N EY1 L 
+P EY1 L 
+T R IY1 
+S IY1 
+B OW1 L D 
+HH OW1 L D 
+F R AE1 N S 
+D AE1 N S 
+W AY1 Z 
+AY1 Z 
+R IY1 CH 
+T IY1 CH 
+K AA1 R Z 
+K AH0 L OW1 N 
+S T AA1 R Z 
+N OW1 N 
+---trousseau---
+B AW1 
+HH AE1 N D Z 
+D IH0 M AE1 N D Z 
+AH1 V 

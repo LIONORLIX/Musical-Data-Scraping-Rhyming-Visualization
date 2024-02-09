@@ -1,0 +1,32 @@
+ER0 AW1 N D 
+ER0 AW1 N D 
+T AW1 N 
+T AW1 N 
+---doot---
+---doot---
+---doot---
+R AE1 G 
+IH0 N S EY1 N 
+IH0 N S EY1 N 
+B R EY1 N 
+B R EY1 N 
+---doot---
+---doot---
+R AE1 G 
+R AE1 G 
+N OW1 T 
+N OW1 T 
+W AA1 
+N OW1 T 
+T AE1 K IY0 
+W AE1 K IY0 
+N OW1 T 
+N OW1 T 
+N OW1 
+S IH1 S T ER0 
+D AH1 S T 
+S M OW1 K 
+R AE1 G 
+---doot---
+---doot---
+---doot---

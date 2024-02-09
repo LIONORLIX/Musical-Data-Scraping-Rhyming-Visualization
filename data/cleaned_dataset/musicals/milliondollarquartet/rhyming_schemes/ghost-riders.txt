@@ -1,0 +1,24 @@
+D EY1 
+W EY1 
+S AO1 
+D R AO1 
+S T IY1 L 
+F IY1 L 
+S K AY1 
+K R AY1 
+---ohhhhh---
+---yaaaaay---
+S K AY1 
+S W EH1 T 
+Y EH1 T 
+S K AY1 
+F AY1 ER0 
+K R AY1 
+N EY1 M 
+R EY1 N JH 
+R AY1 D 
+S K AY1 Z 
+---ohhhhh---
+---yaaaaay---
+S K AY1 
+S K AY1 

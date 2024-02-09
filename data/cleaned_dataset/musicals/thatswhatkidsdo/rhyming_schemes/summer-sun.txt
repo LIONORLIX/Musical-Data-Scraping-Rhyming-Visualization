@@ -1,0 +1,29 @@
+K UW1 L 
+Y UW1 L 
+D AW1 N 
+G R AW1 N D 
+---4x---
+B AO1 R D W AO2 K 
+T AO1 K 
+S AH1 N 
+B IY1 CH 
+R IY1 CH 
+S AH1 N 
+JH UW1 N 
+T UW1 N 
+M UW1 N 
+T UW1 
+---4x---
+K AA1 R N AH0 V AH0 L 
+EH2 N IY0 M AO1 R 
+S AH1 N 
+D EY1 
+B EY1 
+S AH1 N 
+P UW1 L 
+AE2 F T ER0 N UW1 N 
+S AH1 N 
+B AA1 R B IH0 K Y UW2 
+D UW1 
+S AH1 N 
+B L AA1 K 

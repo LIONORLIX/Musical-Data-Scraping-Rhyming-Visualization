@@ -1,0 +1,27 @@
+------ Enemy At Port Side ------
+--- MAJELLA ---
+Grania, Captain
+Things look bad
+We've English sailors
+Come on board!
+Donal, Ma'am
+The Man's a traitor
+Holy God!
+Protect us Lord!
+Donal, yes, your husband
+Wants us to surrender!
+--- GRACE ---
+Quickly now, I need my sword!
+--- MAJELLA ---
+No Grania. You can't; you can't move! You are too weak.
+--- GRACE ---
+I must go up there.
+--- MAJELLA ---
+No Grania you can't.
+--- GRACE ---
+Majella, give me my sword.
+--- MAJELLA ---
+No, you can't.
+--- GRACE ---
+Give me my sword.
+------ fin ------

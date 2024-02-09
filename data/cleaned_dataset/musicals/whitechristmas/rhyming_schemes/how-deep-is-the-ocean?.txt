@@ -1,0 +1,11 @@
+HH AA1 R T 
+P AA1 R T 
+Y UW1 
+D UW1 
+L AY1 
+S K AY1 
+Y UW1 
+D UW1 
+AA1 R 
+S T AA1 R 
+K R AY1 

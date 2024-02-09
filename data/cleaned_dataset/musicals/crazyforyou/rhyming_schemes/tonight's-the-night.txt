@@ -1,0 +1,11 @@
+F IY1 L IH0 NG 
+N AY1 T 
+S IY1 L IH0 NG 
+N AY1 T 
+AO1 F 
+F R IY1 
+AO1 F 
+T R IY1 
+CH AY1 L D 
+W AY1 L D 
+R AY1 T 

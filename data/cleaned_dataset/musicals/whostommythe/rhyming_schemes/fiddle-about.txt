@@ -1,0 +1,34 @@
+ER1 N IY0 
+M IY1 
+AH0 B AW1 T 
+AH0 B AW1 T 
+------
+Y UW1 
+T UW1 
+AH0 B AW1 T 
+AH0 B AW1 T 
+AH0 B AW1 T 
+---bedclothes---
+N AY1 CH ER2 T 
+AH0 B AW1 T 
+AH0 B AW1 T 
+------
+AH0 B AW1 T 
+AH0 B AW1 T 
+------
+AH0 B AW1 T 
+AH0 B AW1 T 
+AH0 B AW1 T 
+------
+AH0 B AW1 T 
+AH0 B AW1 T 
+------
+AH0 B AW1 T 
+AH0 B AW1 T 
+------
+AH0 B AW1 T 
+AH0 B AW1 T 
+------
+F IH1 D AH0 L 
+F IH1 D AH0 L 
+F IH1 D AH0 L 

@@ -1,0 +1,10 @@
+L AY1 T 
+L AY1 T 
+L AO1 NG 
+N AY1 T 
+L AY1 T 
+B IY1 M Z 
+D R IY1 M Z 
+R IY1 L 
+HH IY1 L 
+L AY1 T 

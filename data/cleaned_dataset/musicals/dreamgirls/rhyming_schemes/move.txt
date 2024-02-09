@@ -1,0 +1,55 @@
+M UW1 V 
+L AY1 F 
+M UW1 V 
+L AY1 F 
+M UW1 V 
+HH AA1 R T 
+M UW1 V 
+M UW1 V 
+HH AA1 R T 
+Y UW1 
+P AW1 ER0 
+UW1 
+F L AW1 ER0 
+G R AW1 N D 
+M UW1 V 
+L AY1 F 
+IH1 T 
+L AY1 F 
+M UW1 V 
+L AY1 F 
+IH1 T 
+L AY1 F 
+M UW1 V 
+L AY1 F 
+S AH0 T AE1 N IH0 K 
+UW1 
+---ohhhhh---
+D AW1 N 
+S T AY1 L 
+S T AY1 L 
+W AY1 L 
+W AY1 L 
+L AY1 F 
+B EY1 B IY0 
+L AY1 F 
+B EY1 B IY0 
+L AY1 F 
+L AY1 F 
+L AY1 F 
+S T R AY1 F 
+M UW1 V 
+M UW1 V 
+M UW1 V 
+M UW1 V 
+M UW1 V 
+L AY1 F 
+M UW1 V 
+B AE1 K G R AW2 N D 
+AA1 N 
+D IH0 L IH1 SH AH0 S 
+---defiantdreamettes---
+L UW1 Z 
+K AA1 N T EH0 S T 
+AE1 T 
+TH IY1 AH0 T ER0 

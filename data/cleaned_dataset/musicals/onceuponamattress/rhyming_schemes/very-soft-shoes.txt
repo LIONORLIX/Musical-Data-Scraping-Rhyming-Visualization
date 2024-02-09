@@ -1,0 +1,26 @@
+D AE1 N S 
+---1392---
+SH UW1 Z 
+SH UW1 Z 
+K UW1 L 
+F UW1 L 
+R IY0 V Y UW1 Z 
+K R EY1 Z IY0 
+D AW1 N 
+SH UW1 Z 
+JH EH1 S T ER0 Z 
+JH EH1 S T ER0 
+JH EH1 S T ER0 
+D AE1 N S 
+K R AW1 N 
+D AW1 N 
+D AE1 D IY0 
+D AE1 D IY0 
+HH IH1 Z 
+HH IH1 Z 
+V EH1 R IY0 
+V EH1 R IY0 
+S AA1 F T 
+---shhhhhhh---
+SH UW1 Z 
+L IY1 V 

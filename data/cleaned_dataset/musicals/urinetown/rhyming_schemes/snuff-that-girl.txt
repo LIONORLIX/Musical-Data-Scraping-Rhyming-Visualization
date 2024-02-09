@@ -1,0 +1,92 @@
+HH EH1 R IY0 
+HH AW1 
+IH0 N 
+AE1 Z 
+HH ER0 
+B EH1 T ER0 
+HH UW1 
+DH EH1 R 
+T AY1 D 
+HH EH1 R 
+P R AY1 D 
+IH0 N AH1 F 
+K ER1 L 
+T AH1 F 
+R AH1 F 
+G ER1 L 
+S AE1 L IY0 
+R AO1 NG 
+SH UW1 Z 
+R AY1 T 
+HH IY1 R 
+L AE1 M 
+F IH1 R 
+SH AE1 M 
+HH IY1 R 
+K W IH1 K 
+HH EH1 R IY0 
+B AH1 N CH 
+CH IH1 K 
+SH UW1 Z 
+SH UH1 D 
+B AE1 R IY0 
+G L AE1 D 
+SH UW1 Z 
+G UH1 D 
+HH EH1 R IY0 
+B AE1 D 
+B OW1 TH 
+K L OW1 S 
+T R IY1 
+AH0 
+S IY1 
+N AH1 T 
+S K W ER1 AH0 L 
+W IH1 N T ER0 
+G ER1 L 
+HH EH1 R IY0 
+B IH1 NG 
+T AA1 M 
+B IH1 NG 
+SH UW1 Z 
+B AE1 NG 
+S UW1 
+B AE1 NG 
+HH EH1 R IY0 
+B UW1 M 
+---stockfish---
+B UW1 M 
+B IH1 L 
+B UW1 M 
+HH EH1 R IY0 
+Y AE1 
+SH UW1 Z 
+S N AH1 F 
+B IH1 L 
+G ER1 L 
+SH UW1 Z 
+Y AE1 
+B IH1 L 
+G ER1 L 
+---stockfish---
+HH ER0 
+SH UW1 Z 
+G OW1 
+---stockfish---
+G ER1 L 
+SH UW1 Z 
+Y AE1 
+HH EH1 R IY0 
+G ER1 L 
+AO1 L 
+G ER1 L 
+EH1 N D 
+B EH1 T S 
+W ER1 L D 
+G EH1 T S 
+AH1 P 
+P ER1 L 
+---jumpin'---
+P IH1 M P IH0 NG 
+---jumpin---
+DH AE1 T 

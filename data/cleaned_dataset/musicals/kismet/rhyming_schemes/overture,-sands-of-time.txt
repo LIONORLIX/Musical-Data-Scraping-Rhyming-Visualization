@@ -1,0 +1,14 @@
+K AH1 M 
+G OW1 
+N OW1 
+S AE1 N D Z 
+G OW1 
+K AH1 M 
+N OW1 
+AA1 
+S AE1 N D Z 
+G OW1 
+K AH1 M 
+G OW1 
+N OW1 
+N OW1 
