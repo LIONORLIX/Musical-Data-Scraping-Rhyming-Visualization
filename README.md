@@ -1,12 +1,6 @@
 # Musical-Data-Scraping-Rhyming-Visualization
 
-Author: Xiang Li
-
-Student ID: 23009641
-
-This is the CCI_NLP_23_24 mini-project "Broadway Musical Lyrics Dataset Construction and Rhyming Schemes Visualization". Here is the link to the code repository:
-
-https://git.arts.ac.uk/23009641/Musical-Data-Scraping-Rhyming-Visualization
+This is the CCI_NLP_23_24 mini-project "Broadway Musical Lyrics Dataset Construction and Rhyming Schemes Visualization". 
 
 The project mainly includes 8 directories and a HTML file, referring to 4 parts of the code. 
 
